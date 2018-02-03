@@ -1,0 +1,410 @@
+Environment_Jungle  0
+{
+    randomFactor        22
+    
+    sound_1             "sounds/shaders/generic_54_monkey_chirp_12.ksnd"
+    sound_2             "sounds/shaders/generic_184.ksnd"
+    sound_3             "sounds/shaders/generic_183.ksnd"
+    sound_4             "sounds/shaders/bird_call_3.ksnd"
+    sound_5             "sounds/shaders/monkey_chip_scream_3.ksnd"
+    sound_6             "sounds/shaders/generic_183.ksnd"
+    sound_7             "sounds/shaders/generic_55_monkey_chirp_13.ksnd"
+    sound_8             "sounds/shaders/generic_30_bird_call_13.ksnd"
+    sound_9             "sounds/shaders/generic_55_monkey_chirp_13.ksnd"
+    sound_10            "sounds/shaders/bird_call_4.ksnd"
+    sound_11            "sounds/shaders/monkey_chip_scream_3.ksnd"
+    sound_12            "sounds/shaders/monkey_chip_scream_4.ksnd"
+    sound_13            "sounds/shaders/monkey_chip_scream_4.ksnd"
+    sound_14            "sounds/shaders/generic_54_monkey_chirp_12.ksnd"
+    sound_15            "sounds/shaders/generic_28_bird_call_11.ksnd"
+    sound_16            "sounds/shaders/generic_51_monkey_chirp_9.ksnd"
+    sound_17            "sounds/shaders/generic_56_monkey_chirp_14.ksnd"
+    sound_18            "sounds/shaders/generic_55_monkey_chirp_13.ksnd"
+    sound_19            "sounds/shaders/generic_49_monkey_chirp_7.ksnd"
+    sound_20            "sounds/shaders/generic_50_monkey_chirp_8.ksnd"
+    sound_21            "sounds/shaders/generic_51_monkey_chirp_9.ksnd"
+    sound_22            "sounds/shaders/generic_52_monkey_chirp_10.ksnd"
+    sound_23            "sounds/shaders/generic_53_monkey_chirp_11.ksnd"
+    sound_24            "sounds/shaders/generic_184.ksnd"
+}
+
+Environment_Swamp   1
+{
+    randomFactor        30
+    
+    sound_1             "sounds/shaders/bird_call_4.ksnd"
+    sound_2             "sounds/shaders/bird_call_5.ksnd"
+    sound_3             "sounds/shaders/bird_call_6.ksnd"
+    sound_4             "sounds/shaders/bird_call_7.ksnd"
+    sound_5             "sounds/shaders/generic_26_bird_call_9.ksnd"
+    sound_6             "sounds/shaders/generic_29_bird_call_12.ksnd"
+    sound_7             "sounds/shaders/generic_30_bird_call_13.ksnd"
+    sound_8             "sounds/shaders/generic_32_bird_call_15.ksnd"
+    sound_9             "sounds/shaders/generic_35_bird_call_18.ksnd"
+    sound_10            "sounds/shaders/generic_31_bird_call_14.ksnd"
+    sound_11            "sounds/shaders/generic_33_bird_call_16.ksnd"
+    sound_12            "sounds/shaders/generic_34_bird_call_17.ksnd"
+    sound_13            "sounds/shaders/cricket_chirp.ksnd"
+    sound_14            "sounds/shaders/cicaada_chirp.ksnd"
+    sound_15            "sounds/shaders/locust_chirp.ksnd"
+    sound_16            "sounds/shaders/cicaada_chirp.ksnd"
+    sound_17            "sounds/shaders/generic_54_monkey_chirp_12.ksnd"
+    sound_18            "sounds/shaders/generic_56_monkey_chirp_14.ksnd"
+    sound_19            "sounds/shaders/monkey_chip_scream_1.ksnd"
+    sound_20            "sounds/shaders/monkey_chip_scream_2.ksnd"
+    sound_21            "sounds/shaders/monkey_chip_scream_3.ksnd"
+    sound_22            "sounds/shaders/generic_53_monkey_chirp_11.ksnd"
+    sound_23            "sounds/shaders/generic_57_cricket_chirp_2.ksnd"
+    sound_24            "sounds/shaders/generic_58_locust_chirp_2.ksnd"
+}
+
+Environment_Cave   2
+{
+    randomFactor        15
+    reverbType          0
+    
+    sound_1             "sounds/shaders/generic_42_cave_wing_flutter_w__bat_1.ksnd"
+    sound_2             "sounds/shaders/generic_43_cave_wing_flutter_w__bat_2.ksnd"
+    sound_3             "sounds/shaders/generic_44_cave_wing_flutter_1.ksnd"
+    sound_4             "sounds/shaders/generic_45_cave_wing_flutter_2.ksnd"
+    sound_5             "sounds/shaders/generic_46_cave_wing_flutter_3.ksnd"
+    sound_6             "sounds/shaders/generic_59_cave_wing_flutter_4.ksnd"
+    sound_7             "sounds/shaders/generic_60_bat_screech_1.ksnd"
+    sound_8             "sounds/shaders/generic_61_bat_screech_2.ksnd"
+    sound_9             "sounds/shaders/ominous_cave_growl_1.ksnd"
+    sound_10            "sounds/shaders/ominous_cave_growl_2.ksnd"
+    sound_11            "sounds/shaders/ominous_cave_growl_1.ksnd"
+    sound_12            "sounds/shaders/ominous_cave_growl_2.ksnd"
+}
+
+Environment_Catcomb01   3
+{
+    randomFactor        13
+    reverbType          3
+    
+    sound_1             "sounds/shaders/ominous_cave_growl_1.ksnd"
+    sound_2             "sounds/shaders/ominous_cave_growl_2.ksnd"
+    //sound_3           "sounds/shaders/ghostly_catacomb_moan_1.ksnd"
+    sound_3             "sounds/shaders/generic_62_painful_moan_4.ksnd"
+    sound_4             "sounds/shaders/generic_63_catacomb_growl_1.ksnd"
+    sound_5             "sounds/shaders/generic_64_catacomb_growl_2.ksnd"
+    sound_6             "sounds/shaders/wind_blow_5.ksnd"
+    sound_7             "sounds/shaders/wind_blow_4.ksnd"
+    sound_8             "sounds/shaders/wind_blow_5.ksnd"
+    sound_9             "sounds/shaders/wind_blow_4.ksnd"
+    sound_10            "sounds/shaders/wind_blow_5.ksnd"
+    sound_11            "sounds/shaders/wind_blow_4.ksnd"
+    sound_12            "sounds/shaders/wind_blow_3.ksnd"
+    sound_13            "sounds/shaders/wind_blow_4.ksnd"
+    sound_14            "sounds/shaders/wind_blow_3.ksnd"
+    sound_15            "sounds/shaders/wind_blow_4.ksnd"
+    sound_16            "sounds/shaders/generic_63_catacomb_growl_1.ksnd"
+    sound_17            "sounds/shaders/generic_64_catacomb_growl_2.ksnd"
+}
+
+Environment_LostLand    4
+{
+    randomFactor        10
+    
+    sound_1             "sounds/shaders/thunder_roll_1.ksnd"
+    sound_2             "sounds/shaders/thunder_roll_2.ksnd"
+    sound_3             "sounds/shaders/thunder_roll_3.ksnd"
+    sound_4             "sounds/shaders/thunder_roll_4.ksnd"
+    sound_5             "sounds/shaders/wind_blow_3.ksnd"
+    sound_6             "sounds/shaders/wind_blow_4.ksnd"
+    sound_7             "sounds/shaders/wind_blow_3.ksnd"
+    sound_8             "sounds/shaders/wind_blow_4.ksnd"
+    sound_9             "sounds/shaders/generic_183.ksnd"
+    sound_10            "sounds/shaders/generic_183.ksnd"
+    sound_11            "sounds/shaders/generic_242.ksnd"
+    sound_12            "sounds/shaders/generic_183.ksnd"
+}
+
+Environment_Catcomb02   5
+{
+    randomFactor        5
+    reverbType          4
+    
+    sound_1             "sounds/shaders/generic_37_mettalic_moan_1.ksnd"
+    sound_2             "sounds/shaders/generic_38_mettalic_moan_2.ksnd"
+    sound_3             "sounds/shaders/generic_39_mettalic_moan_3.ksnd"
+    sound_4             "sounds/shaders/generic_40_mettalic_moan_4.ksnd"
+    sound_5             "sounds/shaders/generic_41_mettalic_moan_5.ksnd"
+}
+
+Environment_Catcomb03   6
+{
+    randomFactor        13
+    reverbType          3
+    
+    sound_1             "sounds/shaders/ominous_cave_growl_1.ksnd"
+    sound_2             "sounds/shaders/ominous_cave_growl_2.ksnd"
+    //sound_3           "sounds/shaders/ghostly_catacomb_moan_1.ksnd"
+    sound_3             "sounds/shaders/generic_62_painful_moan_4.ksnd"
+    sound_4             "sounds/shaders/generic_63_catacomb_growl_1.ksnd"
+    sound_5             "sounds/shaders/generic_64_catacomb_growl_2.ksnd"
+    sound_6             "sounds/shaders/wind_blow_5.ksnd"
+    sound_7             "sounds/shaders/wind_blow_4.ksnd"
+    sound_8             "sounds/shaders/wind_blow_5.ksnd"
+    sound_9             "sounds/shaders/wind_blow_4.ksnd"
+    sound_10            "sounds/shaders/wind_blow_5.ksnd"
+    sound_11            "sounds/shaders/wind_blow_4.ksnd"
+    sound_12            "sounds/shaders/wind_blow_3.ksnd"
+    sound_13            "sounds/shaders/wind_blow_4.ksnd"
+    sound_14            "sounds/shaders/wind_blow_3.ksnd"
+    sound_15            "sounds/shaders/wind_blow_4.ksnd"
+    sound_16            "sounds/shaders/generic_63_catacomb_growl_1.ksnd"
+    sound_17            "sounds/shaders/generic_64_catacomb_growl_2.ksnd"
+}
+
+Environment_Ruins   7
+{
+    randomFactor        8
+    
+    sound_1             "sounds/shaders/wind_blow_5.ksnd"
+    sound_2             "sounds/shaders/wind_blow_4.ksnd"
+    sound_3             "sounds/shaders/wind_blow_5.ksnd"
+    sound_4             "sounds/shaders/wind_blow_4.ksnd"
+    sound_5             "sounds/shaders/wind_blow_5.ksnd"
+    sound_6             "sounds/shaders/wind_blow_4.ksnd"
+    sound_7             "sounds/shaders/wind_blow_5.ksnd"
+    sound_8             "sounds/shaders/wind_blow_4.ksnd"
+    sound_9             "sounds/shaders/wind_blow_3.ksnd"
+    sound_10            "sounds/shaders/wind_blow_3.ksnd"
+    sound_11            "sounds/shaders/generic_184.ksnd"
+    sound_12            "sounds/shaders/generic_184.ksnd"
+    sound_13            "sounds/shaders/generic_64_catacomb_growl_2.ksnd"
+    sound_14            "sounds/shaders/generic_64_catacomb_growl_2.ksnd"
+}
+
+Environment_Valley  8
+{
+    randomFactor        8
+    
+    sound_1             "sounds/shaders/wind_blow_5.ksnd"
+    sound_2             "sounds/shaders/wind_blow_4.ksnd"
+    sound_3             "sounds/shaders/wind_blow_5.ksnd"
+    sound_4             "sounds/shaders/wind_blow_4.ksnd"
+    sound_5             "sounds/shaders/wind_blow_5.ksnd"
+    sound_6             "sounds/shaders/wind_blow_4.ksnd"
+    sound_7             "sounds/shaders/wind_blow_5.ksnd"
+    sound_8             "sounds/shaders/wind_blow_4.ksnd"
+    sound_9             "sounds/shaders/wind_blow_3.ksnd"
+    sound_10            "sounds/shaders/wind_blow_3.ksnd"
+    sound_11            "sounds/shaders/generic_242.ksnd"
+    sound_12            "sounds/shaders/generic_184.ksnd"
+}
+
+Environment_Village 9
+{
+    randomFactor        8
+    
+    sound_1             "sounds/shaders/generic_36_bird_call_19.ksnd"
+    sound_2             "sounds/shaders/thunder_roll_1.ksnd"
+    sound_3             "sounds/shaders/bird_call_2.ksnd"
+    sound_4             "sounds/shaders/thunder_roll_4.ksnd"
+    sound_5             "sounds/shaders/monkey_chip_scream_3.ksnd"
+    sound_6             "sounds/shaders/thunder_roll_2.ksnd"
+    sound_7             "sounds/shaders/generic_55_monkey_chirp_13.ksnd"
+    sound_8             "sounds/shaders/generic_30_bird_call_13.ksnd"
+    sound_9             "sounds/shaders/generic_31_bird_call_14.ksnd"
+    sound_10            "sounds/shaders/thunder_roll_3.ksnd"
+    sound_11            "sounds/shaders/monkey_chip_scream_3.ksnd"
+    sound_12            "sounds/shaders/monkey_chip_scream_4.ksnd"
+    sound_13            "sounds/shaders/monkey_chip_scream_4.ksnd"
+    sound_14            "sounds/shaders/generic_54_monkey_chirp_12.ksnd"
+    sound_15            "sounds/shaders/generic_28_bird_call_11.ksnd"
+    sound_16            "sounds/shaders/generic_51_monkey_chirp_9.ksnd"
+    sound_17            "sounds/shaders/generic_56_monkey_chirp_14.ksnd"
+    sound_18            "sounds/shaders/generic_55_monkey_chirp_13.ksnd"
+    sound_19            "sounds/shaders/generic_49_monkey_chirp_7.ksnd"
+    sound_20            "sounds/shaders/generic_50_monkey_chirp_8.ksnd"
+    sound_21            "sounds/shaders/thunder_roll_1.ksnd"
+    sound_22            "sounds/shaders/thunder_roll_2.ksnd"
+    sound_23            "sounds/shaders/thunder_roll_3.ksnd"
+    sound_24            "sounds/shaders/thunder_roll_4.ksnd"
+}
+
+Environment_Bridge 10
+{
+    randomFactor        8
+    
+    sound_1             "sounds/shaders/wind_blow_5.ksnd"
+    sound_2             "sounds/shaders/wind_blow_4.ksnd"
+    sound_3             "sounds/shaders/wind_blow_5.ksnd"
+    sound_4             "sounds/shaders/wind_blow_4.ksnd"
+    sound_5             "sounds/shaders/wind_blow_5.ksnd"
+    sound_6             "sounds/shaders/wind_blow_4.ksnd"
+    sound_7             "sounds/shaders/wind_blow_5.ksnd"
+    sound_8             "sounds/shaders/wind_blow_4.ksnd"
+    sound_9             "sounds/shaders/wind_blow_3.ksnd"
+    sound_10            "sounds/shaders/wind_blow_3.ksnd"
+}
+
+Environment_Bridge2 11
+{
+    randomFactor        8
+    
+    sound_1             "sounds/shaders/wind_blow_5.ksnd"
+    sound_2             "sounds/shaders/ROPEBRIDGE.ksnd"
+    sound_3             "sounds/shaders/wind_blow_4.ksnd"
+    sound_4             "sounds/shaders/wind_blow_5.ksnd"
+    sound_5             "sounds/shaders/ROPEBRIDGE.ksnd"
+    sound_6             "sounds/shaders/wind_blow_4.ksnd"
+    sound_7             "sounds/shaders/wind_blow_5.ksnd"
+    sound_8             "sounds/shaders/wind_blow_4.ksnd"
+    sound_9             "sounds/shaders/ROPEBRIDGE.ksnd"
+    sound_10            "sounds/shaders/wind_blow_5.ksnd"
+    sound_11            "sounds/shaders/wind_blow_4.ksnd"
+    sound_12            "sounds/shaders/wind_blow_3.ksnd"
+    sound_13            "sounds/shaders/wind_blow_3.ksnd"
+    sound_14            "sounds/shaders/ROPEBRIDGE.ksnd"
+}
+
+Environment_Sauna 12
+{
+    randomFactor        1
+    
+    sound_1             "sounds/shaders/quadcity1.ksnd"
+    sound_2             "sounds/shaders/quadcity2.ksnd"
+    sound_3             "sounds/shaders/quadcity3.ksnd"
+    sound_4             "sounds/shaders/quadcity4.ksnd"
+    sound_5             "sounds/shaders/quadcity5.ksnd"
+    sound_6             "sounds/shaders/quadcity6.ksnd"
+    sound_7             "sounds/shaders/quadcity7.ksnd"
+    sound_8             "sounds/shaders/quadcity8.ksnd"
+    sound_9             "sounds/shaders/quadcity9.ksnd"
+    sound_10            "sounds/shaders/quadcity10.ksnd"
+    sound_11             "sounds/shaders/quadcity11.ksnd"
+    sound_12             "sounds/shaders/quadcity12.ksnd"
+    sound_13             "sounds/shaders/quadcity13.ksnd"
+    sound_14             "sounds/shaders/quadcity14.ksnd"
+    sound_15             "sounds/shaders/quadcity15.ksnd"
+    sound_16             "sounds/shaders/quadcity16.ksnd"
+    sound_17             "sounds/shaders/quadcity17.ksnd"
+    sound_18             "sounds/shaders/quadcity18.ksnd"
+    sound_19             "sounds/shaders/quadcity19.ksnd"
+    sound_20             "sounds/shaders/quadcity20.ksnd"
+    sound_21             "sounds/shaders/quadcity21.ksnd"
+    sound_22             "sounds/shaders/quadcity22.ksnd"
+    sound_23             "sounds/shaders/quadcity23.ksnd"
+    sound_24             "sounds/shaders/quadcity24.ksnd"
+    sound_25             "sounds/shaders/quadcity25.ksnd"
+    sound_26             "sounds/shaders/quadcity26.ksnd"
+    sound_27             "sounds/shaders/quadcity27.ksnd"
+    sound_28             "sounds/shaders/quadcity28.ksnd"
+    sound_29             "sounds/shaders/quadcity29.ksnd"
+    sound_30             "sounds/shaders/quadcity30.ksnd"
+    sound_31             "sounds/shaders/quadcity31.ksnd"
+    sound_32             "sounds/shaders/quadcity32.ksnd"
+    sound_33             "sounds/shaders/quadcity33.ksnd"
+    sound_34             "sounds/shaders/quadcity34.ksnd"
+    sound_35             "sounds/shaders/quadcity35.ksnd"
+    sound_36             "sounds/shaders/quadcity36.ksnd"
+    sound_37             "sounds/shaders/quadcity37.ksnd"
+    sound_38             "sounds/shaders/quadcity38.ksnd"
+    sound_39             "sounds/shaders/quadcity39.ksnd"
+    sound_40             "sounds/shaders/quadcity40.ksnd"
+    sound_41             "sounds/shaders/quadcity41.ksnd"
+    sound_42             "sounds/shaders/quadcity42.ksnd"
+    sound_43             "sounds/shaders/quadcity43.ksnd"
+    sound_44             "sounds/shaders/quadcity44.ksnd"
+    sound_45             "sounds/shaders/quadcity45.ksnd"
+    sound_46             "sounds/shaders/quadcity46.ksnd"
+    sound_47             "sounds/shaders/quadcity47.ksnd"
+    sound_48             "sounds/shaders/quadcity48.ksnd"
+    sound_49             "sounds/shaders/quadcity49.ksnd"
+    sound_50             "sounds/shaders/quadcity50.ksnd"
+    sound_51             "sounds/shaders/quadcity51.ksnd"
+    sound_52             "sounds/shaders/quadcity52.ksnd"
+    sound_53             "sounds/shaders/quadcity53.ksnd"
+    sound_54             "sounds/shaders/quadcity54.ksnd"
+    sound_55             "sounds/shaders/quadcity55.ksnd"
+    sound_56             "sounds/shaders/quadcity56.ksnd"
+    sound_57             "sounds/shaders/quadcity57.ksnd"
+    sound_58             "sounds/shaders/quadcity58.ksnd"
+    sound_59             "sounds/shaders/quadcity59.ksnd"
+    sound_60             "sounds/shaders/quadcity60.ksnd"
+    sound_61             "sounds/shaders/quadcity61.ksnd"
+    sound_62             "sounds/shaders/quadcity62.ksnd"
+    sound_63             "sounds/shaders/quadcity63.ksnd"
+    sound_64             "sounds/shaders/quadcity64.ksnd"
+    sound_65             "sounds/shaders/quadcity65.ksnd"
+    sound_66             "sounds/shaders/quadcity66.ksnd"
+    sound_67             "sounds/shaders/quadcity67.ksnd"
+    sound_68             "sounds/shaders/quadcity68.ksnd"
+    sound_69             "sounds/shaders/quadcity69.ksnd"
+    sound_70             "sounds/shaders/quadcity70.ksnd"
+    sound_71             "sounds/shaders/quadcity71.ksnd"
+    sound_72             "sounds/shaders/quadcity72.ksnd"
+    sound_73             "sounds/shaders/quadcity73.ksnd"
+    sound_74             "sounds/shaders/quadcity74.ksnd"
+    sound_75             "sounds/shaders/quadcity75.ksnd"
+    sound_76             "sounds/shaders/quadcity76.ksnd"
+    sound_77             "sounds/shaders/quadcity77.ksnd"
+    sound_78             "sounds/shaders/quadcity78.ksnd"
+    sound_79             "sounds/shaders/quadcity79.ksnd"
+    sound_80             "sounds/shaders/quadcity80.ksnd"
+    sound_81             "sounds/shaders/quadcity81.ksnd"
+    sound_82             "sounds/shaders/quadcity82.ksnd"
+    sound_83             "sounds/shaders/quadcity83.ksnd"
+    sound_84             "sounds/shaders/quadcity84.ksnd"
+    sound_85             "sounds/shaders/quadcity85.ksnd"
+    sound_86             "sounds/shaders/quadcity86.ksnd"
+    sound_87             "sounds/shaders/quadcity87.ksnd"
+    sound_88             "sounds/shaders/quadcity88.ksnd"
+    sound_89             "sounds/shaders/quadcity89.ksnd"
+    sound_90             "sounds/shaders/quadcity90.ksnd"
+    sound_91             "sounds/shaders/quadcity91.ksnd"
+    sound_92             "sounds/shaders/quadcity92.ksnd"
+    sound_93             "sounds/shaders/quadcity93.ksnd"
+    sound_94             "sounds/shaders/quadcity94.ksnd"
+    sound_95             "sounds/shaders/quadcity95.ksnd"
+    sound_96             "sounds/shaders/quadcity96.ksnd"
+    sound_97             "sounds/shaders/quadcity97.ksnd"
+    sound_98             "sounds/shaders/quadcity98.ksnd"
+    sound_99             "sounds/shaders/quadcity99.ksnd"
+    sound_100             "sounds/shaders/quadcity100.ksnd"
+    sound_101             "sounds/shaders/quadcity101.ksnd"
+    sound_102             "sounds/shaders/quadcity102.ksnd"
+    sound_103             "sounds/shaders/quadcity103.ksnd"
+    sound_104             "sounds/shaders/quadcity104.ksnd"
+    sound_105             "sounds/shaders/quadcity105.ksnd"
+    sound_106             "sounds/shaders/quadcity106.ksnd"
+    sound_107             "sounds/shaders/quadcity107.ksnd"
+    sound_108             "sounds/shaders/quadcity108.ksnd"
+    sound_109             "sounds/shaders/quadcity109.ksnd"
+    sound_110             "sounds/shaders/quadcity110.ksnd"
+    sound_111             "sounds/shaders/quadcity111.ksnd"
+    sound_112             "sounds/shaders/quadcity112.ksnd"
+    sound_113             "sounds/shaders/quadcity113.ksnd"
+    sound_114             "sounds/shaders/quadcity114.ksnd"
+    sound_115             "sounds/shaders/quadcity115.ksnd"
+    sound_116             "sounds/shaders/quadcity116.ksnd"
+    sound_117             "sounds/shaders/quadcity117.ksnd"
+    sound_118             "sounds/shaders/quadcity118.ksnd"
+    sound_119             "sounds/shaders/quadcity119.ksnd"
+    sound_120             "sounds/shaders/quadcity120.ksnd"
+    sound_121             "sounds/shaders/quadcity121.ksnd"
+    sound_122             "sounds/shaders/quadcity122.ksnd"
+    sound_123             "sounds/shaders/quadcity123.ksnd"
+    sound_124             "sounds/shaders/quadcity124.ksnd"
+    sound_125             "sounds/shaders/quadcity125.ksnd"
+    sound_126             "sounds/shaders/quadcity126.ksnd"
+    sound_127             "sounds/shaders/quadcity127.ksnd"
+    sound_128             "sounds/shaders/quadcity128.ksnd"
+    sound_129             "sounds/shaders/quadcity129.ksnd"
+    sound_130             "sounds/shaders/quadcity130.ksnd"
+    sound_131             "sounds/shaders/quadcity131.ksnd"
+    sound_132             "sounds/shaders/quadcity132.ksnd"
+    sound_133             "sounds/shaders/quadcity133.ksnd"
+    sound_134             "sounds/shaders/quadcity134.ksnd"
+    sound_135             "sounds/shaders/quadcity135.ksnd"
+    sound_136             "sounds/shaders/quadcity136.ksnd"
+    sound_137             "sounds/shaders/quadcity137.ksnd"
+    sound_138             "sounds/shaders/quadcity138.ksnd"
+    sound_139             "sounds/shaders/quadcity139.ksnd"
+    sound_140             "sounds/shaders/quadcity140.ksnd"
+    sound_141             "sounds/shaders/quadcity141.ksnd"
+    sound_142             "sounds/shaders/quadcity142.ksnd"
+}

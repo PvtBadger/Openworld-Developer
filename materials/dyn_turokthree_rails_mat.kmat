@@ -1,0 +1,8 @@
+material material_19
+{    	shader "progs/world"
+	sort default
+	cull back
+	depthtest
+	color_diffuse "1.000000 1.000000 1.000000 1.000000"
+	sampler "diffuse" 0 "textures\df6d421c.png" {	filter      linear   	wrap        repeat  	}}
+

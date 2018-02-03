@@ -1,0 +1,508 @@
+//-----------------------------------------------------------------------------
+//
+// Dinosaurs
+//
+//-----------------------------------------------------------------------------
+
+Monster_Raptor_Common 1
+{
+    classname                   "kexAI"
+    gravity                     0.5
+    health                      50
+    friction                    0.5
+    radius                      51.2
+    height                      76.288
+    stepHeight                  25.6
+    impactType                  4
+    flags.alignToFloor          1
+    flags.seeTargetInWater      1
+    flags.allowTinyEnemyCheat   1
+    clipFlag.edges              1
+    clipFlag.noEnterWater       1
+    clipFlag.collideFloors      1
+    clipFlag.collideHeight      1
+    clipFlag.greaseSlideObjects 1
+    clipFlag.useWallRadius      1
+    ai.meleeRange               143.36
+    ai.attackRange              204.8
+    ai.attackChance             100
+    ai.activeDistance           1536.0
+    ai.desiredYawSpeed          1.0
+    ai.discoDances              1
+    footStepSound               "FootStep_Raptor"
+    headTrackDefinition         "HeadTrack_Raptor"
+    scriptClass                 "TurokRaptor"
+    defaultEditorModel          "models/dyn_monster_raptor.bin"
+    defaultEditorAnim           "anims/dyn_monster_raptor_anim.bin"
+}
+
+Monster_Dimetrodon_Common 4
+{
+    classname                   "kexAI"
+    gravity                     0.5
+    health                      50
+    friction                    0.5
+    radius                      51.2
+    height                      76.288
+    stepHeight                  25.6
+    impactType                  4
+    flags.alignToFloor          1
+    flags.seeTargetInWater      1
+    flags.allowTinyEnemyCheat   1
+    clipFlag.edges              1
+    clipFlag.noEnterWater       1
+    clipFlag.collideFloors      1
+    clipFlag.collideHeight      1
+    clipFlag.greaseSlideObjects 1
+    clipFlag.useWallRadius      1
+    ai.meleeRange               143.36
+    ai.attackRange              204.8
+    ai.attackChance             100
+    ai.activeDistance           1536.0
+    ai.desiredYawSpeed          1.0
+    ai.spanWidth                1.5
+    ai.noKnockBack              1
+    ai.noSharpTurning           1
+    ai.discoDances              1
+    footStepSound               "FootStep_Dimetrodon"
+    scriptClass                 "TurokDimetrodon"
+    defaultEditorModel          "models/dyn_monster_dinosaur01.bin"
+    defaultEditorAnim           "anims/dyn_monster_dinosaur01_anim.bin"
+}
+
+Monster_Rider 5
+{
+    classname                   "kexAI"
+    gravity                     0.5
+    health                      1000
+    friction                    0.5
+    radius                      112.64
+    height                      102.4
+    stepHeight                  51.2
+    impactType                  4
+    flags.allowTinyEnemyCheat   1
+    clipFlag.edges              1
+    clipFlag.noEnterWater       0
+    clipFlag.collideFloors      1
+    clipFlag.collideHeight      1
+    clipFlag.greaseSlideObjects 1
+    clipFlag.useWallRadius      1
+    ai.meleeRange               184.32
+    ai.attackRange              1024
+    ai.attackChance             100
+    ai.activeDistance           1536.0
+    ai.sightFOV                 90.0
+    ai.desiredYawSpeed          1.0
+    ai.spanWidth                1.5
+    ai.noKnockBack              1
+    ai.noSharpTurning           1
+    ai.discoDances              1
+    footStepSound               "FootStep_Rider"
+    scriptClass                 "TurokRider"
+    defaultEditorModel          "models/dyn_monster_rider.bin"
+    defaultEditorAnim           "anims/dyn_monster_rider_anim.bin"
+}
+
+//-----------------------------------------------------------------------------
+//
+// Monsters
+//
+//-----------------------------------------------------------------------------
+
+Monster_Purlin 11
+{
+    classname                   "kexAI"
+    gravity                     0.5
+    health                      150
+    friction                    0.5
+    radius                      71.68
+    height                      87.04
+    stepHeight                  46.08
+    impactType                  4
+    flags.alignToFloor          1
+    flags.seeTargetInWater      1
+    flags.allowTinyEnemyCheat   1
+    clipFlag.edges              1
+    clipFlag.noEnterWater       1
+    clipFlag.collideFloors      1
+    clipFlag.collideHeight      1
+    clipFlag.greaseSlideObjects 1
+    clipFlag.useWallRadius      1
+    ai.meleeRange               184.32
+    ai.attackRange              1024
+    ai.attackChance             100
+    ai.activeDistance           1536.0
+    ai.sightFOV                 90.0
+    ai.desiredYawSpeed          0.25
+    ai.spanWidth                1.5
+    ai.noKnockBack              1
+    ai.discoDances              1
+    footStepSound               "FootStep_Purlin"
+    headTrackDefinition         "HeadTrack_Purlin"
+    scriptClass                 "TurokPurlin"
+    defaultEditorModel          "models/dyn_monster_purlin01.bin"
+    defaultEditorAnim           "anims/dyn_monster_purlin01_anim.bin"
+}
+
+Monster_Stalker 9
+{
+    classname                   "kexAI"
+    gravity                     0.5
+    health                      10
+    friction                    0.5
+    radius                      30.72
+    height                      71.68
+    stepHeight                  30.72
+    impactType                  5
+    flags.alignToFloor          1
+    flags.seeTargetInWater      1
+    flags.allowTinyEnemyCheat   1
+    clipFlag.edges              1
+    clipFlag.collideFloors      1
+    clipFlag.collideHeight      1
+    clipFlag.greaseSlideObjects 1
+    clipFlag.useWallRadius      1
+    ai.meleeRange               122.88
+    ai.attackRange              1024
+    ai.attackChance             100
+    ai.activeDistance           2048.0
+    ai.sightFOV                 90.0
+    ai.desiredYawSpeed          1.0
+    ai.spanWidth                1.5
+    ai.chaseInWater             1
+    ai.discoDances              1
+    ai.drawDistanceFactor       0.5
+    headTrackDefinition         "HeadTrack_Stalker"
+    scriptClass                 "TurokStalker"
+    defaultEditorModel          "models/dyn_monster_stalker.bin"
+    defaultEditorAnim           "anims/dyn_monster_stalker_anim.bin"
+}
+
+Monster_Alien 10
+{
+    classname                   "kexAI"
+    gravity                     0.5
+    health                      60
+    friction                    0.5
+    radius                      27.136
+    height                      47.616
+    stepHeight                  25.6
+    impactType                  5
+    footStepSound               "FootStep_Common"
+    flags.alignToFloor          1
+    flags.seeTargetInWater      1
+    flags.allowTinyEnemyCheat   1
+    clipFlag.edges              1
+    clipFlag.collideFloors      1
+    clipFlag.collideHeight      1
+    clipFlag.greaseSlideObjects 1
+    clipFlag.useWallRadius      1
+    ai.desiredYawSpeed          1.0
+    ai.meleeRange               102.4
+    ai.attackRange              1024
+    ai.attackChance             100
+    ai.activeDistance           1536.0
+    ai.sightFOV                 150.0
+    ai.spanWidth                1.5
+    ai.discoDances              1
+    headTrackDefinition         "HeadTrack_Alien"
+    scriptClass                 "TurokAlien"
+    defaultEditorModel          "models/dyn_monster_alien01.bin"
+    defaultEditorAnim           "anims/dyn_monster_alien01_anim.bin"
+}
+
+Monster_KillerPlant 16
+{
+    classname                   "kexAI"
+    gravity                     1.0
+    health                      100
+    friction                    1.0
+    radius                      102.4
+    height                      71.68
+    stepHeight                  30.72
+    impactType                  5
+    clipFlag.edges              1
+    clipFlag.noEnterWater       1
+    flags.allowTinyEnemyCheat   1
+    flags.noMovement            1
+    ai.meleeRange               122.88
+    ai.attackRange              614.4
+    ai.attackChance             100
+    ai.activeDistance           1536.0
+    ai.sightFOV                 90.0
+    ai.desiredYawSpeed          1.0
+    scriptClass                 "TurokEnemy"
+    defaultEditorModel          "models/dyn_monster_killer_plant.bin"
+    defaultEditorAnim           "anims/dyn_monster_killer_plant_anim.bin"
+}
+
+//-----------------------------------------------------------------------------
+//
+// Burrowing Monsters
+//
+//-----------------------------------------------------------------------------
+
+Monster_Sandworm 8
+{
+    classname                   "kexAI"
+    gravity                     0.5
+    health                      125
+    friction                    0.5
+    radius                      122.88
+    height                      114.45
+    stepHeight                  57.225
+    impactType                  5
+    clipFlag.edges              1
+    clipFlag.noEnterWater       1
+    clipFlag.collideFloors      1
+    clipFlag.collideHeight      1
+    flags.allowTinyEnemyCheat   1
+    ai.meleeRange               204.8
+    ai.attackRange              512
+    ai.attackChance             100
+    ai.activeDistance           1536.0
+    ai.sightFOV                 90.0
+    ai.desiredYawSpeed          1.0
+    ai.spanWidth                1.5
+    ai.noKnockBack              1
+    ai.teleport                 1
+    ai.teleportMove             1
+    scriptClass                 "TurokSandWorm"
+    defaultEditorModel          "models/dyn_monster_sandworm.bin"
+    defaultEditorAnim           "anims/dyn_monster_sandworm_anim.bin"
+}
+
+Monster_SewerCrab 15
+{
+    classname                   "kexAI"
+    gravity                     0.5
+    health                      100
+    friction                    0.5
+    radius                      51.2
+    height                      71.68
+    stepHeight                  30.72
+    impactType                  5
+    flags.seeTargetInWater      1
+    clipFlag.edges              1
+    clipFlag.noExitWater        1
+    clipFlag.collideFloors      1
+    clipFlag.collideHeight      1
+    clipFlag.useWallRadius      1
+    flags.allowTinyEnemyCheat   1
+    ai.meleeRange               256.0
+    ai.attackRange              614.4
+    ai.attackChance             100
+    ai.activeDistance           1536.0
+    ai.sightFOV                 140.0
+    ai.desiredYawSpeed          1.0
+    ai.spanWidth                1.5
+    ai.noKnockBack              1
+    ai.teleport                 1
+    ai.teleportMove             1
+    scriptClass                 "TurokSewerCrab"
+    defaultEditorModel          "models/dyn_monster_crab.bin"
+    defaultEditorAnim           "anims/dyn_monster_crab_anim.bin"
+}
+
+
+//-----------------------------------------------------------------------------
+//
+// Insects
+//
+//-----------------------------------------------------------------------------
+
+Monster_Insect_Beetle 21
+{
+    classname                   "kexAI"
+    gravity                     0.5
+    health                      10
+    friction                    0.5
+    radius                      35.84
+    height                      30.72
+    stepHeight                  40.96
+    impactType                  5
+    flags.alignToFloor          1
+    flags.allowTinyEnemyCheat   1
+    clipFlag.edges              1
+    clipFlag.noEnterWater       1
+    clipFlag.collideFloors      0
+    clipFlag.collideHeight      1
+    clipFlag.walkWalls          1
+    clipFlag.allowClimb         1
+    clipFlag.dropOff            1
+    clipFlag.noStepDown         1
+    clipFlag.allowCrawl         1
+    clipFlag.useWallRadius      1
+    ai.meleeRange               51.2
+    ai.attackRange              71.68
+    ai.attackChance             100
+    ai.activeDistance           2048.0
+    ai.sightFOV                 90.0
+    ai.desiredYawSpeed          2.5
+    ai.spanWidth                1.5
+    ai.drawDistanceFactor       0.25
+    scriptClass                 "TurokInsect"
+    defaultEditorModel          "models/dyn_monster_beetle.bin"
+    defaultEditorAnim           "anims/dyn_monster_beetle_anim.bin"
+}
+
+Monster_Insect_DragonFly 25
+{
+    classname                   "kexAI"
+    gravity                     0.5
+    health                      10
+    friction                    0.35
+    radius                      35.84
+    height                      30.72
+    stepHeight                  10.24
+    impactType                  5
+    animSpeed                   6.0
+    clipFlag.edges              1
+    clipFlag.noEnterWater       1
+    clipFlag.collideFloors      0
+    clipFlag.collideHeight      1
+    clipFlag.walkWalls          1
+    clipFlag.allowClimb         1
+    clipFlag.dropOff            1
+    clipFlag.useWallRadius      1
+    flags.allowTinyEnemyCheat   1
+    ai.meleeRange               51.2
+    ai.attackRange              71.68
+    ai.attackChance             100
+    ai.activeDistance           2048.0
+    ai.sightFOV                 90.0
+    ai.desiredYawSpeed          2.5
+    ai.spanWidth                1.5
+    scriptClass                 "TurokInsect"
+    defaultEditorModel          "models/dyn_monster_insect_flying01.bin"
+    defaultEditorAnim           "anims/dyn_monster_insect_flying01_anim.bin"
+}
+
+//-----------------------------------------------------------------------------
+//
+// Mechanicals
+//
+//-----------------------------------------------------------------------------
+
+Monster_Mech_Sentry 12
+{
+    classname                   "kexAI"
+    gravity                     0.5
+    health                      150
+    friction                    0.5
+    radius                      61.44
+    height                      92.16
+    stepHeight                  40.96
+    impactType                  2
+    footStepSound               "FootStep_Robot"
+    flags.alignToFloor          1
+    flags.seeTargetInWater      1
+    flags.allowTinyEnemyCheat   1
+    clipFlag.edges              1
+    clipFlag.noEnterWater       1
+    clipFlag.collideFloors      1
+    clipFlag.collideHeight      1
+    clipFlag.useWallRadius      1
+    ai.meleeRange               122.88
+    ai.attackRange              1024.0
+    ai.attackChance             100
+    ai.activeDistance           1536.0
+    ai.desiredYawSpeed          1.0
+    ai.sightFOV                 140.0
+    ai.spanWidth                1.5
+    ai.noKnockBack              1
+    ai.discoDances              1
+    scriptClass                 "TurokSentry"
+    defaultEditorModel          "models/dyn_monster_mech.bin"
+    defaultEditorAnim           "anims/dyn_monster_mech_anim.bin"
+}
+
+Monster_Mech_Turret 2001
+{
+    classname                   "kexAI"
+    gravity                     0.0
+    health                      150
+    friction                    0.5
+    radius                      60.423374
+    height                      102.4
+    stepHeight                  30.72
+    impactType                  2
+    flags.seeTargetInWater      1
+    flags.allowTinyEnemyCheat   1
+    flags.noMovement            1
+    clipFlag.edges              1
+    clipFlag.noEnterWater       1
+    ai.meleeRange               122.88
+    ai.attackRange              1433.6
+    ai.attackChance             100
+    ai.activeDistance           1536.0
+    ai.sightFOV                 140.0
+    ai.desiredYawSpeed          1.0
+    scriptClass                 "TurokTurret"
+    defaultEditorModel          "models/dyn_monster_turret.bin"
+    defaultEditorAnim           "anims/dyn_monster_turret_anim.bin"
+}
+
+Monster_TerrorRaptor 2002
+{
+    classname                   "kexAI"
+    gravity                     0.5
+    health                      50
+    friction                    0.5
+    radius                      51.2
+    height                      76.288
+    stepHeight                  25.6
+    impactType                  4
+    flags.alignToFloor          1
+    flags.seeTargetInWater      1
+    flags.allowTinyEnemyCheat   1
+    clipFlag.edges              1
+    clipFlag.noEnterWater       1
+    clipFlag.collideFloors      1
+    clipFlag.collideHeight      1
+    clipFlag.greaseSlideObjects 1
+    clipFlag.useWallRadius      1
+    ai.meleeRange               143.36
+    ai.attackRange              204.8
+    ai.attackChance             100
+    ai.activeDistance           1536.0
+    ai.desiredYawSpeed          1.0
+    ai.discoDances              1
+    footStepSound               "FootStep_TerrorRaptor"
+    headTrackDefinition         "HeadTrack_Raptor"
+    scriptClass                 "TurokTerrorRaptor"
+    defaultEditorModel          "models/dyn_monster_raptor_terror.bin"
+    defaultEditorAnim           "anims/dyn_monster_raptor_anim.bin"
+}
+
+Monster_FireRaptor 2003
+{
+    classname                   "kexAI"
+    gravity                     0.5
+    health                      50
+    friction                    0.5
+    radius                      51.2
+    height                      76.288
+    stepHeight                  25.6
+    impactType                  4
+    flags.alignToFloor          1
+    flags.seeTargetInWater      1
+    flags.allowTinyEnemyCheat   1
+    clipFlag.edges              1
+    clipFlag.noEnterWater       1
+    clipFlag.collideFloors      1
+    clipFlag.collideHeight      1
+    clipFlag.greaseSlideObjects 1
+    clipFlag.useWallRadius      1
+    ai.meleeRange               143.36
+    ai.attackRange              204.8
+    ai.attackChance             100
+    ai.activeDistance           1536.0
+    ai.desiredYawSpeed          1.0
+    ai.discoDances              1
+    footStepSound               "FootStep_Raptor"
+    headTrackDefinition         "HeadTrack_Raptor"
+    scriptClass                 "TurokFireRaptor"
+    defaultEditorModel          "models/dyn_monster_raptor_fire.bin"
+    defaultEditorAnim           "anims/dyn_monster_raptor_anim.bin"
+}

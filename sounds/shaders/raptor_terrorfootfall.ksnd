@@ -1,0 +1,36 @@
+sounds[1] =
+{
+    {
+        wavefile = "sounds/waves/terrorstep.wav"
+        bOneInstancePerSource = 0
+        bLoop = 0
+        bEnableVolumeEnvelope = 1
+        bEnablePitchEnvelope = 0
+        bFadeIfObstructed = 0
+        bUpdateNoEnvelope = 0
+        bLinkToEnvelope = 0
+        bFullVolume = 0
+        delay = 0
+        priority = 20
+        random = 1.000000
+        radioVolume = 2
+        volume_envelope =
+        {
+            max = 0.382813
+            start = 1.000000
+            end = 0.000000
+            duration = 60
+            envStartTime = 18
+        }
+
+        pitch_envelope =
+        {
+            max = 0.966000
+            start = 2.000000
+            end = 2.000000
+            duration = 60
+            envStartTime = 0
+        }
+    }
+}
+

@@ -1,0 +1,191 @@
+#include "scripts/common.txt"
+
+final class TurokFireRaptor : TurokEnemy
+{
+    TurokFireRaptor(kActor @actor)
+    {
+        super(actor);
+    }
+    
+    /*
+    ==============================================================
+    FireRaptorMissile
+    ==============================================================
+    */
+    
+    void FireRaptorMissile(kActor @instigator, const float w, const float x, const float y, const float z)
+    {
+        if(self.GetTarget() is null)
+        {
+            return;
+        }
+        
+        self.SpawnFx("fx/spellcast.kfx", kVec3(x, y, z));
+    }
+    
+    /*
+    ==============================================================
+    OnActivate
+    ==============================================================
+    */
+    
+    void OnActivate(void)
+    {
+        self.PlaySound("sounds/shaders/terrorraptor_lunge.ksnd");
+    }
+    
+    /*
+    ==============================================================
+    DeathSound
+    ==============================================================
+    */
+    
+    void DeathSound(kActor @instigator, const float w, const float x, const float y, const float z)
+    {
+        self.PlaySound("sounds/shaders/raptor_death.ksnd");
+    }
+    
+    /*
+    ==============================================================
+    InjurySound
+    ==============================================================
+    */
+    
+    void InjurySound(kActor @instigator, const float w, const float x, const float y, const float z)
+    {
+        self.PlaySound("sounds/shaders/raptor_injury.ksnd");
+    }
+    
+    /*
+    ==============================================================
+    ViolentSound
+    ==============================================================
+    */
+    
+    void ViolentSound(kActor @instigator, const float w, const float x, const float y, const float z)
+    {
+        self.PlaySound("sounds/shaders/raptor_violent_death.ksnd");
+    }
+	
+	/*
+    ==============================================================
+    MeleeVeryWimpy
+    ==============================================================
+    */
+
+	void MeleeVeryWimpy(kActor @instigator, const float w, const float x, const float y, const float z)
+    {
+        self.MeleeObject("terrorraptor_attack", kVec3(x, y, z), w);
+    }
+    
+    /*
+    ==============================================================
+    MeleeBluntWeak
+    ==============================================================
+    */
+    
+    void MeleeBluntWeak(kActor @instigator, const float w, const float x, const float y, const float z)
+    {
+        self.MeleeObject("terrorraptor_attack", kVec3(x, y, z), w);
+    }
+    
+    /*
+    ==============================================================
+    MeleeBluntMedium
+    ==============================================================
+    */
+    
+    void MeleeBluntMedium(kActor @instigator, const float w, const float x, const float y, const float z)
+    {
+        self.MeleeObject("terrorraptor_attack", kVec3(x, y, z), w);
+    }
+    
+    /*
+    ==============================================================
+    MeleeAttack1
+    ==============================================================
+    */
+    
+    void MeleeAttack1(kActor @instigator, const float w, const float x, const float y, const float z)
+    {
+        self.MeleeObject("terrorraptor_attack", kVec3(x, y, z), w);
+    }
+    
+    /*
+    ==============================================================
+    MeleeAttack2
+    ==============================================================
+    */
+    
+    void MeleeAttack2(kActor @instigator, const float w, const float x, const float y, const float z)
+    {
+        self.MeleeObject("terrorraptor_attack", kVec3(x, y, z), w);
+    }
+    
+    /*
+    ==============================================================
+    MeleeAttack3
+    ==============================================================
+    */
+    
+    void MeleeAttack3(kActor @instigator, const float w, const float x, const float y, const float z)
+    {
+        self.MeleeObject("terrorraptor_attack", kVec3(x, y, z), w);
+    }
+    
+    /*
+    ==============================================================
+    MeleeBluntWimpy
+    ==============================================================
+    */
+    
+    void MeleeBluntWimpy(kActor @instigator, const float w, const float x, const float y, const float z)
+    {
+        self.MeleeObject("terrorraptor_attack", kVec3(x, y, z), w);
+    }
+    
+    /*
+    ==============================================================
+    MeleeBluntStrong
+    ==============================================================
+    */
+    
+    void MeleeBluntStrong(kActor @instigator, const float w, const float x, const float y, const float z)
+    {
+        self.MeleeObject("terrorraptor_attack", kVec3(x, y, z), w);
+    }
+    
+    /*
+    ==============================================================
+    MeleeBluntVeryStrong
+    ==============================================================
+    */
+    
+    void MeleeBluntVeryStrong(kActor @instigator, const float w, const float x, const float y, const float z)
+    {
+        self.MeleeObject("terrorraptor_attack", kVec3(x, y, z), w);
+    }
+    
+    /*
+    ==============================================================
+    MeleeBluntHeavy
+    ==============================================================
+    */
+    
+    void MeleeBluntHeavy(kActor @instigator, const float w, const float x, const float y, const float z)
+    {
+        self.MeleeObject("terrorraptor_attack", kVec3(x, y, z), w);
+    }
+    
+    /*
+    ==============================================================
+    MeleeBluntVeryHeavy
+    ==============================================================
+    */
+    
+    void MeleeBluntVeryHeavy(kActor @instigator, const float w, const float x, const float y, const float z)
+    {
+        self.MeleeObject("terrorraptor_attack", kVec3(x, y, z), w);
+    }
+
+}

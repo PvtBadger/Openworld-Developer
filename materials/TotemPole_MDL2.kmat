@@ -1,0 +1,14 @@
+// model 1002, node 00, variant 00, section 00
+material shading_group {
+    shader "progs/world"
+    sort default
+    cull back
+    depthtest
+    color_diffuse "1.000000 1.000000 1.000000 1.000000"
+
+    sampler "diffuse" 0 "textures/Openworld/template.png" {
+        filter      linear
+        wrap        repeat
+    }
+}
+

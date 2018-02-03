@@ -1,0 +1,4272 @@
+"textures/template.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/templatewood.png"
+    texture_2 "textures/templatewoodskydawnforward.png"
+    texture_3 "textures/templatewoodhappyrockleft.png"
+    texture_4 "textures/templatewoodancientsmoatright.png"
+    texture_5 "textures/templatewoodgreenworthsnowfieldsforward.png"
+    texture_6 "textures/templatewoodiguanariverbedforward.png"
+    texture_7 "textures/templatewooddustellemountainforward.png"
+}
+
+"textures/tex0001_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0001_01.png"
+    texture_2 "textures/tex0001_02.png"
+    texture_3 "textures/tex0001_03.png"
+    texture_4 "textures/tex0001_04.png"
+    texture_5 "textures/tex0001_05.png"
+    texture_6 "textures/tex0001_06.png"
+    texture_7 "textures/tex0001_07.png"
+    texture_8 "textures/tex0001_08.png"
+    texture_9 "textures/tex0001_09.png"
+    texture_10 "textures/tex0001_10.png"
+    texture_11 "textures/tex0001_11.png"
+    texture_12 "textures/tex0001_12.png"
+    texture_13 "textures/tex0001_13.png"
+    texture_14 "textures/tex0001_14.png"
+    texture_15 "textures/tex0001_15.png"
+    texture_16 "textures/tex0001_16.png"
+    texture_17 "textures/tex0001_17.png"
+    texture_18 "textures/tex0001_18.png"
+    texture_19 "textures/tex0001_19.png"
+}
+
+"textures/tex0002_00.png"
+{
+    animated 1
+    speed 60
+
+    texture_1 "textures/tex0002_01.png"
+    texture_2 "textures/tex0002_02.png"
+    texture_3 "textures/tex0002_03.png"
+    texture_4 "textures/tex0002_04.png"
+    texture_5 "textures/tex0002_05.png"
+    texture_6 "textures/tex0002_06.png"
+    texture_7 "textures/tex0002_07.png"
+    texture_8 "textures/tex0002_08.png"
+    texture_9 "textures/tex0002_09.png"
+    texture_10 "textures/tex0002_10.png"
+}
+
+"textures/tex0003_00.png"
+{
+    animated 1
+    speed 60
+
+    texture_1 "textures/tex0003_01.png"
+    texture_2 "textures/tex0003_02.png"
+    texture_3 "textures/tex0003_03.png"
+    texture_4 "textures/tex0003_04.png"
+    texture_5 "textures/tex0003_05.png"
+    texture_6 "textures/tex0003_06.png"
+    texture_7 "textures/tex0003_07.png"
+    texture_8 "textures/tex0003_08.png"
+    texture_9 "textures/tex0003_09.png"
+    texture_10 "textures/tex0003_10.png"
+    texture_11 "textures/tex0003_11.png"
+    texture_12 "textures/tex0003_12.png"
+    texture_13 "textures/tex0003_13.png"
+    texture_14 "textures/tex0003_14.png"
+    texture_15 "textures/tex0003_15.png"
+    texture_16 "textures/tex0003_16.png"
+    texture_17 "textures/tex0003_17.png"
+    texture_18 "textures/tex0003_18.png"
+    texture_19 "textures/tex0003_19.png"
+}
+
+"textures/tex0004_00.png"
+{
+    animated 1
+    speed 60
+
+    texture_1 "textures/tex0004_01.png"
+    texture_2 "textures/tex0004_02.png"
+    texture_3 "textures/tex0004_03.png"
+    texture_4 "textures/tex0004_04.png"
+}
+
+"textures/tex0005_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/Openworld/tex0005_01.png"
+    texture_2 "textures/tex0005_00.png"
+    texture_3 "textures/tex0005_00.png"
+    texture_4 "textures/tex0005_00.png"
+    texture_5 "textures/tex0005_00.png"
+    texture_6 "textures/tex0005_00.png"
+    texture_7 "textures/tex0005_00.png"
+    texture_8 "textures/tex0005_00.png"
+    texture_9 "textures/tex0005_00.png"
+    texture_10 "textures/tex0005_00.png"
+    texture_11 "textures/tex0005_00.png"
+    texture_12 "textures/tex0005_00.png"
+    texture_13 "textures/tex0005_00.png"
+    texture_14 "textures/tex0005_00.png"
+    texture_15 "textures/Openworld/tex0005_15.png"
+}
+
+"textures/tex0014_00.png"
+{
+    animated 1
+    speed 60
+
+    texture_1 "textures/tex0014_01.png"
+    texture_2 "textures/tex0014_02.png"
+    texture_3 "textures/tex0014_03.png"
+    texture_4 "textures/tex0014_04.png"
+    texture_5 "textures/tex0014_05.png"
+    texture_6 "textures/tex0014_06.png"
+    texture_7 "textures/tex0014_07.png"
+    texture_8 "textures/tex0014_08.png"
+    texture_9 "textures/tex0014_09.png"
+    texture_10 "textures/tex0014_10.png"
+    texture_11 "textures/tex0014_11.png"
+    texture_12 "textures/tex0014_12.png"
+    texture_13 "textures/tex0014_13.png"
+    texture_14 "textures/tex0014_14.png"
+    texture_15 "textures/tex0014_15.png"
+    texture_16 "textures/tex0014_16.png"
+    texture_17 "textures/tex0014_17.png"
+    texture_18 "textures/tex0014_18.png"
+    texture_19 "textures/tex0014_19.png"
+}
+
+"textures/tex0015_00.png"
+{
+    animated 1
+    speed 60
+
+    texture_1 "textures/tex0015_01.png"
+    texture_2 "textures/tex0015_02.png"
+    texture_3 "textures/tex0015_03.png"
+    texture_4 "textures/tex0015_04.png"
+    texture_5 "textures/tex0015_05.png"
+    texture_6 "textures/tex0015_06.png"
+    texture_7 "textures/tex0015_07.png"
+    texture_8 "textures/tex0015_08.png"
+    texture_9 "textures/tex0015_09.png"
+    texture_10 "textures/tex0015_10.png"
+    texture_11 "textures/tex0015_11.png"
+    texture_12 "textures/tex0015_12.png"
+    texture_13 "textures/tex0015_13.png"
+    texture_14 "textures/tex0015_14.png"
+    texture_15 "textures/tex0015_15.png"
+    texture_16 "textures/tex0015_16.png"
+    texture_17 "textures/tex0015_17.png"
+    texture_18 "textures/tex0015_18.png"
+    texture_19 "textures/tex0015_19.png"
+}
+
+"textures/tex0025_00.png"
+{
+    animated 1
+    speed 60
+
+    texture_1 "textures/tex0025_01.png"
+    texture_2 "textures/tex0025_02.png"
+    texture_3 "textures/tex0025_03.png"
+    texture_4 "textures/tex0025_04.png"
+    texture_5 "textures/tex0025_05.png"
+    texture_6 "textures/tex0025_06.png"
+    texture_7 "textures/tex0025_07.png"
+    texture_8 "textures/tex0025_08.png"
+    texture_9 "textures/tex0025_09.png"
+    texture_10 "textures/tex0025_10.png"
+    texture_11 "textures/tex0025_11.png"
+    texture_12 "textures/tex0025_12.png"
+    texture_13 "textures/tex0025_13.png"
+    texture_14 "textures/tex0025_14.png"
+    texture_15 "textures/tex0025_15.png"
+    texture_16 "textures/tex0025_16.png"
+    texture_17 "textures/tex0025_17.png"
+    texture_18 "textures/tex0025_18.png"
+    texture_19 "textures/tex0025_19.png"
+}
+
+"textures/tex0026_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0026_00.png"
+    texture_2 "textures/tex0026_00.png"
+    texture_3 "textures/tex0026_00.png"
+    texture_4 "textures/Openworld/tex0026_04.png"
+}
+
+"textures/tex0032_00.png"
+{
+    animated 1
+    speed 50
+
+    texture_1 "textures/Hires Water/newwater-2.png"
+    texture_2 "textures/Hires Water/newwater-3.png"
+    texture_3 "textures/Hires Water/newwater-4.png"
+    texture_4 "textures/Hires Water/newwater-5.png"
+    texture_5 "textures/Hires Water/newwater-6.png"
+    texture_6 "textures/Hires Water/newwater-7.png"
+    texture_7 "textures/Hires Water/newwater-8.png"
+    texture_8 "textures/Hires Water/newwater-9.png"
+    texture_9 "textures/Hires Water/newwater-10.png"
+    texture_10 "textures/Hires Water/newwater-11.png"
+    texture_11 "textures/Hires Water/newwater-12.png"
+    texture_12 "textures/Hires Water/newwater-13.png"
+    texture_13 "textures/Hires Water/newwater-14.png"
+    texture_14 "textures/Hires Water/newwater-15.png"
+    texture_15 "textures/Hires Water/newwater-16.png"
+    texture_16 "textures/Hires Water/newwater-17.png"
+    texture_17 "textures/Hires Water/newwater-18.png"
+    texture_18 "textures/Hires Water/newwater-19.png"
+    texture_19 "textures/Hires Water/newwater-20.png"
+    texture_20 "textures/Hires Water/newwater-21.png"
+    texture_21 "textures/Hires Water/newwater-22.png"
+    texture_22 "textures/Hires Water/newwater-23.png"
+    texture_23 "textures/Hires Water/newwater-24.png"
+    texture_24 "textures/Hires Water/newwater-25.png"
+    texture_25 "textures/Hires Water/newwater-26.png"
+    texture_26 "textures/Hires Water/newwater-27.png"
+    texture_27 "textures/Hires Water/newwater-28.png"
+    texture_28 "textures/Hires Water/newwater-29.png"
+    texture_29 "textures/Hires Water/newwater-30.png"
+    texture_30 "textures/Hires Water/newwater-31.png"
+    texture_31 "textures/Hires Water/newwater-32.png"
+    texture_32 "textures/Hires Water/newwater-33.png"
+    texture_33 "textures/Hires Water/newwater-34.png"
+    texture_34 "textures/Hires Water/newwater-35.png"
+    texture_35 "textures/Hires Water/newwater-36.png"
+    texture_36 "textures/Hires Water/newwater-37.png"
+    texture_37 "textures/Hires Water/newwater-38.png"
+    texture_38 "textures/Hires Water/newwater-39.png"
+    texture_39 "textures/Hires Water/newwater-40.png"
+    texture_40 "textures/Hires Water/newwater-41.png"
+    texture_41 "textures/Hires Water/newwater-42.png"
+    texture_42 "textures/Hires Water/newwater-43.png"
+    texture_43 "textures/Hires Water/newwater-44.png"
+    texture_44 "textures/Hires Water/newwater-45.png"
+    texture_45 "textures/Hires Water/newwater-46.png"
+    texture_46 "textures/Hires Water/newwater-47.png"
+    texture_47 "textures/Hires Water/newwater-48.png"
+    texture_48 "textures/Hires Water/newwater-49.png"
+    texture_49 "textures/Hires Water/newwater-50.png"
+    texture_50 "textures/Hires Water/newwater-51.png"
+    texture_51 "textures/Hires Water/newwater-52.png"
+    texture_52 "textures/Hires Water/newwater-53.png"
+    texture_53 "textures/Hires Water/newwater-54.png"
+    texture_54 "textures/Hires Water/newwater-55.png"
+    texture_55 "textures/Hires Water/newwater-56.png"
+    texture_56 "textures/Hires Water/newwater-57.png"
+    texture_57 "textures/Hires Water/newwater-58.png"
+    texture_58 "textures/Hires Water/newwater-59.png"
+    texture_59 "textures/Hires Water/newwater-60.png"
+    texture_60 "textures/Hires Water/newwater-61.png"
+    texture_61 "textures/Hires Water/newwater-62.png"
+    texture_62 "textures/Hires Water/newwater-63.png"
+    texture_63 "textures/Hires Water/newwater-64.png"
+    texture_64 "textures/Hires Water/newwater-65.png"
+    texture_65 "textures/Hires Water/newwater-66.png"
+    texture_66 "textures/Hires Water/newwater-67.png"
+    texture_67 "textures/Hires Water/newwater-68.png"
+    texture_68 "textures/Hires Water/newwater-69.png"
+    texture_69 "textures/Hires Water/newwater-70.png"
+    texture_70 "textures/Hires Water/newwater-71.png"
+    texture_71 "textures/Hires Water/newwater-72.png"
+    texture_72 "textures/Hires Water/newwater-73.png"
+    texture_73 "textures/Hires Water/newwater-74.png"
+    texture_74 "textures/Hires Water/newwater-75.png"
+    texture_75 "textures/Hires Water/newwater-76.png"
+    texture_76 "textures/Hires Water/newwater-77.png"
+    texture_77 "textures/Hires Water/newwater-78.png"
+    texture_78 "textures/Hires Water/newwater-79.png"
+    texture_79 "textures/Hires Water/newwater-80.png"
+    texture_80 "textures/Hires Water/newwater-81.png"
+    texture_81 "textures/Hires Water/newwater-82.png"
+    texture_82 "textures/Hires Water/newwater-83.png"
+    texture_83 "textures/Hires Water/newwater-84.png"
+    texture_84 "textures/Hires Water/newwater-85.png"
+    texture_85 "textures/Hires Water/newwater-86.png"
+    texture_86 "textures/Hires Water/newwater-87.png"
+    texture_87 "textures/Hires Water/newwater-88.png"
+    texture_88 "textures/Hires Water/newwater-89.png"
+    texture_89 "textures/Hires Water/newwater-90.png"
+    texture_90 "textures/Hires Water/newwater-91.png"
+    texture_91 "textures/Hires Water/newwater-92.png"
+    texture_92 "textures/Hires Water/newwater-93.png"
+    texture_93 "textures/Hires Water/newwater-94.png"
+    texture_94 "textures/Hires Water/newwater-95.png"
+    texture_95 "textures/Hires Water/newwater-96.png"
+    texture_96 "textures/Hires Water/newwater-97.png"
+    texture_97 "textures/Hires Water/newwater-98.png"
+    texture_98 "textures/Hires Water/newwater-99.png"
+    texture_99 "textures/Hires Water/newwater-100.png"
+    texture_100 "textures/Hires Water/newwater-101.png"
+    texture_101 "textures/Hires Water/newwater-102.png"
+    texture_102 "textures/Hires Water/newwater-103.png"
+    texture_103 "textures/Hires Water/newwater-104.png"
+    texture_104 "textures/Hires Water/newwater-105.png"
+    texture_105 "textures/Hires Water/newwater-106.png"
+    texture_106 "textures/Hires Water/newwater-107.png"
+    texture_107 "textures/Hires Water/newwater-108.png"
+    texture_108 "textures/Hires Water/newwater-109.png"
+    texture_109 "textures/Hires Water/newwater-110.png"
+    texture_110 "textures/Hires Water/newwater-111.png"
+    texture_111 "textures/Hires Water/newwater-112.png"
+    texture_112 "textures/Hires Water/newwater-113.png"
+    texture_113 "textures/Hires Water/newwater-114.png"
+    texture_114 "textures/Hires Water/newwater-115.png"
+    texture_115 "textures/Hires Water/newwater-116.png"
+    texture_116 "textures/Hires Water/newwater-117.png"
+    texture_117 "textures/Hires Water/newwater-118.png"
+    texture_118 "textures/Hires Water/newwater-119.png"
+    texture_119 "textures/Hires Water/newwater-120.png"
+    texture_120 "textures/Hires Water/newwater-121.png"
+    texture_121 "textures/Hires Water/newwater-122.png"
+    texture_122 "textures/Hires Water/newwater-123.png"
+    texture_123 "textures/Hires Water/newwater-124.png"
+    texture_124 "textures/Hires Water/newwater-125.png"
+    texture_125 "textures/Hires Water/newwater-126.png"
+    texture_126 "textures/Hires Water/newwater-127.png"
+    texture_127 "textures/Hires Water/newwater-128.png"
+    texture_128 "textures/Hires Water/newwater-129.png"
+    texture_129 "textures/Hires Water/newwater-130.png"
+    texture_130 "textures/Hires Water/newwater-131.png"
+    texture_131 "textures/Hires Water/newwater-132.png"
+    texture_132 "textures/Hires Water/newwater-133.png"
+    texture_133 "textures/Hires Water/newwater-134.png"
+    texture_134 "textures/Hires Water/newwater-135.png"
+    texture_135 "textures/Hires Water/newwater-136.png"
+    texture_136 "textures/Hires Water/newwater-137.png"
+    texture_137 "textures/Hires Water/newwater-138.png"
+    texture_138 "textures/Hires Water/newwater-139.png"
+    texture_139 "textures/Hires Water/newwater-140.png"
+    texture_140 "textures/Hires Water/newwater-141.png"
+    texture_141 "textures/Hires Water/newwater-142.png"
+    texture_142 "textures/Hires Water/newwater-143.png"
+    texture_143 "textures/Hires Water/newwater-144.png"
+}
+
+"textures/tex0033_00.png"
+{
+    animated 0
+    speed 60
+
+    texture_1 "textures/tex0033_00.png"
+    texture_2 "textures/tex0033_00.png"
+    texture_3 "textures/tex0033_00.png"
+    texture_4 "textures/tex0033_00.png"
+    texture_5 "textures/tex0033_00.png"
+    texture_6 "textures/tex0033_00.png"
+    texture_7 "textures/tex0033_00.png"
+    texture_8 "textures/tex0033_00.png"
+    texture_9 "textures/tex0033_00.png"
+    texture_10 "textures/tex0033_00.png"
+    texture_11 "textures/tex0033_00.png"
+    texture_12 "textures/tex0033_00.png"
+    texture_13 "textures/tex0033_00.png"
+    texture_14 "textures/tex0033_00.png"
+    texture_15 "textures/Openworld/tex0033_15.png"
+}
+
+"textures/tex0047_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/Openworld/tex0047_01.png"
+    texture_2 "textures/Openworld/tex0047_02.png"
+    texture_3 "textures/Openworld/tex0047_03.png"
+    texture_4 "textures/Openworld/tex0047_04.png"
+    texture_5 "textures/Openworld/tex0047_05.png"
+    texture_6 "textures/Openworld/tex0047_06.png"
+    texture_7 "textures/Openworld/tex0047_07.png"
+    texture_8 "textures/Openworld/tex0047_08.png"
+    texture_9 "textures/Openworld/tex0047_09.png"
+    texture_10 "textures/Openworld/tex0047_10.png"
+    texture_11 "textures/Openworld/tex0047_11.png"
+    texture_12 "textures/Openworld/tex0047_12.png"
+    texture_13 "textures/Openworld/tex0047_13.png"
+    texture_14 "textures/Openworld/tex0047_14.png"
+    texture_15 "textures/Openworld/tex0047_15.png"
+    texture_16 "textures/Openworld/tex0528_72.png"
+    texture_17 "textures/Openworld/tex0528_73.png"
+    texture_18 "textures/Openworld/tex0528_74.png"
+    texture_19 "textures/Openworld/tex0528_75.png"
+}
+
+"textures/tex0048_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/Openworld/tex0048_01.png"
+    texture_2 "textures/Openworld/tex0048_02.png"
+    texture_3 "textures/Openworld/tex0047_03.png"
+    texture_4 "textures/Openworld/tex0047_04.png"
+    texture_5 "textures/Openworld/tex0047_05.png"
+    texture_6 "textures/tex0048_00.png"
+    texture_7 "textures/tex0048_00.png"
+    texture_8 "textures/tex0048_00.png"
+    texture_9 "textures/Openworld/tex0047_09.png"
+    texture_10 "textures/Openworld/tex0048_10.png"
+    texture_11 "textures/Openworld/tex0047_11.png"
+    texture_12 "textures/tex0048_00.png"
+    texture_13 "textures/tex0048_00.png"
+    texture_14 "textures/tex0048_00.png"
+    texture_15 "textures/tex0048_00.png"
+    texture_16 "textures/Openworld/tex0528_72.png"
+    texture_17 "textures/Openworld/tex0528_73.png"
+    texture_18 "textures/Openworld/tex0528_74.png"
+    texture_19 "textures/Openworld/tex0528_75.png"
+}
+"textures/tex0049_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0049_00.png"
+    texture_2 "textures/tex0049_00.png"
+    texture_3 "textures/tex0049_00.png"
+    texture_4 "textures/tex0049_00.png"
+    texture_5 "textures/tex0049_00.png"
+    texture_6 "textures/tex0049_00.png"
+    texture_7 "textures/tex0049_00.png"
+    texture_8 "textures/tex0049_00.png"
+    texture_9 "textures/tex0049_00.png"
+    texture_10 "textures/tex0049_00.png"
+    texture_11 "textures/tex0049_00.png"
+    texture_12 "textures/tex0049_00.png"
+    texture_13 "textures/tex0049_00.png"
+    texture_14 "textures/Openworld/tex0049_14.png"
+    texture_15 "textures/Openworld/tex0049_15.png"
+    texture_16 "textures/Openworld/tex0049_16.png"
+    texture_17 "textures/tex0049_00.png"
+    texture_18 "textures/tex0049_00.png"
+    texture_19 "textures/tex0049_00.png"
+    texture_20 "textures/tex0049_00.png"
+    texture_21 "textures/tex0049_00.png"
+    texture_22 "textures/tex0049_00.png"
+    texture_23 "textures/tex0049_00.png"
+    texture_24 "textures/tex0049_00.png"
+    texture_25 "textures/tex0049_00.png"
+    texture_26 "textures/tex0049_00.png"
+    texture_27 "textures/Openworld/tex0049_27.png"
+}
+
+"textures/tex0050_00.png"
+{
+    animated 1
+    speed 60
+
+    texture_1 "textures/tex0050_01.png"
+    texture_2 "textures/tex0050_02.png"
+    texture_3 "textures/tex0050_03.png"
+    texture_4 "textures/tex0050_04.png"
+}
+
+"textures/tex0053_00.png"
+{
+    animated 1
+    speed 60
+
+    texture_1 "textures/tex0053_01.png"
+    texture_2 "textures/tex0053_02.png"
+    texture_3 "textures/tex0053_03.png"
+    texture_4 "textures/tex0053_04.png"
+    texture_5 "textures/tex0053_05.png"
+    texture_6 "textures/tex0053_06.png"
+    texture_7 "textures/tex0053_07.png"
+    texture_8 "textures/tex0053_08.png"
+    texture_9 "textures/tex0053_09.png"
+    texture_10 "textures/tex0053_10.png"
+    texture_11 "textures/tex0053_11.png"
+    texture_12 "textures/tex0053_12.png"
+    texture_13 "textures/tex0053_13.png"
+    texture_14 "textures/tex0053_14.png"
+    texture_15 "textures/tex0053_15.png"
+    texture_16 "textures/tex0053_16.png"
+    texture_17 "textures/tex0053_17.png"
+    texture_18 "textures/tex0053_18.png"
+    texture_19 "textures/tex0053_19.png"
+}
+
+"textures/tex0056_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0056_01.png"
+    texture_2 "textures/tex0056_02.png"
+    texture_3 "textures/tex0056_03.png"
+    texture_4 "textures/tex0056_04.png"
+    texture_5 "textures/tex0056_05.png"
+    texture_6 "textures/tex0056_06.png"
+}
+
+"textures/tex0093_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0093_01.png"
+    texture_2 "textures/tex0093_02.png"
+    texture_3 "textures/tex0093_03.png"
+    texture_4 "textures/tex0093_04.png"
+    texture_5 "textures/tex0093_05.png"
+}
+
+"textures/tex0102_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0102_01.png"
+    texture_2 "textures/tex0102_02.png"
+    texture_3 "textures/tex0102_03.png"
+    texture_4 "textures/tex0102_04.png"
+    texture_5 "textures/tex0102_05.png"
+    texture_6 "textures/tex0102_06.png"
+    texture_7 "textures/tex0102_07.png"
+}
+
+"textures/tex0104_00.png"
+{
+    animated 1
+    speed 60
+
+    texture_1 "textures/tex0104_01.png"
+    texture_2 "textures/tex0104_02.png"
+    texture_3 "textures/tex0104_03.png"
+    texture_4 "textures/tex0104_04.png"
+}
+
+"textures/tex0105_00.png"
+{
+    animated 1
+    speed 60
+
+    texture_1 "textures/tex0105_01.png"
+    texture_2 "textures/tex0105_02.png"
+    texture_3 "textures/tex0105_03.png"
+    texture_4 "textures/tex0105_04.png"
+    texture_5 "textures/tex0105_05.png"
+}
+
+"textures/tex0109_00.png"
+{
+    animated 1
+    speed 60
+
+    texture_1 "textures/tex0109_01.png"
+    texture_2 "textures/tex0109_02.png"
+    texture_3 "textures/tex0109_03.png"
+}
+
+"textures/tex0110_00.png"
+{
+    animated 1
+    speed 60
+
+    texture_1 "textures/tex0110_01.png"
+    texture_2 "textures/tex0110_02.png"
+    texture_3 "textures/tex0110_03.png"
+}
+
+"textures/tex0113_00.png"
+{
+    animated 0
+    speed 60
+
+    texture_1 "textures/tex0113_00.png"
+    texture_2 "textures/Openworld/tex0113_02.png"
+    texture_3 "textures/tex0113_00.png"
+    texture_4 "textures/tex0113_00.png"
+    texture_5 "textures/tex0113_00.png"
+    texture_6 "textures/tex0113_00.png"
+    texture_7 "textures/tex0113_00.png"
+    texture_8 "textures/tex0113_00.png"
+    texture_9 "textures/tex0113_00.png"
+    texture_10 "textures/tex0113_00.png"
+    texture_11 "textures/tex0113_00.png"
+    texture_12 "textures/tex0113_00.png"
+    texture_13 "textures/tex0113_00.png"
+    texture_14 "textures/tex0113_00.png"
+    texture_15 "textures/tex0113_00.png"
+    texture_16 "textures/tex0113_00.png"
+}
+
+"textures/tex0114_00.png"
+{
+    animated 0
+    speed 60
+
+    texture_1 "textures/tex0114_00.png"
+    texture_2 "textures/Openworld/tex0114_02.png"
+    texture_3 "textures/tex0114_00.png"
+    texture_4 "textures/tex0114_00.png"
+    texture_5 "textures/tex0114_00.png"
+    texture_6 "textures/tex0114_00.png"
+    texture_7 "textures/tex0114_00.png"
+    texture_8 "textures/tex0114_00.png"
+    texture_9 "textures/tex0114_00.png"
+    texture_10 "textures/tex0114_00.png"
+    texture_11 "textures/tex0114_00.png"
+    texture_12 "textures/tex0114_00.png"
+    texture_13 "textures/tex0114_00.png"
+    texture_14 "textures/tex0114_00.png"
+    texture_15 "textures/tex0114_00.png"
+    texture_16 "textures/Openworld/tex0114_16.png"
+}
+
+"textures/tex0115_00.png"
+{
+    animated 0
+    speed 60
+
+    texture_1 "textures/tex0115_00.png"
+    texture_2 "textures/Openworld/tex0115_02.png"
+    texture_3 "textures/tex0115_00.png"
+    texture_4 "textures/tex0115_00.png"
+    texture_5 "textures/tex0115_00.png"
+    texture_6 "textures/tex0115_00.png"
+    texture_7 "textures/tex0115_00.png"
+    texture_8 "textures/tex0115_00.png"
+    texture_9 "textures/tex0115_00.png"
+    texture_10 "textures/tex0115_00.png"
+    texture_11 "textures/tex0115_00.png"
+    texture_12 "textures/tex0115_00.png"
+    texture_13 "textures/tex0115_00.png"
+    texture_14 "textures/tex0115_00.png"
+    texture_15 "textures/tex0115_00.png"
+    texture_16 "textures/Openworld/tex0115_16.png"
+}
+
+"textures/tex0123_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0123_00.png"
+    texture_2 "textures/tex0123_00.png"
+    texture_3 "textures/tex0123_00.png"
+    texture_4 "textures/tex0123_00.png"
+    texture_5 "textures/tex0123_00.png"
+    texture_6 "textures/tex0123_00.png"
+    texture_7 "textures/tex0123_00.png"
+    texture_8 "textures/tex0123_00.png"
+    texture_9 "textures/tex0123_00.png"
+    texture_10 "textures/Openworld/tex0123_10.png"
+}
+
+"textures/tex0124_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0124_00.png"
+    texture_2 "textures/tex0124_00.png"
+    texture_3 "textures/tex0124_00.png"
+    texture_4 "textures/tex0124_00.png"
+    texture_5 "textures/tex0124_00.png"
+    texture_6 "textures/tex0124_00.png"
+    texture_7 "textures/tex0124_00.png"
+    texture_8 "textures/tex0124_00.png"
+    texture_9 "textures/tex0124_00.png"
+    texture_10 "textures/Openworld/tex0124_10.png"
+}
+
+"textures/tex0127_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/Openworld/tex0127_01.png"
+    texture_2 "textures/tex0127_00.png"
+    texture_3 "textures/tex0127_00.png"
+    texture_4 "textures/Openworld/tex0127_04.png"
+    texture_5 "textures/Openworld/tex0127_05.png"
+}
+
+"textures/tex0128_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0128_01.png"
+    texture_2 "textures/tex0128_02.png"
+    texture_3 "textures/tex0128_00.png"
+    texture_4 "textures/tex0128_00.png"
+    texture_5 "textures/tex0128_00.png"
+    texture_6 "textures/tex0128_00.png"
+    texture_7 "textures/tex0128_00.png"
+    texture_8 "textures/tex0128_00.png"
+    texture_9 "textures/tex0128_00.png"
+    texture_10 "textures/tex0128_00.png"
+    texture_11 "textures/tex0128_00.png"
+    texture_12 "textures/Level_2/level2overhaultex0133_12.png"
+    texture_13 "textures/Openworld/tex0128_13.png"
+    texture_14 "textures/Openworld/tex0128_13.png"
+    texture_15 "textures/Openworld/tex0128_15.png"
+    texture_16 "textures/Openworld/tex0128_16.png"
+    texture_17 "textures/tex0128_00.png"
+    texture_18 "textures/tex0128_00.png"
+    texture_19 "textures/tex0128_00.png"
+    texture_20 "textures/tex0128_00.png"
+    texture_21 "textures/tex0128_00.png"
+    texture_22 "textures/tex0128_00.png"
+    texture_23 "textures/tex0128_00.png"
+    texture_24 "textures/Openworld/tex0128_24.png"
+    texture_25 "textures/tex0128_00.png"
+    texture_26 "textures/tex0128_00.png"
+    texture_27 "textures/Openworld/tex0128_27.png"
+    texture_28 "textures/Openworld/tex0128_15.png"
+}
+
+"textures/tex0129_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0129_01.png"
+}
+
+"textures/tex0130_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0130_01.png"
+}
+
+"textures/tex0131_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0131_01.png"
+}
+
+"textures/tex0132_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0132_01.png"
+}
+
+"textures/tex0133_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0133_01.png"
+    texture_2 "textures/tex0133_02.png"
+    texture_3 "textures/tex0133_03.png"
+    texture_4 "textures/tex0133_04.png"
+    texture_5 "textures/tex0133_05.png"
+    texture_6 "textures/tex0133_00.png"
+    texture_7 "textures/tex0133_00.png"
+    texture_8 "textures/tex0133_00.png"
+    texture_9 "textures/tex0133_00.png"
+    texture_10 "textures/tex0133_00.png"
+    texture_11 "textures/tex0133_00.png"
+    texture_12 "textures/Level_2/level2overhaultex0133_12.png"
+    texture_13 "textures/Openworld/tex0133_13.png"
+    texture_14 "textures/Openworld/tex0133_13.png"
+    texture_15 "textures/Openworld/tex0133_15.png"
+    texture_16 "textures/Openworld/tex0133_16.png"
+    texture_17 "textures/tex0133_00.png"
+    texture_18 "textures/tex0133_00.png"
+    texture_19 "textures/tex0133_00.png"
+    texture_20 "textures/tex0133_00.png"
+    texture_21 "textures/tex0133_00.png"
+    texture_22 "textures/tex0133_00.png"
+    texture_23 "textures/tex0133_00.png"
+    texture_24 "textures/Openworld/tex0133_24.png"
+    texture_25 "textures/tex0133_00.png"
+    texture_26 "textures/tex0133_00.png"
+    texture_27 "textures/Openworld/tex0133_27.png"
+    texture_28 "textures/Openworld/tex0133_15.png"
+}
+
+"textures/tex0134_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0134_01.png"
+    texture_2 "textures/tex0134_02.png"
+    texture_3 "textures/tex0134_00.png"
+    texture_4 "textures/tex0134_00.png"
+    texture_5 "textures/tex0134_00.png"
+    texture_6 "textures/tex0134_00.png"
+    texture_7 "textures/tex0134_00.png"
+    texture_8 "textures/tex0134_00.png"
+    texture_9 "textures/tex0134_00.png"
+    texture_10 "textures/tex0134_00.png"
+    texture_11 "textures/tex0134_00.png"
+    texture_12 "textures/Level_2/level2overhaultex0134_12.png"
+    texture_13 "textures/Openworld/tex0134_13.png"
+    texture_14 "textures/Openworld/tex0134_13.png"
+    texture_15 "textures/Openworld/tex0134_15.png"
+    texture_16 "textures/Openworld/tex0134_16.png"
+}
+
+"textures/tex0136_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0136_00.png"
+    texture_2 "textures/tex0136_00.png"
+    texture_3 "textures/tex0136_00.png"
+    texture_4 "textures/tex0136_00.png"
+    texture_5 "textures/tex0136_00.png"
+    texture_6 "textures/tex0136_00.png"
+    texture_7 "textures/tex0136_00.png"
+    texture_8 "textures/tex0136_00.png"
+    texture_9 "textures/tex0136_00.png"
+    texture_10 "textures/tex0136_00.png"
+    texture_11 "textures/tex0136_00.png"
+    texture_12 "textures/tex0136_00.png"
+    texture_13 "textures/tex0136_00.png"
+    texture_14 "textures/tex0136_00.png"
+    texture_15 "textures/Openworld/tex0136_15.png"
+}
+
+"textures/tex0137_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0137_00.png"
+    texture_2 "textures/tex0137_00.png"
+    texture_3 "textures/tex0137_00.png"
+    texture_4 "textures/tex0137_00.png"
+    texture_5 "textures/tex0137_00.png"
+    texture_6 "textures/tex0137_00.png"
+    texture_7 "textures/tex0137_00.png"
+    texture_8 "textures/tex0137_00.png"
+    texture_9 "textures/tex0137_00.png"
+    texture_10 "textures/tex0137_00.png"
+    texture_11 "textures/tex0137_00.png"
+    texture_12 "textures/tex0137_00.png"
+    texture_13 "textures/tex0137_00.png"
+    texture_14 "textures/tex0137_00.png"
+    texture_15 "textures/Openworld/tex0137_15.png"
+}
+
+"textures/tex0138_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0138_00.png"
+    texture_2 "textures/tex0138_00.png"
+    texture_3 "textures/tex0138_00.png"
+    texture_4 "textures/tex0138_00.png"
+    texture_5 "textures/tex0138_00.png"
+    texture_6 "textures/tex0138_00.png"
+    texture_7 "textures/tex0138_00.png"
+    texture_8 "textures/tex0138_00.png"
+    texture_9 "textures/tex0138_00.png"
+    texture_10 "textures/tex0138_00.png"
+    texture_11 "textures/tex0138_00.png"
+    texture_12 "textures/tex0138_00.png"
+    texture_13 "textures/tex0138_00.png"
+    texture_14 "textures/tex0138_00.png"
+    texture_15 "textures/Openworld/tex0138_15.png"
+}
+
+"textures/tex0139_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0139_00.png"
+    texture_2 "textures/tex0139_00.png"
+    texture_3 "textures/tex0139_00.png"
+    texture_4 "textures/tex0139_00.png"
+    texture_5 "textures/tex0139_00.png"
+    texture_6 "textures/tex0139_00.png"
+    texture_7 "textures/tex0139_00.png"
+    texture_8 "textures/tex0139_00.png"
+    texture_9 "textures/tex0139_00.png"
+    texture_10 "textures/tex0139_00.png"
+    texture_11 "textures/tex0139_00.png"
+    texture_12 "textures/tex0139_00.png"
+    texture_13 "textures/tex0139_00.png"
+    texture_14 "textures/tex0139_00.png"
+    texture_15 "textures/Openworld/tex0139_15.png"
+}
+
+"textures/tex0142_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0142_00.png"
+    texture_2 "textures/Openworld/tex0142_01.png"
+    texture_3 "textures/Openworld/tex0142_01.png"
+    texture_4 "textures/Openworld/tex0142_01.png"
+}
+
+"textures/tex0148_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0148_00.png"
+    texture_2 "textures/Openworld/tex0148_02.png"
+    texture_3 "textures/tex0148_00.png"
+    texture_4 "textures/tex0148_00.png"
+    texture_5 "textures/tex0148_00.png"
+    texture_6 "textures/tex0148_00.png"
+    texture_7 "textures/tex0148_00.png"
+    texture_8 "textures/tex0148_00.png"
+    texture_9 "textures/tex0148_00.png"
+    texture_10 "textures/tex0148_00.png"
+    texture_11 "textures/tex0148_00.png"
+    texture_12 "textures/tex0148_00.png"
+    texture_13 "textures/tex0148_00.png"
+    texture_14 "textures/tex0148_00.png"
+    texture_15 "textures/Openworld/tex0148_15.png"
+}
+
+"textures/tex0149_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0149_00.png"
+    texture_2 "textures/Openworld/tex0149_02.png"
+    texture_3 "textures/tex0149_00.png"
+    texture_4 "textures/tex0149_00.png"
+    texture_5 "textures/tex0149_00.png"
+    texture_6 "textures/tex0149_00.png"
+    texture_7 "textures/tex0149_00.png"
+    texture_8 "textures/tex0149_00.png"
+    texture_9 "textures/tex0149_00.png"
+    texture_10 "textures/tex0149_00.png"
+    texture_11 "textures/tex0149_00.png"
+    texture_12 "textures/tex0149_00.png"
+    texture_13 "textures/tex0149_00.png"
+    texture_14 "textures/tex0149_00.png"
+    texture_15 "textures/Openworld/tex0149_15.png"
+}
+
+"textures/tex0150_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0150_00.png"
+    texture_2 "textures/Openworld/tex0150_02.png"
+    texture_3 "textures/tex0150_00.png"
+    texture_4 "textures/tex0150_00.png"
+    texture_5 "textures/tex0150_00.png"
+    texture_6 "textures/tex0150_00.png"
+    texture_7 "textures/tex0150_00.png"
+    texture_8 "textures/tex0150_00.png"
+    texture_9 "textures/tex0150_00.png"
+    texture_10 "textures/tex0150_00.png"
+    texture_11 "textures/tex0150_00.png"
+    texture_12 "textures/tex0150_00.png"
+    texture_13 "textures/tex0150_00.png"
+    texture_14 "textures/tex0150_00.png"
+    texture_15 "textures/Openworld/tex0150_15.png"
+}
+
+"textures/tex0153_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0153_00.png"
+    texture_2 "textures/tex0153_00.png"
+    texture_3 "textures/tex0153_00.png"
+    texture_4 "textures/tex0153_00.png"
+    texture_5 "textures/tex0153_00.png"
+    texture_6 "textures/tex0153_00.png"
+    texture_7 "textures/tex0153_00.png"
+    texture_8 "textures/tex0153_00.png"
+    texture_9 "textures/tex0153_00.png"
+    texture_10 "textures/tex0153_00.png"
+    texture_11 "textures/tex0153_00.png"
+    texture_12 "textures/tex0153_00.png"
+    texture_13 "textures/tex0153_00.png"
+    texture_14 "textures/tex0153_00.png"
+    texture_15 "textures/Openworld/tex0153_15.png"
+}
+
+"textures/tex0155_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0155_00.png"
+    texture_2 "textures/tex0155_00.png"
+    texture_3 "textures/tex0155_00.png"
+    texture_4 "textures/tex0155_00.png"
+    texture_5 "textures/tex0155_00.png"
+    texture_6 "textures/tex0155_00.png"
+    texture_7 "textures/tex0155_00.png"
+    texture_8 "textures/tex0155_00.png"
+    texture_9 "textures/tex0155_00.png"
+    texture_10 "textures/tex0155_00.png"
+    texture_11 "textures/tex0155_00.png"
+    texture_12 "textures/tex0155_00.png"
+    texture_13 "textures/tex0155_00.png"
+    texture_14 "textures/tex0155_00.png"
+    texture_15 "textures/Openworld/tex0155_15.png"
+}
+
+"textures/tex0156_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/Openworld/tex0156_01.png"
+    texture_2 "textures/Openworld/tex0156_02.png"
+}
+
+"textures/tex0157_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/Openworld/tex0157_01.png"
+    texture_2 "textures/Openworld/tex0157_02.png"
+}
+
+"textures/tex0169_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/Openworld/tex0169_01.png"
+}
+
+"textures/tex0184_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0184_00.png"
+    texture_2 "textures/Openworld/tex0184_02.png"
+}
+
+"textures/tex0185_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0185_00.png"
+    texture_2 "textures/Openworld/tex0185_02.png"
+}
+
+"textures/tex0186_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0186_00.png"
+    texture_2 "textures/tex0186_00.png"
+    texture_3 "textures/tex0186_00.png"
+    texture_4 "textures/Openworld/tex0186_04.png"
+}
+
+"textures/tex0192_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0192_00.png"
+    texture_2 "textures/Openworld/tex0192_02.png"
+}
+
+"textures/tex0194_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0194_00.png"
+    texture_2 "textures/Openworld/tex0194_02.png"
+}
+
+"textures/tex0198_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/Openworld/tex0198_04.png"
+    texture_2 "textures/tex0198_00.png"
+    texture_3 "textures/tex0198_00.png"
+    texture_4 "textures/Openworld/tex0198_04.png"
+    texture_5 "textures/Openworld/tex0198_05.png"
+}
+
+
+"textures/tex0243_00.png"
+{
+    animated 1
+    speed 60
+
+    texture_1 "textures/tex0243_01.png"
+    texture_2 "textures/tex0243_02.png"
+    texture_3 "textures/tex0243_03.png"
+    texture_4 "textures/tex0243_04.png"
+    texture_5 "textures/tex0243_05.png"
+    texture_6 "textures/tex0243_06.png"
+    texture_7 "textures/tex0243_07.png"
+    texture_8 "textures/tex0243_08.png"
+    texture_9 "textures/tex0243_09.png"
+    texture_10 "textures/tex0243_10.png"
+    texture_11 "textures/tex0243_11.png"
+    texture_12 "textures/tex0243_12.png"
+    texture_13 "textures/tex0243_13.png"
+    texture_14 "textures/tex0243_14.png"
+    texture_15 "textures/tex0243_15.png"
+}
+
+"textures/tex0251_00.png"
+{
+    animated 1
+    speed 60
+
+    texture_1 "textures/tex0251_01.png"
+    texture_2 "textures/tex0251_02.png"
+    texture_3 "textures/tex0251_03.png"
+    texture_4 "textures/tex0251_04.png"
+    texture_5 "textures/tex0251_05.png"
+    texture_6 "textures/tex0251_06.png"
+    texture_7 "textures/tex0251_07.png"
+    texture_8 "textures/tex0251_08.png"
+    texture_9 "textures/tex0251_09.png"
+    texture_10 "textures/tex0251_10.png"
+    texture_11 "textures/tex0251_11.png"
+    texture_12 "textures/tex0251_12.png"
+    texture_13 "textures/tex0251_13.png"
+    texture_14 "textures/tex0251_14.png"
+    texture_15 "textures/tex0251_15.png"
+}
+
+"textures/tex0257_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0257_00.png"
+    texture_2 "textures/tex0257_00.png"
+    texture_3 "textures/tex0257_00.png"
+    texture_4 "textures/tex0257_00.png"
+    texture_5 "textures/tex0257_00.png"
+    texture_6 "textures/tex0257_00.png"
+    texture_7 "textures/tex0257_00.png"
+    texture_8 "textures/tex0257_00.png"
+    texture_9 "textures/tex0257_00.png"
+    texture_10 "textures/tex0257_00.png"
+    texture_11 "textures/tex0257_00.png"
+    texture_12 "textures/tex0257_00.png"
+    texture_13 "textures/tex0257_00.png"
+    texture_14 "textures/tex0257_00.png"
+    texture_15 "textures/Openworld/tex0257_15.png"
+}
+
+"textures/tex0360_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0360_01.png"
+}
+
+"textures/tex0368_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0368_01.png"
+}
+
+"textures/tex0369_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0369_01.png"
+}
+
+"textures/tex0370_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0370_01.png"
+}
+
+"textures/tex0373_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0373_01.png"
+}
+
+"textures/tex0379_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0379_01.png"
+}
+
+"textures/tex0385_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0385_01.png"
+}
+
+"textures/tex0389_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0389_01.png"
+}
+
+"textures/tex0395_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0395_01.png"
+}
+
+"textures/tex0416_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0416_01.png"
+}
+
+"textures/tex0417_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0417_01.png"
+}
+
+"textures/tex0418_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0418_00.png"
+    texture_2 "textures/tex0418_00.png"
+    texture_3 "textures/tex0418_00.png"
+    texture_4 "textures/tex0418_00.png"
+    texture_5 "textures/tex0418_00.png"
+    texture_6 "textures/tex0418_00.png"
+    texture_7 "textures/tex0418_00.png"
+    texture_8 "textures/tex0418_00.png"
+    texture_9 "textures/tex0418_00.png"
+    texture_10 "textures/tex0418_00.png"
+    texture_11 "textures/tex0418_00.png"
+    texture_12 "textures/tex0418_00.png"
+    texture_13 "textures/tex0418_00.png"
+    texture_14 "textures/tex0418_00.png"
+    texture_15 "textures/Openworld/tex0418_15.png"
+    texture_16 "textures/tex0418_00.png"
+    texture_17 "textures/tex0418_00.png"
+    texture_18 "textures/tex0418_00.png"
+    texture_19 "textures/tex0418_00.png"
+    texture_20 "textures/tex0418_00.png"
+    texture_21 "textures/tex0418_00.png"
+    texture_22 "textures/tex0418_00.png"
+    texture_23 "textures/tex0418_00.png"
+    texture_24 "textures/tex0418_00.png"
+    texture_25 "textures/tex0418_00.png"
+    texture_26 "textures/tex0418_00.png"
+    texture_27 "textures/Openworld/tex0418_27.png"
+}
+
+"textures/tex0422_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0422_00.png"
+    texture_2 "textures/Openworld/tex0422_01.png"
+    texture_3 "textures/Openworld/tex0422_01.png"
+    texture_4 "textures/Openworld/tex0422_01.png"
+}
+
+"textures/tex0423_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0423_01.png"
+    texture_2 "textures/tex0423_02.png"
+    texture_3 "textures/tex0423_03.png"
+}
+
+"textures/tex0427_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0427_01.png"
+    texture_2 "textures/tex0427_02.png"
+    texture_3 "textures/tex0427_03.png"
+}
+
+"textures/tex0437_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0437_01.png"
+    texture_2 "textures/tex0437_02.png"
+    texture_3 "textures/tex0437_03.png"
+    texture_4 "textures/tex0437_04.png"
+}
+
+"textures/tex0438_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0438_01.png"
+    texture_2 "textures/tex0438_02.png"
+    texture_3 "textures/tex0438_03.png"
+    texture_4 "textures/tex0438_04.png"
+    texture_5 "textures/tex0438_05.png"
+}
+
+"textures/tex0453_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0453_01.png"
+}
+
+"textures/tex0456_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0456_00.png"
+    texture_2 "textures/Openworld/tex0456_01.png"
+    texture_3 "textures/Openworld/tex0456_01.png"
+    texture_4 "textures/Openworld/tex0456_01.png"
+}
+
+"textures/tex0458_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/Openworld/tex0458_01.png"
+}
+
+"textures/tex0461_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0461_01.png"
+    texture_2 "textures/tex0461_02.png"
+    texture_3 "textures/tex0461_03.png"
+    texture_4 "textures/tex0461_04.png"
+}
+
+"textures/tex0465_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0465_01.png"
+}
+
+"textures/tex0468_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0468_01.png"
+}
+
+"textures/tex0473_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0473_00.png"
+    texture_2 "textures/tex0473_00.png"
+    texture_3 "textures/tex0473_00.png"
+    texture_4 "textures/tex0473_00.png"
+    texture_5 "textures/tex0473_00.png"
+    texture_6 "textures/tex0473_00.png"
+    texture_7 "textures/tex0473_00.png"
+    texture_8 "textures/tex0473_00.png"
+    texture_9 "textures/tex0473_00.png"
+    texture_10 "textures/tex0473_00.png"
+    texture_11 "textures/tex0473_00.png"
+    texture_12 "textures/tex0473_00.png"
+    texture_13 "textures/tex0473_00.png"
+    texture_14 "textures/tex0473_00.png"
+    texture_15 "textures/Openworld/tex0473_15.png"
+}
+
+"textures/tex0474_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0474_00.png"
+    texture_2 "textures/tex0474_00.png"
+    texture_3 "textures/tex0474_00.png"
+    texture_4 "textures/tex0474_00.png"
+    texture_5 "textures/tex0474_00.png"
+    texture_6 "textures/tex0474_00.png"
+    texture_7 "textures/tex0474_00.png"
+    texture_8 "textures/tex0474_00.png"
+    texture_9 "textures/tex0474_00.png"
+    texture_10 "textures/tex0474_00.png"
+    texture_11 "textures/tex0474_00.png"
+    texture_12 "textures/tex0474_00.png"
+    texture_13 "textures/tex0474_00.png"
+    texture_14 "textures/tex0474_00.png"
+    texture_15 "textures/Openworld/tex0474_15.png"
+}
+
+"textures/tex0475_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0475_00.png"
+    texture_2 "textures/tex0475_00.png"
+    texture_3 "textures/tex0475_00.png"
+    texture_4 "textures/tex0475_00.png"
+    texture_5 "textures/tex0475_00.png"
+    texture_6 "textures/tex0475_00.png"
+    texture_7 "textures/tex0475_00.png"
+    texture_8 "textures/tex0475_00.png"
+    texture_9 "textures/tex0475_00.png"
+    texture_10 "textures/tex0475_00.png"
+    texture_11 "textures/tex0475_00.png"
+    texture_12 "textures/tex0475_00.png"
+    texture_13 "textures/tex0475_00.png"
+    texture_14 "textures/tex0475_00.png"
+    texture_15 "textures/Openworld/tex0475_15.png"
+}
+
+"textures/tex0476_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0476_00.png"
+    texture_2 "textures/tex0476_00.png"
+    texture_3 "textures/tex0476_00.png"
+    texture_4 "textures/Openworld/tex0476_04.png"
+}
+
+"textures/tex0477_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0477_00.png"
+    texture_2 "textures/tex0477_00.png"
+    texture_3 "textures/tex0477_00.png"
+    texture_4 "textures/Openworld/tex0477_04.png"
+}
+
+"textures/tex0489_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0489_00.png"
+    texture_2 "textures/tex0489_00.png"
+    texture_3 "textures/tex0489_00.png"
+    texture_4 "textures/tex0489_00.png"
+    texture_5 "textures/tex0489_00.png"
+    texture_6 "textures/tex0489_00.png"
+    texture_7 "textures/tex0489_00.png"
+    texture_8 "textures/tex0489_00.png"
+    texture_9 "textures/tex0489_00.png"
+    texture_10 "textures/tex0489_00.png"
+    texture_11 "textures/tex0489_00.png"
+    texture_12 "textures/tex0489_00.png"
+    texture_13 "textures/tex0489_00.png"
+    texture_14 "textures/tex0489_00.png"
+    texture_15 "textures/Openworld/tex0489_15.png"
+}
+
+"textures/tex0490_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0490_00.png"
+    texture_2 "textures/tex0490_00.png"
+    texture_3 "textures/tex0490_00.png"
+    texture_4 "textures/tex0490_00.png"
+    texture_5 "textures/tex0490_00.png"
+    texture_6 "textures/tex0490_00.png"
+    texture_7 "textures/tex0490_00.png"
+    texture_8 "textures/tex0490_00.png"
+    texture_9 "textures/tex0490_00.png"
+    texture_10 "textures/tex0490_00.png"
+    texture_11 "textures/tex0490_00.png"
+    texture_12 "textures/tex0490_00.png"
+    texture_13 "textures/tex0490_00.png"
+    texture_14 "textures/tex0490_00.png"
+    texture_15 "textures/Openworld/tex0490_15.png"
+}
+
+"textures/tex0491_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0491_00.png"
+    texture_2 "textures/tex0491_00.png"
+    texture_3 "textures/tex0491_00.png"
+    texture_4 "textures/tex0491_00.png"
+    texture_5 "textures/tex0491_00.png"
+    texture_6 "textures/tex0491_00.png"
+    texture_7 "textures/tex0491_00.png"
+    texture_8 "textures/tex0491_00.png"
+    texture_9 "textures/tex0491_00.png"
+    texture_10 "textures/tex0491_00.png"
+    texture_11 "textures/tex0491_00.png"
+    texture_12 "textures/tex0491_00.png"
+    texture_13 "textures/tex0491_00.png"
+    texture_14 "textures/tex0491_00.png"
+    texture_15 "textures/Openworld/tex0491_15.png"
+}
+
+"textures/tex0492_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0492_00.png"
+    texture_2 "textures/tex0492_00.png"
+    texture_3 "textures/tex0492_00.png"
+    texture_4 "textures/tex0492_00.png"
+    texture_5 "textures/tex0492_00.png"
+    texture_6 "textures/tex0492_00.png"
+    texture_7 "textures/tex0492_00.png"
+    texture_8 "textures/tex0492_00.png"
+    texture_9 "textures/tex0492_00.png"
+    texture_10 "textures/tex0492_00.png"
+    texture_11 "textures/tex0492_00.png"
+    texture_12 "textures/tex0492_00.png"
+    texture_13 "textures/tex0492_00.png"
+    texture_14 "textures/tex0492_00.png"
+    texture_15 "textures/Openworld/tex0492_15.png"
+}
+
+"textures/tex0493_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0493_00.png"
+    texture_2 "textures/tex0493_00.png"
+    texture_3 "textures/tex0493_00.png"
+    texture_4 "textures/tex0493_00.png"
+    texture_5 "textures/tex0493_00.png"
+    texture_6 "textures/tex0493_00.png"
+    texture_7 "textures/tex0493_00.png"
+    texture_8 "textures/tex0493_00.png"
+    texture_9 "textures/tex0493_00.png"
+    texture_10 "textures/tex0493_00.png"
+    texture_11 "textures/tex0493_00.png"
+    texture_12 "textures/tex0493_00.png"
+    texture_13 "textures/tex0493_00.png"
+    texture_14 "textures/tex0493_00.png"
+    texture_15 "textures/Openworld/tex0493_15.png"
+}
+
+"textures/tex0494_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0494_00.png"
+    texture_2 "textures/tex0494_00.png"
+    texture_3 "textures/tex0494_00.png"
+    texture_4 "textures/tex0494_00.png"
+    texture_5 "textures/tex0494_00.png"
+    texture_6 "textures/tex0494_00.png"
+    texture_7 "textures/tex0494_00.png"
+    texture_8 "textures/tex0494_00.png"
+    texture_9 "textures/tex0494_00.png"
+    texture_10 "textures/tex0494_00.png"
+    texture_11 "textures/tex0494_00.png"
+    texture_12 "textures/tex0494_00.png"
+    texture_13 "textures/tex0494_00.png"
+    texture_14 "textures/tex0494_00.png"
+    texture_15 "textures/Openworld/tex0494_15.png"
+}
+
+"textures/tex0499_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0499_00.png"
+    texture_2 "textures/tex0499_00.png"
+    texture_3 "textures/tex0499_00.png"
+    texture_4 "textures/tex0499_00.png"
+    texture_5 "textures/tex0499_00.png"
+    texture_6 "textures/tex0499_00.png"
+    texture_7 "textures/tex0499_00.png"
+    texture_8 "textures/tex0499_00.png"
+    texture_9 "textures/tex0499_00.png"
+    texture_10 "textures/tex0499_00.png"
+    texture_11 "textures/tex0499_00.png"
+    texture_12 "textures/tex0499_00.png"
+    texture_13 "textures/tex0499_00.png"
+    texture_14 "textures/tex0499_00.png"
+    texture_15 "textures/Openworld/tex0499_15.png"
+}
+
+"textures/tex0501_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0501_01.png"
+    texture_2 "textures/Openworld/tex0501_02.png"
+    texture_3 "textures/Openworld/tex0501_03.png"
+}
+
+"textures/tex0508_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0508_01.png"
+    texture_2 "textures/tex0508_00.png"
+    texture_3 "textures/tex0508_00.png"
+    texture_4 "textures/tex0508_00.png"
+    texture_5 "textures/tex0508_00.png"
+    texture_6 "textures/tex0508_00.png"
+    texture_7 "textures/tex0508_00.png"
+    texture_8 "textures/tex0508_00.png"
+    texture_9 "textures/tex0508_00.png"
+    texture_10 "textures/tex0508_00.png"
+    texture_11 "textures/tex0508_00.png"
+    texture_12 "textures/tex0508_00.png"
+    texture_13 "textures/tex0508_00.png"
+    texture_14 "textures/tex0508_00.png"
+    texture_15 "textures/Openworld/tex0508_15.png"
+}
+
+"textures/tex0524_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0524_00.png"
+    texture_2 "textures/tex0524_00.png"
+    texture_3 "textures/tex0524_00.png"
+    texture_4 "textures/tex0524_00.png"
+    texture_5 "textures/tex0524_00.png"
+    texture_6 "textures/tex0524_00.png"
+    texture_7 "textures/tex0524_00.png"
+    texture_8 "textures/tex0524_00.png"
+    texture_9 "textures/tex0524_00.png"
+    texture_10 "textures/tex0524_00.png"
+    texture_11 "textures/tex0524_00.png"
+    texture_12 "textures/tex0524_00.png"
+    texture_13 "textures/tex0524_00.png"
+    texture_14 "textures/tex0524_00.png"
+    texture_15 "textures/Openworld/tex0524_15.png"
+}
+
+"textures/tex0525_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0525_00.png"
+    texture_2 "textures/tex0525_00.png"
+    texture_3 "textures/tex0525_00.png"
+    texture_4 "textures/tex0525_00.png"
+    texture_5 "textures/tex0525_00.png"
+    texture_6 "textures/tex0525_00.png"
+    texture_7 "textures/tex0525_00.png"
+    texture_8 "textures/tex0525_00.png"
+    texture_9 "textures/tex0525_00.png"
+    texture_10 "textures/tex0525_00.png"
+    texture_11 "textures/tex0525_00.png"
+    texture_12 "textures/tex0525_00.png"
+    texture_13 "textures/tex0525_00.png"
+    texture_14 "textures/tex0525_00.png"
+    texture_15 "textures/Openworld/tex0525_15.png"
+}
+
+"textures/tex0526_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0526_00.png"
+    texture_2 "textures/tex0526_00.png"
+    texture_3 "textures/tex0526_00.png"
+    texture_4 "textures/tex0526_00.png"
+    texture_5 "textures/tex0526_00.png"
+    texture_6 "textures/tex0526_00.png"
+    texture_7 "textures/tex0526_00.png"
+    texture_8 "textures/tex0526_00.png"
+    texture_9 "textures/tex0526_00.png"
+    texture_10 "textures/tex0526_00.png"
+    texture_11 "textures/tex0526_00.png"
+    texture_12 "textures/tex0526_00.png"
+    texture_13 "textures/tex0526_00.png"
+    texture_14 "textures/tex0526_00.png"
+    texture_15 "textures/Openworld/tex0526_15.png"
+}
+
+"textures/tex0528_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/Openworld/tex0528_01.png"
+    texture_2 "textures/Openworld/tex0528_02.png"
+    texture_3 "textures/Openworld/tex0528_03.png"
+    texture_4 "textures/Openworld/tex0528_04.png"
+    texture_5 "textures/Openworld/tex0528_05.png"
+    texture_6 "textures/Openworld/tex0528_06.png"
+    texture_7 "textures/tex0528_00.png"
+    texture_8 "textures/tex0528_00.png"
+    texture_9 "textures/tex0528_00.png"
+    texture_10 "textures/Openworld/tex0528_10.png"
+    texture_11 "textures/Openworld/tex0528_11.png"
+    texture_12 "textures/Openworld/tex0528_12.png"
+    texture_13 "textures/Openworld/tex0528_13.png"
+    texture_14 "textures/Openworld/tex0528_14.png"
+    texture_15 "textures/Openworld/tex0528_15.png"
+    texture_16 "textures/Openworld/tex0528_16.png"
+    texture_17 "textures/Openworld/tex0528_17.png"
+    texture_18 "textures/Openworld/tex0528_18.png"
+    texture_19 "textures/Openworld/tex0528_19.png"
+    texture_20 "textures/Openworld/tex0528_20.png"
+    texture_21 "textures/Openworld/tex0528_21.png"
+    texture_22 "textures/Openworld/tex0528_22.png"
+    texture_23 "textures/Openworld/tex0528_23.png"
+    texture_24 "textures/Openworld/tex0528_24.png"
+    texture_25 "textures/Openworld/tex0528_25.png"
+    texture_26 "textures/Openworld/tex0528_26.png"
+    texture_27 "textures/Openworld/tex0528_27.png"
+    texture_28 "textures/Openworld/tex0528_28.png"
+    texture_29 "textures/Openworld/tex0528_29.png"
+    texture_30 "textures/Openworld/tex0528_30.png"
+    texture_31 "textures/Openworld/tex0528_31.png"
+    texture_32 "textures/Openworld/tex0528_32.png"
+    texture_33 "textures/Openworld/tex0528_33.png"
+    texture_34 "textures/Openworld/tex0528_34.png"
+    texture_35 "textures/Openworld/tex0528_35.png"
+    texture_36 "textures/Openworld/tex0528_36.png"
+    texture_37 "textures/Openworld/tex0528_37.png"
+    texture_38 "textures/Openworld/tex0528_38.png"
+    texture_39 "textures/Openworld/tex0528_39.png"
+    texture_40 "textures/Openworld/tex0528_40.png"
+    texture_41 "textures/Openworld/tex0528_41.png"
+    texture_42 "textures/Openworld/tex0528_42.png"
+    texture_43 "textures/Openworld/tex0528_43.png"
+    texture_44 "textures/Openworld/tex0528_44.png"
+    texture_44 "textures/Openworld/tex0528_44.png"
+    texture_45 "textures/Openworld/tex0528_45.png"
+    texture_46 "textures/Openworld/tex0528_46.png"
+    texture_47 "textures/Openworld/tex0528_47.png"
+    texture_48 "textures/Openworld/tex0528_48.png"
+    texture_49 "textures/Openworld/tex0528_49.png"
+    texture_50 "textures/Openworld/tex0528_50.png"
+    texture_51 "textures/Openworld/tex0528_51.png"
+    texture_52 "textures/Openworld/tex0528_52.png"
+    texture_53 "textures/Openworld/tex0528_53.png"
+    texture_54 "textures/acf610b0.png"
+    texture_55 "textures/upscaledstorm.png"
+    texture_56 "textures/293a6121.png"
+    texture_57 "textures/1d2a1573.png"
+    texture_58 "textures/00142eff.png"
+    texture_59 "textures/abf45533.png"
+    texture_60 "textures/fafe748a.png"
+    texture_61 "textures/e544c3c5.png"
+    texture_62 "textures/ecef64d5.png"
+    texture_63 "textures/Openworld/tex0528_63.png"
+    texture_64 "textures/Openworld/tex0528_64.png"
+    texture_65 "textures/Openworld/tex0528_65.png"
+    texture_66 "textures/Openworld/tex0528_66.png"
+    texture_67 "textures/Openworld/tex0528_67.png"
+    texture_68 "textures/Openworld/tex0528_68.png"
+    texture_69 "textures/Openworld/tex0528_69.png"
+    texture_70 "textures/Openworld/tex0528_70.png"
+    texture_71 "textures/Openworld/tex0528_71.png"
+    texture_72 "textures/Openworld/tex0528_72.png"
+    texture_73 "textures/Openworld/tex0528_73.png"
+    texture_74 "textures/Openworld/tex0528_74.png"
+    texture_75 "textures/Openworld/tex0528_75.png"
+    texture_76 "textures/Openworld/tex0528_76.png"
+    texture_77 "textures/Openworld/tex0528_77.png"
+    texture_78 "textures/Openworld/tex0528_78.png"
+    texture_79 "textures/Openworld/tex0528_79.png"
+    texture_80 "textures/Openworld/tex0528_80.png"
+    texture_81 "textures/Openworld/tex0528_81.png"
+    texture_82 "textures/Openworld/tex0528_82.png"
+    texture_83 "textures/Openworld/tex0528_83.png"
+    texture_84 "textures/Openworld/tex0528_84.png"
+    texture_85 "textures/Openworld/tex0528_85.png"
+    texture_86 "textures/Openworld/tex0113_02.png"
+}
+
+"textures/tex0529_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0529_01.png"
+}
+
+"textures/tex0530_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0530_01.png"
+}
+
+"textures/tex0531_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/Openworld/tex0531_01.png"
+    texture_2 "textures/Openworld/tex0531_02.png"
+}
+
+
+"textures/tex0532_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/Openworld/tex0532_01.png"
+    texture_2 "textures/Openworld/tex0532_02.png"
+    texture_3 "textures/Openworld/tex0532_03.png"
+    texture_4 "textures/Openworld/tex0532_04.png"
+    texture_5 "textures/tex0532_00.png"
+    texture_6 "textures/Openworld/tex0532_06.png"
+    texture_7 "textures/tex0532_00.png"
+    texture_8 "textures/tex0532_00.png"
+    texture_9 "textures/tex0532_00.png"
+    texture_10 "textures/Openworld/tex0532_10.png"
+    texture_11 "textures/Openworld/tex0532_11.png"
+    texture_12 "textures/tex0532_00.png"
+    texture_13 "textures/tex0532_00.png"
+    texture_14 "textures/tex0532_00.png"
+    texture_15 "textures/tex0532_00.png"
+    texture_16 "textures/tex0532_00.png"
+    texture_17 "textures/tex0532_00.png"
+    texture_18 "textures/tex0532_00.png"
+    texture_19 "textures/tex0532_00.png"
+    texture_20 "textures/Openworld/tex0532_20.png"
+    texture_21 "textures/Openworld/tex0532_21.png"
+    texture_22 "textures/Openworld/tex0532_11.png"
+    texture_23 "textures/tex0532_00.png"
+    texture_24 "textures/Openworld/tex0532_24.png"
+    texture_25 "textures/Openworld/tex0532_24.png"
+    texture_26 "textures/tex0532_00.png"
+    texture_27 "textures/Openworld/tex0532_27.png"
+    texture_28 "textures/tex0532_00.png"
+    texture_29 "textures/tex0532_00.png"
+    texture_30 "textures/tex0532_00.png"
+    texture_31 "textures/tex0532_00.png"
+    texture_32 "textures/tex0532_00.png"
+    texture_33 "textures/tex0532_00.png"
+    texture_34 "textures/tex0532_00.png"
+    texture_35 "textures/tex0532_00.png"
+    texture_36 "textures/tex0532_00.png"
+    texture_37 "textures/tex0532_00.png"
+    texture_38 "textures/Openworld/tex0532_38.png"
+    texture_39 "textures/Openworld/tex0532_39.png"
+    texture_40 "textures/tex0532_00.png"
+    texture_41 "textures/Openworld/tex0532_41.png"
+    texture_42 "textures/Openworld/tex0528_41.png"
+    texture_43 "textures/Openworld/tex0528_41.png"
+    texture_44 "textures/Openworld/tex0528_41.png"
+    texture_45 "textures/Openworld/tex0528_41.png"
+    texture_46 "textures/tex0532_00.png"
+    texture_47 "textures/tex0532_00.png"
+    texture_48 "textures/tex0532_00.png"
+    texture_49 "textures/tex0532_00.png"
+    texture_50 "textures/tex0532_00.png"
+    texture_51 "textures/tex0532_00.png"
+    texture_52 "textures/tex0532_00.png"
+    texture_53 "textures/tex0532_00.png"
+    texture_54 "textures/tex0532_00.png"
+    texture_55 "textures/tex0532_00.png"
+    texture_56 "textures/tex0532_00.png"
+    texture_57 "textures/tex0532_00.png"
+    texture_58 "textures/tex0532_00.png"
+    texture_59 "textures/tex0532_00.png"
+    texture_60 "textures/tex0532_00.png"
+    texture_61 "textures/tex0532_00.png"
+    texture_62 "textures/tex0532_00.png"
+    texture_63 "textures/tex0532_00.png"
+    texture_64 "textures/tex0532_00.png"
+    texture_65 "textures/tex0532_00.png"
+    texture_66 "textures/tex0532_00.png"
+    texture_67 "textures/tex0532_00.png"
+    texture_68 "textures/Openworld/tex0528_68.png"
+    texture_69 "textures/Openworld/tex0528_69.png"
+    texture_70 "textures/tex0532_00.png"
+    texture_71 "textures/tex0532_00.png"
+    texture_72 "textures/Openworld/tex0528_72.png"
+    texture_73 "textures/Openworld/tex0528_73.png"
+    texture_74 "textures/Openworld/tex0528_74.png"
+    texture_75 "textures/Openworld/tex0528_75.png"
+    texture_76 "textures/tex0532_00.png"
+    texture_77 "textures/tex0532_00.png"
+    texture_78 "textures/tex0532_00.png"
+    texture_79 "textures/tex0532_00.png"
+    texture_80 "textures/tex0532_00.png"
+    texture_81 "textures/tex0532_00.png"
+    texture_82 "textures/tex0532_00.png"
+    texture_83 "textures/tex0532_00.png"
+    texture_84 "textures/tex0532_00.png"
+    texture_85 "textures/tex0532_00.png"
+    texture_86 "textures/Openworld/tex0113_02.png"
+}
+
+"textures/tex0536_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0536_00.png"
+    texture_2 "textures/tex0536_00.png"
+    texture_3 "textures/tex0536_00.png"
+    texture_4 "textures/tex0536_00.png"
+    texture_5 "textures/tex0536_00.png"
+    texture_6 "textures/tex0536_00.png"
+    texture_7 "textures/tex0536_00.png"
+    texture_8 "textures/tex0536_00.png"
+    texture_9 "textures/tex0536_00.png"
+    texture_10 "textures/tex0536_00.png"
+    texture_11 "textures/tex0536_00.png"
+    texture_12 "textures/tex0536_00.png"
+    texture_13 "textures/tex0536_00.png"
+    texture_14 "textures/tex0536_00.png"
+    texture_15 "textures/Openworld/tex0536_15.png"
+}
+
+"textures/tex0537_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0537_01.png"
+    texture_2 "textures/tex0537_00.png"
+    texture_3 "textures/tex0537_00.png"
+    texture_4 "textures/Openworld/tex0537_04.png"
+}
+
+"textures/tex0538_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0538_00.png"
+    texture_2 "textures/tex0538_00.png"
+    texture_3 "textures/tex0538_00.png"
+    texture_4 "textures/tex0538_00.png"
+    texture_5 "textures/tex0538_00.png"
+    texture_6 "textures/tex0538_00.png"
+    texture_7 "textures/tex0538_00.png"
+    texture_8 "textures/tex0538_00.png"
+    texture_9 "textures/tex0538_00.png"
+    texture_10 "textures/tex0538_00.png"
+    texture_11 "textures/tex0538_00.png"
+    texture_12 "textures/tex0538_00.png"
+    texture_13 "textures/tex0538_00.png"
+    texture_14 "textures/tex0538_00.png"
+    texture_15 "textures/Openworld/tex0538_15.png"
+}
+
+"textures/tex0539_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0539_00.png"
+    texture_2 "textures/tex0539_00.png"
+    texture_3 "textures/tex0539_00.png"
+    texture_4 "textures/Openworld/tex0539_04.png"
+    texture_5 "textures/tex0539_00.png"
+    texture_6 "textures/tex0539_00.png"
+    texture_7 "textures/tex0539_00.png"
+    texture_8 "textures/tex0539_00.png"
+    texture_9 "textures/tex0539_00.png"
+    texture_10 "textures/tex0539_00.png"
+    texture_11 "textures/tex0539_00.png"
+    texture_12 "textures/tex0539_00.png"
+    texture_13 "textures/tex0539_00.png"
+    texture_14 "textures/tex0539_00.png"
+    texture_15 "textures/Openworld/tex0539_15.png"
+}
+
+"textures/tex0541_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0541_00.png"
+    texture_2 "textures/tex0541_00.png"
+    texture_3 "textures/tex0541_00.png"
+    texture_4 "textures/tex0541_00.png"
+    texture_5 "textures/tex0541_00.png"
+    texture_6 "textures/tex0541_00.png"
+    texture_7 "textures/tex0541_00.png"
+    texture_8 "textures/tex0541_00.png"
+    texture_9 "textures/tex0541_00.png"
+    texture_10 "textures/tex0541_00.png"
+    texture_11 "textures/tex0541_00.png"
+    texture_12 "textures/tex0541_00.png"
+    texture_13 "textures/tex0541_00.png"
+    texture_14 "textures/tex0541_00.png"
+    texture_15 "textures/Openworld/tex0541_15.png"
+}
+
+"textures/tex0546_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0546_00.png"
+    texture_2 "textures/tex0546_00.png"
+    texture_3 "textures/tex0546_00.png"
+    texture_4 "textures/tex0546_00.png"
+    texture_5 "textures/tex0546_00.png"
+    texture_6 "textures/tex0546_00.png"
+    texture_7 "textures/tex0546_00.png"
+    texture_8 "textures/tex0546_00.png"
+    texture_9 "textures/tex0546_00.png"
+    texture_10 "textures/tex0546_00.png"
+    texture_11 "textures/tex0546_00.png"
+    texture_12 "textures/tex0546_00.png"
+    texture_13 "textures/tex0546_00.png"
+    texture_14 "textures/tex0546_00.png"
+    texture_15 "textures/Openworld/tex0546_15.png"
+}
+
+"textures/tex0547_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0547_00.png"
+    texture_2 "textures/tex0547_00.png"
+    texture_3 "textures/tex0547_00.png"
+    texture_4 "textures/tex0547_00.png"
+    texture_5 "textures/tex0547_00.png"
+    texture_6 "textures/tex0547_00.png"
+    texture_7 "textures/tex0547_00.png"
+    texture_8 "textures/tex0547_00.png"
+    texture_9 "textures/tex0547_00.png"
+    texture_10 "textures/tex0547_00.png"
+    texture_11 "textures/tex0547_00.png"
+    texture_12 "textures/tex0547_00.png"
+    texture_13 "textures/tex0547_00.png"
+    texture_14 "textures/tex0547_00.png"
+    texture_15 "textures/Openworld/tex0547_15.png"
+}
+
+"textures/tex0548_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0548_01.png"
+    texture_2 "textures/tex0548_00.png"
+    texture_3 "textures/tex0548_00.png"
+    texture_4 "textures/tex0548_00.png"
+    texture_5 "textures/tex0548_00.png"
+    texture_6 "textures/tex0548_00.png"
+    texture_7 "textures/tex0548_00.png"
+    texture_8 "textures/tex0548_00.png"
+    texture_9 "textures/tex0548_00.png"
+    texture_10 "textures/tex0548_00.png"
+    texture_11 "textures/tex0548_00.png"
+    texture_12 "textures/tex0548_00.png"
+    texture_13 "textures/tex0548_00.png"
+    texture_14 "textures/tex0548_00.png"
+    texture_15 "textures/Openworld/tex0548_15.png"
+}
+
+"textures/tex0549_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0549_01.png"
+    texture_2 "textures/tex0549_02.png"
+    texture_3 "textures/tex0549_03.png"
+    texture_4 "textures/tex0549_04.png"
+    texture_5 "textures/tex0549_05.png"
+    texture_6 "textures/tex0549_06.png"
+    texture_7 "textures/tex0549_07.png"
+    texture_8 "textures/tex0549_08.png"
+    texture_9 "textures/tex0549_09.png"
+    texture_10 "textures/tex0549_10.png"
+}
+
+"textures/tex0550_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0550_01.png"
+}
+
+"textures/tex0555_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0555_01.png"
+    texture_2 "textures/tex0555_02.png"
+    texture_3 "textures/tex0555_03.png"
+    texture_4 "textures/tex0555_04.png"
+}
+
+"textures/tex0557_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0557_01.png"
+}
+
+"textures/tex0559_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0559_01.png"
+}
+
+"textures/tex0567_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0567_01.png"
+    texture_2 "textures/tex0567_02.png"
+    texture_3 "textures/tex0567_03.png"
+}
+
+"textures/tex0570_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/Openworld/tex0570_01.png"
+
+"textures/tex0571_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0571_01.png"
+}
+
+"textures/tex0575_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0575_01.png"
+    texture_2 "textures/tex0575_02.png"
+    texture_3 "textures/tex0575_03.png"
+}
+
+"textures/tex0580_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0580_01.png"
+    texture_2 "textures/tex0580_02.png"
+    texture_3 "textures/tex0580_03.png"
+    texture_4 "textures/tex0580_04.png"
+    texture_5 "textures/tex0580_05.png"
+    texture_6 "textures/tex0580_06.png"
+    texture_7 "textures/tex0580_07.png"
+    texture_8 "textures/tex0580_08.png"
+    texture_9 "textures/tex0580_09.png"
+}
+
+"textures/tex0589_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0589_01.png"
+}
+
+"textures/tex0591_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0591_01.png"
+    texture_2 "textures/tex0591_02.png"
+    texture_3 "textures/tex0591_03.png"
+    texture_4 "textures/tex0591_04.png"
+    texture_5 "textures/tex0591_00.png"
+    texture_6 "textures/tex0591_00.png"
+    texture_7 "textures/tex0591_00.png"
+    texture_8 "textures/tex0591_00.png"
+    texture_9 "textures/tex0591_00.png"
+    texture_10 "textures/tex0591_00.png"
+    texture_11 "textures/tex0591_00.png"
+    texture_12 "textures/tex0591_00.png"
+    texture_13 "textures/tex0591_00.png"
+    texture_14 "textures/tex0591_00.png"
+    texture_15 "textures/Openworld/tex0591_15.png"
+    texture_16 "textures/Openworld/tex0591_16.png"
+    texture_17 "textures/Openworld/tex0591_17.png"
+    texture_18 "textures/tex0591_04.png"
+    texture_19 "textures/tex0591_00.png"
+    texture_20 "textures/tex0591_00.png"
+    texture_21 "textures/tex0591_00.png"
+    texture_22 "textures/tex0591_00.png"
+    texture_23 "textures/tex0591_00.png"
+    texture_24 "textures/tex0591_00.png"
+    texture_25 "textures/tex0591_00.png"
+    texture_26 "textures/tex0591_00.png"
+    texture_27 "textures/Openworld/tex0591_27.png"
+}
+
+"textures/tex0592_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0592_00.png"
+    texture_2 "textures/tex0592_02.png"
+    texture_3 "textures/tex0592_03.png"
+    texture_4 "textures/tex0592_04.png"
+    texture_5 "textures/tex0592_00.png"
+    texture_6 "textures/tex0592_00.png"
+    texture_7 "textures/tex0592_00.png"
+    texture_8 "textures/tex0592_00.png"
+    texture_9 "textures/tex0592_00.png"
+    texture_10 "textures/tex0592_00.png"
+    texture_11 "textures/tex0592_00.png"
+    texture_12 "textures/tex0592_00.png"
+    texture_13 "textures/tex0592_00.png"
+    texture_14 "textures/tex0592_00.png"
+    texture_15 "textures/Openworld/tex0592_15.png"
+}
+
+"textures/tex0600_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0600_01.png"
+    texture_2 "textures/tex0600_02.png"
+    texture_3 "textures/tex0600_03.png"
+    texture_4 "textures/tex0600_04.png"
+    texture_5 "textures/tex0600_05.png"
+}
+
+"textures/tex0601_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0601_01.png"
+    texture_2 "textures/tex0601_02.png"
+    texture_3 "textures/tex0601_03.png"
+    texture_4 "textures/tex0601_04.png"
+    texture_5 "textures/tex0601_05.png"
+    texture_6 "textures/tex0601_06.png"
+}
+
+"textures/tex0610_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0610_01.png"
+    texture_2 "textures/tex0610_02.png"
+    texture_3 "textures/tex0610_03.png"
+    texture_4 "textures/tex0610_04.png"
+}
+
+"textures/tex0612_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0612_01.png"
+    texture_2 "textures/tex0612_02.png"
+    texture_3 "textures/tex0612_03.png"
+    texture_4 "textures/tex0612_04.png"
+    texture_5 "textures/tex0612_05.png"
+    texture_6 "textures/tex0612_06.png"
+    texture_7 "textures/tex0612_07.png"
+    texture_8 "textures/tex0612_08.png"
+    texture_9 "textures/tex0612_09.png"
+    texture_10 "textures/tex0612_10.png"
+    texture_11 "textures/tex0612_11.png"
+    texture_12 "textures/tex0612_12.png"
+    texture_13 "textures/tex0612_13.png"
+}
+
+"textures/tex0615_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0615_01.png"
+    texture_2 "textures/tex0615_01.png"
+    texture_3 "textures/tex0615_01.png"
+    texture_4 "textures/Openworld/tex0615_04.png"
+}
+
+"textures/tex0616_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0616_00.png"
+    texture_2 "textures/tex0616_00.png"
+    texture_3 "textures/tex0616_00.png"
+    texture_4 "textures/Openworld/tex0616_04.png"
+    texture_5 "textures/tex0616_00.png"
+    texture_6 "textures/tex0616_00.png"
+    texture_7 "textures/tex0616_00.png"
+    texture_8 "textures/tex0616_00.png"
+    texture_9 "textures/tex0616_00.png"
+    texture_10 "textures/tex0616_00.png"
+    texture_11 "textures/tex0616_00.png"
+    texture_12 "textures/tex0616_00.png"
+    texture_13 "textures/tex0616_00.png"
+    texture_14 "textures/tex0616_00.png"
+    texture_15 "textures/Openworld/tex0616_15.png"
+}
+
+"textures/tex0617_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0617_01.png"
+    texture_2 "textures/tex0617_00.png"
+    texture_3 "textures/tex0617_00.png"
+    texture_4 "textures/tex0617_00.png"
+    texture_5 "textures/tex0617_00.png"
+    texture_6 "textures/tex0617_00.png"
+    texture_7 "textures/tex0617_00.png"
+    texture_8 "textures/tex0617_00.png"
+    texture_9 "textures/tex0617_00.png"
+    texture_10 "textures/tex0617_00.png"
+    texture_11 "textures/tex0617_00.png"
+    texture_12 "textures/tex0617_00.png"
+    texture_13 "textures/tex0617_00.png"
+    texture_14 "textures/tex0617_00.png"
+    texture_15 "textures/Openworld/tex0617_15.png"
+}
+
+"textures/tex0625_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0625_00.png"
+    texture_2 "textures/tex0625_00.png"
+    texture_3 "textures/tex0625_00.png"
+    texture_4 "textures/tex0625_00.png"
+    texture_5 "textures/tex0625_00.png"
+    texture_6 "textures/tex0625_00.png"
+    texture_7 "textures/tex0625_00.png"
+    texture_8 "textures/tex0625_00.png"
+    texture_9 "textures/tex0625_00.png"
+    texture_10 "textures/tex0625_00.png"
+    texture_11 "textures/tex0625_00.png"
+    texture_12 "textures/tex0625_00.png"
+    texture_13 "textures/tex0625_00.png"
+    texture_14 "textures/tex0625_00.png"
+    texture_15 "textures/Openworld/tex0625_15.png"
+}
+
+"textures/tex0626_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0626_00.png"
+    texture_2 "textures/tex0626_00.png"
+    texture_3 "textures/tex0626_00.png"
+    texture_4 "textures/tex0626_00.png"
+    texture_5 "textures/tex0626_00.png"
+    texture_6 "textures/tex0626_00.png"
+    texture_7 "textures/tex0626_00.png"
+    texture_8 "textures/tex0626_00.png"
+    texture_9 "textures/tex0626_00.png"
+    texture_10 "textures/tex0626_00.png"
+    texture_11 "textures/tex0626_00.png"
+    texture_12 "textures/tex0626_00.png"
+    texture_13 "textures/tex0626_00.png"
+    texture_14 "textures/tex0626_00.png"
+    texture_15 "textures/Openworld/tex0626_15.png"
+}
+
+"textures/tex0628_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/Openworld/tex0628_01.png"
+    texture_2 "textures/tex0628_00.png"
+    texture_3 "textures/tex0628_00.png"
+    texture_4 "textures/tex0628_00.png"
+    texture_5 "textures/tex0628_00.png"
+    texture_6 "textures/tex0628_00.png"
+    texture_7 "textures/tex0628_00.png"
+    texture_8 "textures/tex0628_00.png"
+    texture_9 "textures/tex0628_00.png"
+    texture_10 "textures/tex0628_00.png"
+    texture_11 "textures/tex0628_00.png"
+    texture_12 "textures/tex0628_00.png"
+    texture_13 "textures/tex0628_00.png"
+    texture_14 "textures/tex0628_00.png"
+    texture_15 "textures/Openworld/tex0628_15.png"
+}
+
+"textures/tex0629_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0629_01.png"
+}
+
+"textures/tex0630_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0630_01.png"
+}
+
+"textures/tex0631_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0631_01.png"
+}
+
+"textures/tex0632_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0632_01.png"
+}
+
+"textures/tex0633_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0633_00.png"
+    texture_2 "textures/tex0633_00.png"
+    texture_3 "textures/tex0633_00.png"
+    texture_4 "textures/Openworld/tex0633_04.png"
+}
+
+"textures/tex0634_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0634_00.png"
+    texture_2 "textures/tex0634_00.png"
+    texture_3 "textures/tex0634_00.png"
+    texture_4 "textures/Openworld/tex0634_04.png"
+    texture_5 "textures/tex0634_00.png"
+    texture_6 "textures/tex0634_00.png"
+    texture_7 "textures/tex0634_00.png"
+    texture_8 "textures/tex0634_00.png"
+    texture_9 "textures/tex0634_00.png"
+    texture_10 "textures/tex0634_00.png"
+    texture_11 "textures/tex0634_00.png"
+    texture_12 "textures/tex0634_00.png"
+    texture_13 "textures/tex0634_00.png"
+    texture_14 "textures/tex0634_00.png"
+    texture_15 "textures/Openworld/tex0634_15.png"
+}
+
+"textures/tex0635_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0635_00.png"
+    texture_2 "textures/tex0635_00.png"
+    texture_3 "textures/tex0635_00.png"
+    texture_4 "textures/tex0635_00.png"
+    texture_5 "textures/tex0635_00.png"
+    texture_6 "textures/tex0635_00.png"
+    texture_7 "textures/tex0635_00.png"
+    texture_8 "textures/tex0635_00.png"
+    texture_9 "textures/tex0635_00.png"
+    texture_10 "textures/tex0635_00.png"
+    texture_11 "textures/tex0635_00.png"
+    texture_12 "textures/tex0635_00.png"
+    texture_13 "textures/tex0635_00.png"
+    texture_14 "textures/tex0635_00.png"
+    texture_15 "textures/Openworld/tex0635_15.png"
+}
+
+"textures/tex0638_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0638_01.png"
+    texture_2 "textures/tex0638_02.png"
+    texture_3 "textures/tex0638_03.png"
+    texture_4 "textures/Openworld/tex0638_04.png"
+    texture_5 "textures/tex0638_00.png"
+    texture_6 "textures/tex0638_00.png"
+    texture_7 "textures/tex0638_00.png"
+    texture_8 "textures/tex0638_00.png"
+    texture_9 "textures/tex0638_00.png"
+    texture_10 "textures/tex0638_00.png"
+    texture_11 "textures/tex0638_00.png"
+    texture_12 "textures/tex0638_00.png"
+    texture_13 "textures/tex0638_00.png"
+    texture_14 "textures/tex0638_00.png"
+    texture_15 "textures/Openworld/tex0638_15.png"
+}
+
+"textures/tex0639_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0639_00.png"
+    texture_2 "textures/tex0639_00.png"
+    texture_3 "textures/tex0639_00.png"
+    texture_4 "textures/Openworld/tex0639_04.png"
+    texture_5 "textures/tex0639_00.png"
+    texture_6 "textures/tex0639_00.png"
+    texture_7 "textures/tex0639_00.png"
+    texture_8 "textures/tex0639_00.png"
+    texture_9 "textures/tex0639_00.png"
+    texture_10 "textures/tex0639_00.png"
+    texture_11 "textures/tex0639_00.png"
+    texture_12 "textures/tex0639_00.png"
+    texture_13 "textures/tex0639_00.png"
+    texture_14 "textures/tex0639_00.png"
+    texture_15 "textures/Openworld/tex0639_15.png"
+}
+
+"textures/tex0640_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0640_00.png"
+    texture_2 "textures/tex0640_00.png"
+    texture_3 "textures/tex0640_00.png"
+    texture_4 "textures/Openworld/tex0640_04.png"
+    texture_5 "textures/tex0640_00.png"
+    texture_6 "textures/tex0640_00.png"
+    texture_7 "textures/tex0640_00.png"
+    texture_8 "textures/tex0640_00.png"
+    texture_9 "textures/tex0640_00.png"
+    texture_10 "textures/tex0640_00.png"
+    texture_11 "textures/tex0640_00.png"
+    texture_12 "textures/tex0640_00.png"
+    texture_13 "textures/tex0640_00.png"
+    texture_14 "textures/tex0640_00.png"
+    texture_15 "textures/Openworld/tex0640_15.png"
+}
+
+"textures/tex0641_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0641_00.png"
+    texture_2 "textures/tex0641_00.png"
+    texture_3 "textures/tex0641_00.png"
+    texture_4 "textures/Openworld/tex0641_04.png"
+}
+"textures/tex0642_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0642_01.png"
+}
+
+"textures/tex0643_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0643_01.png"
+    texture_2 "textures/tex0643_00.png"
+    texture_3 "textures/tex0643_00.png"
+    texture_4 "textures/Openworld/tex0643_04.png"
+}
+
+"textures/tex0645_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0645_01.png"
+    texture_2 "textures/tex0645_00.png"
+    texture_3 "textures/tex0645_00.png"
+    texture_4 "textures/Openworld/tex0645_04.png"
+}
+
+"textures/tex0646_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0646_00.png"
+    texture_2 "textures/tex0646_00.png"
+    texture_3 "textures/tex0646_00.png"
+    texture_4 "textures/Openworld/tex0646_04.png"
+}
+
+"textures/tex0647_00.png"
+{
+    animated 0
+    speed 60
+
+    texture_1 "textures/tex0647_00.png"
+    texture_2 "textures/Openworld/tex0647_02.png"
+    texture_3 "textures/Openworld/tex0647_03.png"
+    texture_4 "textures/Openworld/tex0647_04.png"
+    texture_5 "textures/Openworld/tex0647_05.png"
+    texture_6 "textures/Openworld/tex0647_00.png"
+    texture_7 "textures/Openworld/tex0647_00.png"
+    texture_8 "textures/Openworld/tex0647_00.png"
+    texture_9 "textures/Openworld/tex0647_00.png"
+    texture_10 "textures/Openworld/tex0647_00.png"
+    texture_11 "textures/Openworld/tex0647_00.png"
+    texture_12 "textures/Openworld/tex0647_00.png"
+    texture_13 "textures/Openworld/tex0647_00.png"
+    texture_14 "textures/Openworld/tex0647_00.png"
+    texture_15 "textures/Openworld/tex0647_00.png"
+    texture_16 "textures/Openworld/tex0647_16.png"
+}
+
+"textures/tex0648_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0648_00.png"
+    texture_2 "textures/tex0648_00.png"
+    texture_3 "textures/tex0648_00.png"
+    texture_4 "textures/Openworld/tex0648_04.png"
+}
+
+"textures/tex0649_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0649_01.png"
+    texture_2 "textures/tex0649_02.png"
+    texture_3 "textures/tex0649_03.png"
+    texture_4 "textures/Openworld/tex0649_04.png"
+    texture_5 "textures/tex0649_00.png"
+    texture_6 "textures/tex0649_00.png"
+    texture_7 "textures/tex0649_00.png"
+    texture_8 "textures/tex0649_00.png"
+    texture_9 "textures/tex0649_00.png"
+    texture_10 "textures/tex0649_00.png"
+    texture_11 "textures/tex0649_00.png"
+    texture_12 "textures/tex0649_00.png"
+    texture_13 "textures/tex0649_00.png"
+    texture_14 "textures/tex0649_00.png"
+    texture_15 "textures/Openworld/tex0649_15.png"
+}
+
+"textures/tex0650_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0650_00.png"
+    texture_2 "textures/tex0650_00.png"
+    texture_3 "textures/tex0650_00.png"
+    texture_4 "textures/tex0650_00.png"
+    texture_5 "textures/tex0650_00.png"
+    texture_6 "textures/tex0650_00.png"
+    texture_7 "textures/tex0650_00.png"
+    texture_8 "textures/tex0650_00.png"
+    texture_9 "textures/tex0650_00.png"
+    texture_10 "textures/tex0650_00.png"
+    texture_11 "textures/tex0650_00.png"
+    texture_12 "textures/tex0650_00.png"
+    texture_13 "textures/tex0650_00.png"
+    texture_14 "textures/tex0650_00.png"
+    texture_15 "textures/Openworld/tex0650_15.png"
+}
+
+"textures/tex0651_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0651_00.png"
+    texture_2 "textures/tex0651_00.png"
+    texture_3 "textures/tex0651_00.png"
+    texture_4 "textures/tex0651_00.png"
+    texture_5 "textures/tex0651_00.png"
+    texture_6 "textures/tex0651_00.png"
+    texture_7 "textures/tex0651_00.png"
+    texture_8 "textures/tex0651_00.png"
+    texture_9 "textures/tex0651_00.png"
+    texture_10 "textures/tex0651_00.png"
+    texture_11 "textures/tex0651_00.png"
+    texture_12 "textures/tex0651_00.png"
+    texture_13 "textures/tex0651_00.png"
+    texture_14 "textures/tex0651_00.png"
+    texture_15 "textures/Openworld/tex0651_15.png"
+}
+
+
+"textures/tex0655_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0655_01.png"
+}
+
+"textures/tex0657_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0657_01.png"
+}
+
+"textures/tex0659_00.png"
+{
+    animated 1
+    speed 60
+
+    texture_1 "textures/tex0659_01.png"
+    texture_2 "textures/tex0659_02.png"
+    texture_3 "textures/tex0659_03.png"
+    texture_4 "textures/tex0659_04.png"
+    texture_5 "textures/tex0659_05.png"
+    texture_6 "textures/tex0659_06.png"
+    texture_7 "textures/tex0659_07.png"
+    texture_8 "textures/tex0659_08.png"
+    texture_9 "textures/tex0659_09.png"
+    texture_10 "textures/tex0659_10.png"
+    texture_11 "textures/tex0659_11.png"
+    texture_12 "textures/tex0659_12.png"
+    texture_13 "textures/tex0659_13.png"
+    texture_14 "textures/tex0659_14.png"
+    texture_15 "textures/tex0659_15.png"
+    texture_16 "textures/tex0659_16.png"
+    texture_17 "textures/tex0659_17.png"
+    texture_18 "textures/tex0659_18.png"
+    texture_19 "textures/tex0659_19.png"
+}
+
+"textures/tex0661_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0661_01.png"
+}
+
+"textures/tex0663_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0663_01.png"
+}
+
+"textures/tex0669_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0669_00.png"
+    texture_2 "textures/tex0669_00.png"
+    texture_3 "textures/tex0669_00.png"
+    texture_4 "textures/tex0669_04.png"
+}
+
+"textures/tex0673_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0673_00.png"
+    texture_2 "textures/tex0673_00.png"
+    texture_3 "textures/tex0673_00.png"
+    texture_4 "textures/Openworld/tex0673_04.png"
+    texture_5 "textures/tex0673_00.png"
+    texture_6 "textures/tex0673_00.png"
+    texture_7 "textures/tex0673_00.png"
+    texture_8 "textures/tex0673_00.png"
+    texture_9 "textures/tex0673_00.png"
+    texture_10 "textures/tex0673_00.png"
+    texture_11 "textures/tex0673_00.png"
+    texture_12 "textures/tex0673_00.png"
+    texture_13 "textures/tex0673_00.png"
+    texture_14 "textures/tex0673_00.png"
+    texture_15 "textures/Openworld/tex0673_15.png"
+}
+
+"textures/tex0674_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0674_01.png"
+    texture_2 "textures/tex0674_00.png"
+    texture_3 "textures/tex0674_00.png"
+    texture_4 "textures/tex0674_00.png"
+    texture_5 "textures/tex0674_00.png"
+    texture_6 "textures/tex0674_00.png"
+    texture_7 "textures/tex0674_00.png"
+    texture_8 "textures/tex0674_00.png"
+    texture_9 "textures/tex0674_00.png"
+    texture_10 "textures/tex0674_00.png"
+    texture_11 "textures/tex0674_00.png"
+    texture_12 "textures/tex0674_00.png"
+    texture_13 "textures/tex0674_00.png"
+    texture_14 "textures/Openworld/tex0674_14.png"
+    texture_15 "textures/Openworld/tex0674_15.png"
+}
+
+"textures/tex0675_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0675_01.png"
+    texture_2 "textures/tex0675_00.png"
+    texture_3 "textures/tex0675_00.png"
+    texture_4 "textures/tex0675_00.png"
+    texture_5 "textures/tex0675_00.png"
+    texture_6 "textures/tex0675_00.png"
+    texture_7 "textures/tex0675_00.png"
+    texture_8 "textures/tex0675_00.png"
+    texture_9 "textures/tex0675_00.png"
+    texture_10 "textures/tex0675_00.png"
+    texture_11 "textures/tex0675_00.png"
+    texture_12 "textures/tex0675_00.png"
+    texture_13 "textures/tex0675_00.png"
+    texture_14 "textures/Openworld/tex0675_14.png"
+    texture_15 "textures/Openworld/tex0675_15.png"
+}
+}
+
+"textures/tex0678_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0678_01.png"
+    texture_2 "textures/tex0678_02.png"
+    texture_3 "textures/tex0678_00.png"
+    texture_4 "textures/tex0678_00.png"
+    texture_5 "textures/tex0678_00.png"
+    texture_6 "textures/tex0678_00.png"
+    texture_7 "textures/tex0678_00.png"
+    texture_8 "textures/tex0678_00.png"
+    texture_9 "textures/tex0678_00.png"
+    texture_10 "textures/tex0678_00.png"
+    texture_11 "textures/tex0678_00.png"
+    texture_12 "textures/tex0678_00.png"
+    texture_13 "textures/Openworld/tex0678_13.png"
+    texture_14 "textures/Openworld/tex0678_14.png"
+    texture_15 "textures/Openworld/tex0678_15.png"
+}
+
+"textures/tex0680_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0680_01.png"
+    texture_2 "textures/tex0680_00.png"
+    texture_3 "textures/tex0680_00.png"
+    texture_4 "textures/Openworld/tex0680_14.png"
+    texture_5 "textures/tex0680_00.png"
+    texture_6 "textures/tex0680_00.png"
+    texture_7 "textures/tex0680_00.png"
+    texture_8 "textures/tex0680_00.png"
+    texture_9 "textures/tex0680_00.png"
+    texture_10 "textures/tex0680_00.png"
+    texture_11 "textures/tex0680_00.png"
+    texture_12 "textures/tex0680_00.png"
+    texture_13 "textures/tex0680_00.png"
+    texture_14 "textures/tex0680_00.png"
+    texture_15 "textures/Openworld/tex0680_15.png"
+}
+
+"textures/tex0681_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0681_01.png"
+    texture_2 "textures/tex0681_02.png"
+    texture_3 "textures/tex0681_00.png"
+    texture_4 "textures/Openworld/tex0681_04.png"
+    texture_5 "textures/tex0681_00.png"
+    texture_6 "textures/tex0681_00.png"
+    texture_7 "textures/tex0681_00.png"
+    texture_8 "textures/tex0681_00.png"
+    texture_9 "textures/tex0681_00.png"
+    texture_10 "textures/tex0681_00.png"
+    texture_11 "textures/tex0681_00.png"
+    texture_12 "textures/tex0681_00.png"
+    texture_13 "textures/tex0681_00.png"
+    texture_14 "textures/tex0681_00.png"
+    texture_15 "textures/Openworld/tex0681_15.png"
+}
+
+"textures/tex0682_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0682_01.png"
+}
+
+"textures/tex0683_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0683_01.png"
+}
+
+"textures/tex0684_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0684_01.png"
+    texture_2 "textures/tex0684_00.png"
+    texture_3 "textures/tex0684_00.png"
+    texture_4 "textures/tex0684_00.png"
+    texture_5 "textures/tex0684_00.png"
+    texture_6 "textures/tex0684_00.png"
+    texture_7 "textures/tex0684_00.png"
+    texture_8 "textures/tex0684_00.png"
+    texture_9 "textures/tex0684_00.png"
+    texture_10 "textures/tex0684_00.png"
+    texture_11 "textures/tex0684_00.png"
+    texture_12 "textures/tex0684_00.png"
+    texture_13 "textures/tex0684_00.png"
+    texture_14 "textures/Openworld/tex0684_14.png"
+    texture_15 "textures/Openworld/tex0684_15.png"
+}
+
+
+"textures/tex0690_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0690_01.png"
+    texture_2 "textures/tex0690_00.png"
+    texture_3 "textures/tex0690_00.png"
+    texture_4 "textures/tex0690_00.png"
+    texture_5 "textures/tex0690_00.png"
+    texture_6 "textures/tex0690_00.png"
+    texture_7 "textures/tex0690_00.png"
+    texture_8 "textures/tex0690_00.png"
+    texture_9 "textures/tex0690_00.png"
+    texture_10 "textures/tex0690_00.png"
+    texture_11 "textures/tex0690_00.png"
+    texture_12 "textures/tex0690_00.png"
+    texture_13 "textures/tex0690_00.png"
+    texture_14 "textures/Openworld/tex0690_14.png"
+    texture_15 "textures/Openworld/tex0690_15.png"
+}
+
+"textures/tex0691_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0691_01.png"
+    texture_2 "textures/tex0691_02.png"
+    texture_3 "textures/tex0691_00.png"
+    texture_4 "textures/tex0691_00.png"
+    texture_5 "textures/tex0691_00.png"
+    texture_6 "textures/tex0691_00.png"
+    texture_7 "textures/tex0691_00.png"
+    texture_8 "textures/tex0691_00.png"
+    texture_9 "textures/tex0691_00.png"
+    texture_10 "textures/tex0691_00.png"
+    texture_11 "textures/tex0691_00.png"
+    texture_12 "textures/tex0691_00.png"
+    texture_13 "textures/Openworld/tex0691_13.png"
+    texture_14 "textures/Openworld/tex0691_14.png"
+    texture_15 "textures/Openworld/tex0691_15.png"
+}
+
+"textures/tex0693_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0693_01.png"
+    texture_2 "textures/tex0693_00.png"
+    texture_3 "textures/tex0693_00.png"
+    texture_4 "textures/tex0693_00.png"
+    texture_5 "textures/tex0693_00.png"
+    texture_6 "textures/tex0693_00.png"
+    texture_7 "textures/tex0693_00.png"
+    texture_8 "textures/tex0693_00.png"
+    texture_9 "textures/tex0693_00.png"
+    texture_10 "textures/tex0693_00.png"
+    texture_11 "textures/tex0693_00.png"
+    texture_12 "textures/tex0693_00.png"
+    texture_13 "textures/tex0693_00.png"
+    texture_14 "textures/Openworld/tex0693_14.png"
+    texture_15 "textures/Openworld/tex0693_15.png"
+}
+
+"textures/tex0695_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0695_01.png"
+    texture_2 "textures/tex0695_00.png"
+    texture_3 "textures/tex0695_00.png"
+    texture_4 "textures/Openworld/tex0695_04.png"
+}
+
+"textures/tex0697_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0697_01.png"
+    texture_2 "textures/tex0697_02.png"
+    texture_3 "textures/tex0697_00.png"
+    texture_4 "textures/Openworld/tex0697_04.png"
+    texture_5 "textures/Openworld/tex0697_05.png"
+    texture_6 "textures/Openworld/tex0697_06.png"
+    texture_7 "textures/Openworld/tex0697_07.png"
+    texture_8 "textures/Openworld/tex0697_08.png"
+    texture_9 "textures/Openworld/tex0697_09.png"
+    texture_10 "textures/Openworld/tex0697_10.png"
+    texture_11 "textures/Openworld/tex0697_11.png"
+    texture_12 "textures/Openworld/tex0697_12.png"
+    texture_13 "textures/tex0697_00.png"
+    texture_14 "textures/tex0697_00.png"
+    texture_15 "textures/Openworld/tex0697_15.png"
+    texture_16 "textures/Openworld/tex0697_16.png"
+}
+
+"textures/tex0698_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0698_01.png"
+}
+
+"textures/tex0699_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0699_01.png"
+    texture_2 "textures/tex0699_02.png"
+    texture_3 "textures/tex0699_03.png"
+}
+
+"textures/tex0702_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0702_01.png"
+}
+
+"textures/tex0703_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0703_01.png"
+    texture_2 "textures/Openworld/tex0703_02.png"
+}
+
+"textures/tex0707_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0707_00.png"
+    texture_2 "textures/tex0707_00.png"
+    texture_3 "textures/Openworld/tex0707_03.png"
+}
+
+"textures/tex0708_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0708_01.png"
+    texture_2 "textures/Openworld/tex0708_02.png"
+}
+
+"textures/tex0709_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0709_01.png"
+    texture_2 "textures/Openworld/tex0709_02.png"
+}
+
+"textures/tex0710_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0710_01.png"
+    texture_2 "textures/tex0710_02.png"
+}
+
+"textures/tex0715_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0715_01.png"
+    texture_2 "textures/tex0715_02.png"
+    texture_3 "textures/tex0715_03.png"
+    texture_4 "textures/tex0715_04.png"
+    texture_5 "textures/tex0715_05.png"
+    texture_6 "textures/tex0715_00.png"
+    texture_7 "textures/tex0715_00.png"
+    texture_8 "textures/tex0715_00.png"
+    texture_9 "textures/tex0715_00.png"
+    texture_10 "textures/tex0715_00.png"
+    texture_11 "textures/tex0715_00.png"
+    texture_12 "textures/tex0715_00.png"
+    texture_13 "textures/tex0715_00.png"
+    texture_14 "textures/tex0715_00.png"
+    texture_15 "textures/tex0715_00.png"
+    texture_16 "textures/tex0715_00.png"
+    texture_17 "textures/tex0715_00.png"
+    texture_18 "textures/tex0715_00.png"
+    texture_19 "textures/tex0715_00.png"
+    texture_20 "textures/tex0715_00.png"
+    texture_21 "textures/tex0715_00.png"
+    texture_22 "textures/tex0715_00.png"
+    texture_23 "textures/tex0715_00.png"
+    texture_24 "textures/tex0715_00.png"
+    texture_25 "textures/tex0715_00.png"
+    texture_26 "textures/tex0715_00.png"
+    texture_27 "textures/tex0715_00.png"
+    texture_28 "textures/tex0715_00.png"
+    texture_29 "textures/tex0715_00.png"
+    texture_30 "textures/Openworld/tex0715_30.png"
+}
+
+"textures/tex0716_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0716_01.png"
+    texture_2 "textures/tex0716_02.png"
+    texture_3 "textures/tex0716_03.png"
+    texture_4 "textures/tex0716_04.png"
+    texture_5 "textures/tex0716_05.png"
+    texture_6 "textures/tex0716_00.png"
+    texture_7 "textures/tex0716_00.png"
+    texture_8 "textures/tex0716_00.png"
+    texture_9 "textures/tex0716_00.png"
+    texture_10 "textures/tex0716_00.png"
+    texture_11 "textures/tex0716_00.png"
+    texture_12 "textures/tex0716_00.png"
+    texture_13 "textures/tex0716_00.png"
+    texture_14 "textures/tex0716_00.png"
+    texture_15 "textures/tex0716_00.png"
+    texture_16 "textures/tex0716_00.png"
+    texture_17 "textures/tex0716_00.png"
+    texture_18 "textures/tex0716_00.png"
+    texture_19 "textures/tex0716_00.png"
+    texture_20 "textures/tex0716_00.png"
+    texture_21 "textures/tex0716_00.png"
+    texture_22 "textures/tex0716_00.png"
+    texture_23 "textures/tex0716_00.png"
+    texture_24 "textures/tex0716_00.png"
+    texture_25 "textures/tex0716_00.png"
+    texture_26 "textures/tex0716_00.png"
+    texture_27 "textures/tex0716_00.png"
+    texture_28 "textures/tex0716_00.png"
+    texture_29 "textures/tex0716_00.png"
+    texture_30 "textures/Openworld/tex0716_30.png"
+}
+
+"textures/tex0738_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0738_01.png"
+}
+
+"textures/tex0739_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0739_01.png"
+}
+
+"textures/tex0740_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0740_01.png"
+}
+
+"textures/tex0741_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0741_01.png"
+}
+
+"textures/tex0742_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0742_01.png"
+}
+
+"textures/tex0743_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0743_01.png"
+}
+
+"textures/tex0745_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0745_01.png"
+    texture_2 "textures/tex0745_02.png"
+    texture_3 "textures/tex0745_03.png"
+    texture_4 "textures/tex0745_04.png"
+    texture_5 "textures/tex0745_05.png"
+    texture_6 "textures/tex0745_06.png"
+    texture_7 "textures/tex0745_07.png"
+    texture_8 "textures/tex0745_08.png"
+}
+
+"textures/tex0750_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0750_01.png"
+}
+
+"textures/tex0751_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0751_01.png"
+}
+
+"textures/tex0752_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0752_01.png"
+}
+
+"textures/tex0753_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0753_01.png"
+}
+
+"textures/tex0754_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0754_01.png"
+}
+
+"textures/tex0755_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0755_01.png"
+    texture_2 "textures/tex0755_02.png"
+}
+
+"textures/tex0756_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0756_01.png"
+    texture_2 "textures/tex0756_02.png"
+}
+
+"textures/tex0760_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0760_01.png"
+    texture_2 "textures/tex0760_02.png"
+}
+
+"textures/tex0774_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0774_01.png"
+    texture_2 "textures/tex0774_02.png"
+    texture_3 "textures/tex0774_03.png"
+    texture_4 "textures/tex0774_04.png"
+    texture_5 "textures/tex0774_05.png"
+    texture_6 "textures/tex0774_06.png"
+    texture_7 "textures/tex0774_07.png"
+    texture_8 "textures/tex0774_08.png"
+    texture_9 "textures/tex0774_09.png"
+    texture_10 "textures/tex0774_10.png"
+    texture_11 "textures/tex0774_11.png"
+    texture_12 "textures/tex0774_12.png"
+    texture_13 "textures/tex0774_13.png"
+    texture_14 "textures/tex0774_14.png"
+    texture_15 "textures/tex0774_15.png"
+    texture_16 "textures/tex0774_16.png"
+    texture_17 "textures/tex0774_17.png"
+    texture_18 "textures/tex0774_18.png"
+    texture_19 "textures/tex0774_19.png"
+}
+
+"textures/tex0784_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0784_01.png"
+    texture_2 "textures/tex0784_02.png"
+    texture_3 "textures/tex0784_03.png"
+    texture_4 "textures/tex0784_00.png"
+    texture_5 "textures/tex0784_00.png"
+    texture_6 "textures/tex0784_00.png"
+    texture_7 "textures/tex0784_00.png"
+    texture_8 "textures/tex0784_00.png"
+    texture_9 "textures/tex0784_00.png"
+    texture_10 "textures/Openworld/tex0784_10.png"
+    texture_11 "textures/Openworld/tex0784_11.png"
+}
+
+"textures/tex0785_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0785_01.png"
+    texture_2 "textures/tex0785_02.png"
+    texture_3 "textures/tex0785_03.png"
+    texture_4 "textures/tex0785_00.png"
+    texture_5 "textures/tex0785_00.png"
+    texture_6 "textures/tex0785_00.png"
+    texture_7 "textures/tex0785_00.png"
+    texture_8 "textures/tex0785_00.png"
+    texture_9 "textures/tex0785_00.png"
+    texture_10 "textures/Openworld/tex0785_10.png"
+    texture_11 "textures/Openworld/tex0785_11.png"
+}
+
+"textures/tex0786_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0786_01.png"
+    texture_2 "textures/tex0786_02.png"
+    texture_3 "textures/tex0786_03.png"
+    texture_4 "textures/tex0786_00.png"
+    texture_5 "textures/tex0786_00.png"
+    texture_6 "textures/tex0786_00.png"
+    texture_7 "textures/tex0786_00.png"
+    texture_8 "textures/tex0786_00.png"
+    texture_9 "textures/tex0786_00.png"
+    texture_10 "textures/Openworld/tex0786_10.png"
+    texture_11 "textures/Openworld/tex0786_11.png"
+}
+
+"textures/tex0787_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0787_01.png"
+    texture_2 "textures/tex0787_02.png"
+    texture_3 "textures/tex0787_03.png"
+    texture_4 "textures/tex0787_00.png"
+    texture_5 "textures/tex0787_00.png"
+    texture_6 "textures/tex0787_00.png"
+    texture_7 "textures/tex0787_00.png"
+    texture_8 "textures/tex0787_00.png"
+    texture_9 "textures/tex0787_00.png"
+    texture_10 "textures/Openworld/tex0787_10.png"
+    texture_11 "textures/Openworld/tex0787_11.png"
+}
+
+"textures/tex0788_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0788_01.png"
+    texture_2 "textures/tex0788_02.png"
+    texture_3 "textures/tex0788_03.png"
+    texture_4 "textures/tex0788_00.png"
+    texture_5 "textures/tex0788_00.png"
+    texture_6 "textures/tex0788_00.png"
+    texture_7 "textures/tex0788_00.png"
+    texture_8 "textures/tex0788_00.png"
+    texture_9 "textures/tex0788_00.png"
+    texture_10 "textures/Openworld/tex0788_10.png"
+    texture_11 "textures/Openworld/tex0788_11.png"
+}
+
+"textures/tex0789_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0789_01.png"
+    texture_2 "textures/tex0789_02.png"
+    texture_3 "textures/tex0789_03.png"
+    texture_4 "textures/tex0789_00.png"
+    texture_5 "textures/tex0789_00.png"
+    texture_6 "textures/tex0789_00.png"
+    texture_7 "textures/tex0789_00.png"
+    texture_8 "textures/tex0789_00.png"
+    texture_9 "textures/tex0789_00.png"
+    texture_10 "textures/Openworld/tex0789_10.png"
+    texture_11 "textures/Openworld/tex0789_11.png"
+}
+
+"textures/tex0790_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0790_01.png"
+    texture_2 "textures/tex0790_02.png"
+    texture_3 "textures/tex0790_03.png"
+    texture_4 "textures/tex0790_00.png"
+    texture_5 "textures/tex0790_00.png"
+    texture_6 "textures/tex0790_00.png"
+    texture_7 "textures/tex0790_00.png"
+    texture_8 "textures/tex0790_00.png"
+    texture_9 "textures/tex0790_00.png"
+    texture_10 "textures/Openworld/tex0790_10.png"
+    texture_11 "textures/Openworld/tex0790_11.png"
+}
+
+"textures/tex0792_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0792_01.png"
+    texture_2 "textures/Openworld/tex0792_02.png"
+    texture_3 "textures/Openworld/tex0792_03.png"
+    texture_4 "textures/Openworld/tex0792_04.png"
+    texture_5 "textures/Openworld/tex0792_05.png"
+    texture_6 "textures/Openworld/tex0792_06.png"
+    texture_7 "textures/Openworld/tex0792_07.png"
+    texture_8 "textures/Openworld/tex0792_08.png"
+}
+
+"textures/tex0793_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0793_01.png"
+    texture_2 "textures/Openworld/tex0793_02.png"
+    texture_3 "textures/Openworld/tex0793_03.png"
+    texture_4 "textures/Openworld/tex0793_04.png"
+    texture_5 "textures/Openworld/tex0793_05.png"
+    texture_6 "textures/Openworld/tex0793_06.png"
+    texture_7 "textures/Openworld/tex0793_07.png"
+    texture_8 "textures/Openworld/tex0793_08.png"
+}
+
+"textures/tex0794_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0794_01.png"
+    texture_2 "textures/Openworld/tex0794_02.png"
+    texture_3 "textures/Openworld/tex0794_03.png"
+    texture_4 "textures/Openworld/tex0794_04.png"
+    texture_5 "textures/Openworld/tex0794_05.png"
+    texture_6 "textures/Openworld/tex0794_06.png"
+    texture_7 "textures/Openworld/tex0794_07.png"
+    texture_8 "textures/Openworld/tex0794_08.png"
+}
+
+"textures/tex0795_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0795_00.png"
+    texture_2 "textures/Openworld/tex0795_01.png"
+    texture_3 "textures/Openworld/tex0795_03.png"
+    texture_4 "textures/Openworld/tex0795_03.png"
+    texture_5 "textures/Openworld/tex0795_03.png"
+    texture_6 "textures/Openworld/tex0795_03.png"
+    texture_7 "textures/Openworld/tex0795_04.png"
+    texture_8 "textures/Openworld/tex0795_03.png"
+}
+
+"textures/tex0796_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0796_00.png"
+    texture_2 "textures/Openworld/tex0796_01.png"
+    texture_3 "textures/Openworld/tex0796_03.png"
+    texture_4 "textures/Openworld/tex0796_03.png"
+    texture_5 "textures/Openworld/tex0796_03.png"
+    texture_6 "textures/Openworld/tex0796_03.png"
+    texture_7 "textures/Openworld/tex0796_04.png"
+    texture_8 "textures/Openworld/tex0796_03.png"
+}
+
+"textures/tex0797_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0797_01.png"
+    texture_2 "textures/Openworld/tex0797_02.png"
+    texture_3 "textures/Openworld/tex0797_03.png"
+    texture_4 "textures/Openworld/tex0797_04.png"
+    texture_5 "textures/Openworld/tex0797_05.png"
+    texture_6 "textures/Openworld/tex0797_06.png"
+    texture_7 "textures/Openworld/tex0797_07.png"
+    texture_8 "textures/Openworld/tex0797_08.png"
+}
+
+"textures/tex0798_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0798_01.png"
+    texture_2 "textures/Openworld/tex0798_02.png"
+    texture_3 "textures/Openworld/tex0798_03.png"
+    texture_4 "textures/Openworld/tex0798_04.png"
+}
+
+"textures/tex0799_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0799_01.png"
+    texture_2 "textures/Openworld/tex0799_02.png"
+    texture_3 "textures/Openworld/tex0799_03.png"
+    texture_4 "textures/Openworld/tex0799_04.png"
+}
+
+"textures/tex0800_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0800_01.png"
+    texture_2 "textures/Openworld/tex0800_02.png"
+    texture_3 "textures/Openworld/tex0800_03.png"
+    texture_4 "textures/Openworld/tex0800_04.png"
+}
+
+"textures/tex0801_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0801_00.png"
+    texture_2 "textures/Openworld/tex0801_01.png"
+    texture_3 "textures/Openworld/tex0801_01.png"
+    texture_4 "textures/Openworld/tex0801_01.png"
+}
+
+"textures/tex0802_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0802_01.png"
+    texture_2 "textures/Openworld/tex0802_02.png"
+    texture_3 "textures/Openworld/tex0802_03.png"
+    texture_4 "textures/Openworld/tex0802_04.png"
+}
+
+"textures/tex0803_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0803_01.png"
+    texture_2 "textures/Openworld/tex0803_02.png"
+    texture_3 "textures/Openworld/tex0803_03.png"
+    texture_4 "textures/Openworld/tex0803_04.png"
+}
+
+"textures/tex0829_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0829_01.png"
+    texture_2 "textures/tex0829_02.png"
+    texture_3 "textures/tex0829_03.png"
+    texture_4 "textures/tex0829_04.png"
+    texture_5 "textures/tex0829_05.png"
+    texture_6 "textures/tex0829_06.png"
+    texture_7 "textures/tex0829_07.png"
+    texture_8 "textures/tex0829_00.png"
+    texture_9 "textures/tex0829_00.png"
+    texture_10 "textures/tex0829_00.png"
+    texture_11 "textures/tex0829_00.png"
+    texture_12 "textures/tex0829_00.png"
+    texture_13 "textures/tex0829_00.png"
+    texture_14 "textures/tex0829_00.png"
+    texture_15 "textures/tex0829_00.png"
+    texture_16 "textures/tex0829_00.png"
+    texture_17 "textures/tex0829_00.png"
+    texture_18 "textures/tex0829_00.png"
+    texture_19 "textures/tex0829_00.png"
+    texture_20 "textures/tex0829_00.png"
+    texture_21 "textures/tex0829_00.png"
+    texture_22 "textures/tex0829_00.png"
+    texture_23 "textures/tex0829_00.png"
+    texture_24 "textures/tex0829_00.png"
+    texture_25 "textures/tex0829_00.png"
+    texture_26 "textures/tex0829_00.png"
+    texture_27 "textures/tex0829_00.png"
+    texture_28 "textures/tex0829_00.png"
+    texture_29 "textures/tex0829_00.png"
+    texture_30 "textures/Openworld/tex0829_30.png"
+}
+
+"textures/tex0830_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0830_01.png"
+    texture_2 "textures/tex0830_02.png"
+    texture_3 "textures/tex0830_03.png"
+    texture_4 "textures/tex0830_04.png"
+    texture_5 "textures/tex0830_05.png"
+    texture_6 "textures/tex0830_06.png"
+    texture_7 "textures/tex0830_07.png"
+    texture_8 "textures/tex0830_00.png"
+    texture_9 "textures/tex0830_00.png"
+    texture_10 "textures/tex0830_00.png"
+    texture_11 "textures/tex0830_00.png"
+    texture_12 "textures/tex0830_00.png"
+    texture_13 "textures/tex0830_00.png"
+    texture_14 "textures/tex0830_00.png"
+    texture_15 "textures/tex0830_00.png"
+    texture_16 "textures/tex0830_00.png"
+    texture_17 "textures/tex0830_00.png"
+    texture_18 "textures/tex0830_00.png"
+    texture_19 "textures/tex0830_00.png"
+    texture_20 "textures/tex0830_00.png"
+    texture_21 "textures/tex0830_00.png"
+    texture_22 "textures/tex0830_00.png"
+    texture_23 "textures/tex0830_00.png"
+    texture_24 "textures/tex0830_00.png"
+    texture_25 "textures/tex0830_00.png"
+    texture_26 "textures/tex0830_00.png"
+    texture_27 "textures/tex0830_00.png"
+    texture_28 "textures/tex0830_00.png"
+    texture_29 "textures/tex0830_00.png"
+    texture_30 "textures/Openworld/tex0830_30.png"
+}
+
+"textures/tex0831_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0831_01.png"
+    texture_2 "textures/tex0831_02.png"
+    texture_3 "textures/tex0831_03.png"
+}
+
+"textures/tex0832_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0832_01.png"
+    texture_2 "textures/tex0832_02.png"
+    texture_3 "textures/tex0832_03.png"
+    texture_4 "textures/tex0832_04.png"
+    texture_5 "textures/tex0832_05.png"
+    texture_6 "textures/tex0832_06.png"
+    texture_7 "textures/tex0832_07.png"
+    texture_8 "textures/tex0832_00.png"
+    texture_9 "textures/tex0832_00.png"
+    texture_10 "textures/tex0832_00.png"
+    texture_11 "textures/tex0832_00.png"
+    texture_12 "textures/tex0832_00.png"
+    texture_13 "textures/tex0832_00.png"
+    texture_14 "textures/tex0832_00.png"
+    texture_15 "textures/tex0832_00.png"
+    texture_16 "textures/tex0832_00.png"
+    texture_17 "textures/tex0832_00.png"
+    texture_18 "textures/tex0832_00.png"
+    texture_19 "textures/tex0832_00.png"
+    texture_20 "textures/tex0832_00.png"
+    texture_21 "textures/tex0832_00.png"
+    texture_22 "textures/tex0832_00.png"
+    texture_23 "textures/tex0832_00.png"
+    texture_24 "textures/tex0832_00.png"
+    texture_25 "textures/tex0832_00.png"
+    texture_26 "textures/tex0832_00.png"
+    texture_27 "textures/tex0832_00.png"
+    texture_28 "textures/tex0832_00.png"
+    texture_29 "textures/tex0832_00.png"
+    texture_30 "textures/Openworld/tex0832_30.png"
+}
+
+"textures/tex0833_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0833_01.png"
+    texture_2 "textures/tex0833_02.png"
+    texture_3 "textures/tex0833_03.png"
+    texture_4 "textures/tex0833_04.png"
+    texture_5 "textures/tex0833_05.png"
+    texture_6 "textures/tex0833_06.png"
+    texture_7 "textures/tex0833_07.png"
+    texture_8 "textures/tex0833_00.png"
+    texture_9 "textures/tex0833_00.png"
+    texture_10 "textures/tex0833_00.png"
+    texture_11 "textures/tex0833_00.png"
+    texture_12 "textures/tex0833_00.png"
+    texture_13 "textures/tex0833_00.png"
+    texture_14 "textures/tex0833_00.png"
+    texture_15 "textures/tex0833_00.png"
+    texture_16 "textures/tex0833_00.png"
+    texture_17 "textures/tex0833_00.png"
+    texture_18 "textures/tex0833_00.png"
+    texture_19 "textures/tex0833_00.png"
+    texture_20 "textures/tex0833_00.png"
+    texture_21 "textures/tex0833_00.png"
+    texture_22 "textures/tex0833_00.png"
+    texture_23 "textures/tex0833_00.png"
+    texture_24 "textures/tex0833_00.png"
+    texture_25 "textures/tex0833_00.png"
+    texture_26 "textures/tex0833_00.png"
+    texture_27 "textures/tex0833_00.png"
+    texture_28 "textures/tex0833_00.png"
+    texture_29 "textures/tex0833_00.png"
+    texture_30 "textures/Openworld/tex0833_30.png"
+}
+
+"textures/tex0835_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0835_01.png"
+    texture_2 "textures/tex0835_02.png"
+    texture_3 "textures/tex0835_03.png"
+    texture_4 "textures/tex0835_04.png"
+    texture_5 "textures/tex0835_05.png"
+}
+
+"textures/tex0836_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0836_01.png"
+    texture_2 "textures/tex0836_02.png"
+    texture_3 "textures/tex0836_03.png"
+    texture_4 "textures/tex0836_04.png"
+    texture_5 "textures/tex0836_05.png"
+    texture_6 "textures/tex0836_06.png"
+    texture_7 "textures/tex0836_07.png"
+    texture_8 "textures/tex0836_08.png"
+    texture_9 "textures/tex0836_09.png"
+    texture_10 "textures/tex0836_10.png"
+    texture_11 "textures/tex0836_11.png"
+}
+
+"textures/tex0837_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0837_01.png"
+    texture_2 "textures/tex0837_02.png"
+    texture_3 "textures/tex0837_03.png"
+    texture_4 "textures/tex0837_04.png"
+    texture_5 "textures/tex0837_05.png"
+    texture_6 "textures/tex0837_06.png"
+    texture_7 "textures/tex0837_07.png"
+    texture_8 "textures/tex0837_08.png"
+    texture_9 "textures/tex0837_09.png"
+    texture_10 "textures/tex0837_10.png"
+    texture_11 "textures/tex0837_11.png"
+}
+
+"textures/tex0842_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0842_00.png"
+    texture_2 "textures/tex0842_00.png"
+    texture_3 "textures/tex0842_00.png"
+    texture_4 "textures/tex0842_00.png"
+    texture_5 "textures/tex0842_00.png"
+    texture_6 "textures/tex0842_00.png"
+    texture_7 "textures/tex0842_00.png"
+    texture_8 "textures/tex0842_00.png"
+    texture_9 "textures/tex0842_00.png"
+    texture_10 "textures/tex0842_00.png"
+    texture_11 "textures/tex0842_00.png"
+    texture_12 "textures/tex0842_00.png"
+    texture_13 "textures/tex0842_00.png"
+    texture_14 "textures/tex0842_00.png"
+    texture_15 "textures/Openworld/tex0842_15.png"
+}
+
+"textures/tex0843_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0843_00.png"
+    texture_2 "textures/Openworld/tex0843_01.png"
+    texture_3 "textures/Openworld/tex0843_01.png"
+}
+
+"textures/tex0855_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0855_00.png"
+    texture_2 "textures/tex0855_00.png"
+    texture_3 "textures/tex0855_00.png"
+    texture_4 "textures/Openworld/tex0855_04.png"
+    texture_5 "textures/tex0855_00.png"
+    texture_6 "textures/tex0855_00.png"
+    texture_7 "textures/tex0855_00.png"
+    texture_8 "textures/tex0855_00.png"
+    texture_9 "textures/tex0855_00.png"
+    texture_10 "textures/tex0855_00.png"
+    texture_11 "textures/tex0855_00.png"
+    texture_12 "textures/tex0855_00.png"
+    texture_13 "textures/tex0855_00.png"
+    texture_14 "textures/tex0855_00.png"
+    texture_15 "textures/Openworld/tex0855_15.png"
+}
+
+"textures/tex0864_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0864_01.png"
+}
+
+"textures/tex0865_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0865_01.png"
+}
+
+"textures/tex0868_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0868_00.png"
+    texture_2 "textures/tex0868_00.png"
+    texture_3 "textures/tex0868_00.png"
+    texture_4 "textures/tex0868_00.png"
+    texture_5 "textures/tex0868_00.png"
+    texture_6 "textures/tex0868_00.png"
+    texture_7 "textures/tex0868_00.png"
+    texture_8 "textures/tex0868_00.png"
+    texture_9 "textures/tex0868_00.png"
+    texture_10 "textures/tex0868_00.png"
+    texture_11 "textures/tex0868_00.png"
+    texture_12 "textures/tex0868_00.png"
+    texture_13 "textures/tex0868_00.png"
+    texture_14 "textures/tex0868_00.png"
+    texture_15 "textures/Openworld/tex0868_15.png"
+    texture_16 "textures/tex0868_00.png"
+    texture_17 "textures/tex0868_00.png"
+    texture_18 "textures/tex0868_00.png"
+    texture_19 "textures/tex0868_00.png"
+    texture_20 "textures/tex0868_00.png"
+    texture_21 "textures/tex0868_00.png"
+    texture_22 "textures/tex0868_00.png"
+    texture_23 "textures/tex0868_00.png"
+    texture_24 "textures/tex0868_00.png"
+    texture_25 "textures/tex0868_00.png"
+    texture_26 "textures/tex0868_00.png"
+    texture_27 "textures/Openworld/tex0868_27.png"
+}
+
+"textures/tex0869_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0869_01.png"
+    texture_2 "textures/tex0869_00.png"
+    texture_3 "textures/tex0869_00.png"
+    texture_4 "textures/Openworld/tex0869_04.png"
+}
+
+"textures/tex0870_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0870_01.png"
+}
+
+"textures/tex0978_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0978_00.png"
+    texture_2 "textures/tex0978_00.png"
+    texture_3 "textures/Openworld/tex0978_03.png"
+    texture_4 "textures/Openworld/tex0978_04.png"
+}
+
+"textures/tex0979_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0979_00.png"
+    texture_2 "textures/tex0979_00.png"
+    texture_3 "textures/Openworld/tex0979_03.png"
+    texture_4 "textures/Openworld/tex0979_04.png"
+}
+
+"textures/tex0980_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0980_00.png"
+    texture_2 "textures/tex0980_00.png"
+    texture_3 "textures/Openworld/tex0980_03.png"
+    texture_4 "textures/Openworld/tex0980_04.png"
+}
+
+"textures/tex0981_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0981_00.png"
+    texture_2 "textures/tex0981_00.png"
+    texture_3 "textures/Openworld/tex0981_03.png"
+    texture_4 "textures/Openworld/tex0981_04.png"
+}
+
+"textures/tex0982_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0982_00.png"
+    texture_2 "textures/tex0982_00.png"
+    texture_3 "textures/Openworld/tex0982_03.png"
+    texture_4 "textures/Openworld/tex0982_04.png"
+}
+
+"textures/tex0983_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0983_00.png"
+    texture_2 "textures/tex0983_00.png"
+    texture_3 "textures/Openworld/tex0983_03.png"
+    texture_4 "textures/Openworld/tex0983_04.png"
+}
+
+"textures/tex0986_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0986_01.png"
+    texture_2 "textures/tex0986_02.png"
+}
+
+"textures/tex0987_00.png"
+{
+    animated 1
+    speed 30
+
+    texture_1 "textures/tex0987_01.png"
+    texture_2 "textures/tex0987_02.png"
+    texture_3 "textures/tex0987_03.png"
+    texture_4 "textures/tex0987_04.png"
+    texture_5 "textures/tex0987_05.png"
+    texture_6 "textures/tex0987_06.png"
+    texture_7 "textures/tex0987_07.png"
+    texture_8 "textures/tex0987_08.png"
+    texture_9 "textures/tex0987_09.png"
+    texture_10 "textures/tex0987_10.png"
+    texture_11 "textures/tex0987_11.png"
+    texture_12 "textures/tex0987_12.png"
+    texture_13 "textures/tex0987_13.png"
+    texture_14 "textures/tex0987_14.png"
+    texture_15 "textures/tex0987_15.png"
+    texture_16 "textures/tex0987_16.png"
+    texture_17 "textures/tex0987_17.png"
+    texture_18 "textures/tex0987_18.png"
+    texture_19 "textures/tex0987_19.png"
+}
+
+"textures/tex0988_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0988_01.png"
+    texture_2 "textures/tex0988_02.png"
+    texture_3 "textures/tex0988_00.png"
+    texture_4 "textures/tex0988_00.png"
+    texture_5 "textures/tex0988_00.png"
+    texture_6 "textures/tex0988_00.png"
+    texture_7 "textures/tex0988_00.png"
+    texture_8 "textures/tex0988_00.png"
+    texture_9 "textures/tex0988_00.png"
+    texture_10 "textures/Level_2/level2overhaultex0988_10.png"
+    texture_11 "textures/tex0988_00.png"
+    texture_12 "textures/Level_2/level2overhaultex0988_12.png"
+    texture_13 "textures/Openworld/tex0988_13.png"
+    texture_14 "textures/Openworld/tex0988_14.png"
+    texture_15 "textures/Openworld/tex0988_15.png"
+    texture_16 "textures/Openworld/tex0988_16.png"
+    texture_17 "textures/Openworld/tex0988_17.png"
+    texture_18 "textures/Openworld/tex0988_18.png"
+    texture_19 "textures/Openworld/tex0988_19.png"
+    texture_20 "textures/Openworld/tex0988_20.png"
+    texture_21 "textures/Openworld/tex0988_21.png"
+    texture_22 "textures/Openworld/tex0988_22.png"
+    texture_23 "textures/Openworld/tex0988_23.png"
+    texture_24 "textures/Openworld/tex0988_24.png"
+    texture_25 "textures/Openworld/tex0988_25.png"
+    texture_26 "textures/Openworld/tex0988_26.png"
+    texture_27 "textures/Openworld/tex0988_27.png"
+    texture_28 "textures/Openworld/tex0988_15.png"
+    texture_29 "textures/Openworld/tex0988_29.png"
+}
+
+
+"textures/tex0992_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0992_01.png"
+    texture_2 "textures/tex0992_02.png"
+    texture_3 "textures/tex0992_03.png"
+    texture_4 "textures/tex0992_00.png"
+    texture_5 "textures/tex0992_00.png"
+    texture_6 "textures/tex0992_00.png"
+    texture_7 "textures/tex0992_00.png"
+    texture_8 "textures/tex0992_00.png"
+    texture_9 "textures/tex0992_00.png"
+    texture_10 "textures/Level_2/level2overhaultex0992_10.png"
+    texture_11 "textures/Level_2/level2overhaultex0992_11.png"
+    texture_12 "textures/Level_2/level2overhaultex0992_12.png"
+    texture_13 "textures/Openworld/tex0992_13.png"
+    texture_14 "textures/Openworld/tex0992_13.png"
+    texture_15 "textures/Openworld/tex0992_15.png"
+    texture_16 "textures/Openworld/tex0992_16.png"
+    texture_17 "textures/Openworld/tex0992_16.png"
+    texture_18 "textures/Openworld/tex0992_15.png"
+    texture_19 "textures/tex0992_00.png"
+    texture_20 "textures/tex0992_00.png"
+    texture_21 "textures/tex0992_00.png"
+    texture_22 "textures/tex0992_00.png"
+    texture_23 "textures/tex0992_00.png"
+    texture_24 "textures/Openworld/tex0992_24.png"
+    texture_25 "textures/tex0992_00.png"
+    texture_26 "textures/Openworld/tex0992_26.png"
+    texture_27 "textures/Openworld/tex0992_27.png"
+    texture_28 "textures/Openworld/tex0992_28.png"
+
+}
+
+"textures/tex0993_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex0993_01.png"
+}
+
+"textures/tex0994_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/Openworld/tex0994_01.png"
+    texture_2 "textures/Openworld/tex0994_02.png"
+}
+
+"textures/tex0995_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/Openworld/tex0995_01.png"
+    texture_2 "textures/Openworld/tex0995_02.png"
+}
+
+"textures/tex0996_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/Openworld/tex0996_01.png"
+    texture_2 "textures/Openworld/tex0996_02.png"
+}
+
+"textures/tex1020_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex1020_01.png"
+    texture_2 "textures/tex1020_02.png"
+    texture_3 "textures/tex1020_03.png"
+    texture_4 "textures/tex1020_04.png"
+    texture_5 "textures/tex1020_05.png"
+    texture_6 "textures/tex1020_06.png"
+    texture_7 "textures/tex1020_07.png"
+    texture_8 "textures/tex1020_08.png"
+    texture_9 "textures/tex1020_09.png"
+    texture_10 "textures/tex1020_10.png"
+    texture_11 "textures/tex1020_11.png"
+    texture_12 "textures/tex1020_12.png"
+    texture_13 "textures/tex1020_13.png"
+}
+
+"textures/tex1022_00.png"
+{
+    animated 0
+    speed 0
+
+    texture_1 "textures/tex1022_00.png"
+    texture_2 "textures/tex1022_00.png"
+    texture_3 "textures/tex1022_00.png"
+    texture_4 "textures/Openworld/tex1022_04.png"
+}

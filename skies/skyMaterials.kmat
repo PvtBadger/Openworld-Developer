@@ -1,0 +1,151 @@
+material sky_dark {
+    shader "progs/clouds"
+    sort default
+    blend
+    depthtest
+    alphatest
+    alphafunc gequal
+    alphamask 0.01
+    nodepthmask
+    color_diffuse "1.0 1.0 1.0 0.5"
+
+    sampler "diffuse" 0 "skies/sky_dark.png" {
+        filter      linear
+        wrap        repeat
+    }
+    
+    sampler "depthBuffer" 1 "_depthbuffer" {
+        filter      linear
+        wrap        repeat
+    }
+}
+
+material sky_brown {
+    shader "progs/clouds"
+    sort default
+    blend
+    depthtest
+    alphatest
+    alphafunc gequal
+    alphamask 0.01
+    nodepthmask
+
+    sampler "diffuse" 0 "skies/sky_brown.png" {
+        filter      linear
+        wrap        repeat
+    }
+    
+    sampler "depthBuffer" 1 "_depthbuffer" {
+        filter      linear
+        wrap        repeat
+    }
+}
+
+material sky_city1 {
+    shader "progs/clouds"
+    sort default
+    blend
+    depthtest
+    alphatest
+    alphafunc gequal
+    alphamask 0.01
+    nodepthmask
+    color_diffuse "0.9 0.875 0.68 0.5"
+
+    sampler "diffuse" 0 "skies/sky_grey1.png" {
+        filter      linear
+        wrap        repeat
+    }
+    
+    sampler "depthBuffer" 1 "_depthbuffer" {
+        filter      linear
+        wrap        repeat
+    }
+}
+
+material sky_city2 {
+    shader "progs/clouds"
+    sort default
+    blend
+    depthtest
+    alphatest
+    alphafunc gequal
+    alphamask 0.01
+    nodepthmask
+    color_diffuse "1.0 0.8 0.75 0.5"
+
+    sampler "diffuse" 0 "skies/sky_grey1.png" {
+        filter      linear
+        wrap        repeat
+    }
+    
+    sampler "depthBuffer" 1 "_depthbuffer" {
+        filter      linear
+        wrap        repeat
+    }
+}
+
+material sky_grey2 {
+    shader "progs/clouds"
+    sort default
+    blend
+    depthtest
+    alphatest
+    alphafunc gequal
+    alphamask 0.01
+    nodepthmask
+    color_diffuse "0.625 0.7 0.65 0.7"
+
+    sampler "diffuse" 0 "skies/sky_grey2.png" {
+        filter      linear
+        wrap        repeat
+    }
+    
+    sampler "depthBuffer" 1 "_depthbuffer" {
+        filter      linear
+        wrap        repeat
+    }
+}
+
+material sky_intro {
+    shader "progs/clouds"
+    sort default
+    blend
+    depthtest
+    alphatest
+    alphafunc gequal
+    alphamask 0.01
+    nodepthmask
+    color_diffuse "0.8 0.0 1.0 1.0"
+
+    sampler "diffuse" 0 "skies/sky_grey1.png" {
+        filter      linear
+        wrap        repeat
+    }
+    
+    sampler "depthBuffer" 1 "_depthbuffer" {
+        filter      linear
+        wrap        repeat
+    }
+}
+
+material sky_purple {
+    shader "progs/clouds"
+    sort default
+    blend
+    depthtest
+    alphatest
+    alphafunc gequal
+    alphamask 0.01
+    nodepthmask
+
+    sampler "diffuse" 0 "skies/sky_purple.png" {
+        filter      linear
+        wrap        repeat
+    }
+    
+    sampler "depthBuffer" 1 "_depthbuffer" {
+        filter      linear
+        wrap        repeat
+    }
+}

@@ -1,0 +1,15 @@
+material material_81
+{    	shader "progs/world"
+	sort default
+	cull back
+	depthtest
+	color_diffuse "1.000000 1.000000 1.000000 1.000000"
+	sampler "diffuse" 0 "textures/6ab06f1e.png" {	filter      linear   	wrap        repeat  	}}
+
+material material_88
+{    	shader "progs/world"
+	sort default
+	cull back
+	depthtest
+	color_diffuse "1.000000 1.000000 1.000000 1.000000"
+	sampler "diffuse" 0 "textures/41b0265b.png" {	filter      linear   	wrap        repeat  	}}

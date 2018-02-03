@@ -1,0 +1,302 @@
+Map_Training    0
+{
+    title           "training"
+    maxDistance_1    1500
+    map_1           "levels/level47.map"
+    mapid_1         47
+    script_1        "scripts/map/level47_script.txt"
+}
+
+Map_Hub         1
+{
+    title           "the hub"
+    map_1           "levels/level04.map"
+    map_2           "levels/level05.map"
+    mapid_1         4
+    mapid_2         5
+    maxDistance_1   1000
+    maxDistance_2   1000
+    warptid         10000
+    keys            6
+    script_1        "scripts/map/generic_script.txt"
+    script_2        "scripts/map/level05_script.txt"
+}
+
+Map_Jungle      2
+{
+    title           "the jungle"
+    map_1           "levels/level06.map"
+    map_2           "levels/level07.map"
+    mapid_1         6
+    mapid_2         7
+    maxDistance_1   1000
+    maxDistance_2   2000
+    warptid         11000
+    keys            3
+    script_1        "scripts/map/generic_script.txt"
+    script_2        "scripts/map/generic_script.txt"
+}
+
+Map_City        3
+{
+    title           "the ancient city"
+    map_1           "levels/level08.map"
+    map_2           "levels/level09.map"
+    map_3           "levels/level48.map"
+    mapid_1         8
+    mapid_2         9
+    mapid_3         48
+    maxDistance_1   2000
+    maxDistance_2   2000
+    maxDistance_3   500
+    warptid         12000
+    keys            3
+    script_1        "scripts/map/generic_script.txt"
+    script_2        "scripts/map/level09_script.txt"
+    script_3        "scripts/map/level48_script.txt"
+}
+
+Map_Ruins       4
+{
+    title           "the ruins"
+    map_1           "levels/level10.map"
+    map_2           "levels/level11.map"
+    mapid_1         10
+    mapid_2         11
+    maxDistance_1   1000
+    maxDistance_2   1500
+    warptid         13000
+    keys            3
+    script_1        "scripts/map/generic_script.txt"
+    script_2        "scripts/map/generic_script.txt"
+}
+
+Map_Catacombs   5
+{
+    title           "the catacombs"
+    map_1           "levels/level12.map"
+    map_2           "levels/level13.map"
+    map_3           "levels/level49.map"
+    mapid_1         12
+    mapid_2         13
+    mapid_3         49
+    maxDistance_1   1500
+    maxDistance_2   1000
+    warptid         14000
+    keys            3
+    script_1        "scripts/map/level12_script.txt"
+    script_2        "scripts/map/generic_script.txt"
+    script_3        "scripts/map/level49_script.txt"
+}
+
+Map_Village     6
+{
+    title           "the treetop village"
+    map_1           "levels/level14.map"
+    map_2           "levels/level15.map"
+    map_3           "levels/level16.map"
+    mapid_1         14
+    mapid_2         15
+    mapid_3         16
+    maxDistance_1   0
+    maxDistance_2   0
+    maxDistance_3   0
+    warptid         15000
+    keys            3
+    script_1        "scripts/map/generic_script.txt"
+    script_2        "scripts/map/generic_script.txt"
+    script_3        "scripts/map/generic_script.txt"
+}
+
+Map_LostLand    7
+{
+    title           "the lost land"
+    map_1           "levels/level17.map"
+    map_2           "levels/level18.map"
+    map_3           "levels/level19.map"
+    map_4           "levels/level20.map"
+    mapid_1         17
+    mapid_2         18
+    mapid_3         19
+    mapid_4         20
+    maxDistance_1   2000
+    maxDistance_2   2000
+    maxDistance_3   1000
+    maxDistance_4   1200
+    warptid         17000
+    keys            2
+    script_1        "scripts/map/generic_script.txt"
+    script_2        "scripts/map/generic_script.txt"
+    script_3        "scripts/map/generic_script.txt"
+    script_4        "scripts/map/generic_script.txt"
+}
+
+Map_Final       8
+{
+    title           "the final confrontation"
+    map_1           "levels/level21.map"
+    map_2           "levels/level22.map"
+    map_3           "levels/level23.map"
+    map_4           "levels/level24.map"
+    map_5           "levels/level25.map"
+    map_6           "levels/level03.map"
+    map_7           "levels/level00.map"
+    mapid_1         21
+    mapid_2         22
+    mapid_3         23
+    mapid_4         24
+    mapid_5         25
+    mapid_6         03
+    mapid_7         00
+    maxDistance_1   3000
+    maxDistance_2   1500
+    maxDistance_3   1500
+    maxDistance_4   1000
+    maxDistance_5   1000
+    maxDistance_6   500
+    maxDistance_7   0
+    warptid         18000
+    script_1        "scripts/map/generic_script.txt"
+    script_2        "scripts/map/generic_script.txt"
+    script_3        "scripts/map/generic_script.txt"
+    script_4        "scripts/map/generic_script.txt"
+    script_5        "scripts/map/generic_script.txt"
+    script_6        "scripts/map/level03_script.txt"
+    script_7        "scripts/map/level00_script.txt"
+}
+
+Map_Ending      9
+{
+    title           "ending"
+    map_1           "levels/level01.map"
+    map_2           "levels/level02.map"
+    mapid_1         01
+    mapid_2         02
+    maxDistance_1   0
+    maxDistance_2   0
+    script_1        "scripts/map/level01_script.txt"
+    script_2        "scripts/map/level02_script.txt"
+}
+
+Map_Title       10
+{
+    title           "title"
+    map_1           "levels/level46.map"
+    map_2           "levels/level43.map"
+    map_3           "levels/level42.map"
+    map_4           "levels/level45.map"
+    mapid_1         46
+    mapid_2         43
+    mapid_3         42
+    mapid_4         45
+    maxDistance_1   0
+    maxDistance_2   0
+    maxDistance_3   0
+    maxDistance_4   0
+    script_1        "scripts/map/level46_script.txt"
+    script_2        "scripts/map/level43_script.txt"
+    script_3        "scripts/map/level42_script.txt"
+    script_4        "scripts/map/level45_script.txt"
+}
+
+Map_SpiritWorld 11
+{
+    title           "spirit world"
+    map_1           "levels/level26.map"
+    map_2           "levels/level27.map"
+    map_3           "levels/level28.map"
+    map_4           "levels/level29.map"
+    map_5           "levels/level30.map"
+    map_6           "levels/level31.map"
+    map_7           "levels/level32.map"
+    map_8           "levels/level33.map"
+    map_9           "levels/level34.map"
+    map_10          "levels/level35.map"
+    map_11          "levels/level36.map"
+    map_12          "levels/level37.map"
+    map_13          "levels/level38.map"
+    map_14          "levels/level39.map"
+    map_15          "levels/level40.map"
+    map_16          "levels/level41.map"
+    mapid_1         26
+    mapid_2         27
+    mapid_3         28
+    mapid_4         29
+    mapid_5         30
+    mapid_6         31
+    mapid_7         32
+    mapid_8         33
+    mapid_9         34
+    mapid_10        35
+    mapid_11        36
+    mapid_12        37
+    mapid_13        38
+    mapid_14        39
+    mapid_15        40
+    mapid_16        41
+    maxDistance_1   1000
+    maxDistance_2   1000
+    maxDistance_3   1000
+    maxDistance_4   1000
+    maxDistance_5   1000
+    maxDistance_6   500
+    maxDistance_7   0
+    maxDistance_8   1000
+    maxDistance_9   1000
+    maxDistance_10  500
+    maxDistance_11  1000
+    maxDistance_12  1000
+    maxDistance_13  1000
+    maxDistance_14  1000
+    maxDistance_15  1000
+    maxDistance_16  1000
+}
+
+Map_Gallery    12
+{
+    title           "gallery"
+    maxDistance_1    0
+    map_1           "levels/level50.map"
+    mapid_1         50
+    script_1        "scripts/map/level50_script.txt"
+}
+
+Map_Overworld_zero_zero    13
+{
+    title           "openworld 044 00"
+    maxDistance_1   1500
+    map_1           "levels/openworld.map"
+    mapid_1         101
+}
+
+Map_Overworld_zero_minus_one    14
+{
+    title           "openworld 044 0-1"
+    maxDistance_1   1500
+    map_1           "levels/zerominus1.map"
+    mapid_1         102
+}
+
+Map_Mission_goldenrod_desert    15
+{
+    title           "openworld 044 goldenrod desert"
+    maxDistance_1   1500
+    map_1           "levels/goldenroddesert.map"
+    mapid_1         103
+}
+
+Map_Overworld_plisskenbarxmas    16
+{
+    title           "openworld 044 plisskenbarxmas"
+    maxDistance_1   1500
+    map_1           "levels/plisskenbarxmas.map"
+    mapid_1         104
+}
+
+Map_Xmas_Valley    17
+{
+    title           "openworld 044 xmasvalley"
+    maxDistance_1   1500
+    map_1           "levels/xmascave.map"
+    mapid_1         105
+}

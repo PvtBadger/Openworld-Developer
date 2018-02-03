@@ -1,0 +1,12 @@
+material texture {
+    shader "progs/world"
+    sort default
+    cull back
+    depthtest
+    color_diffuse "1.000000 1.000000 1.000000 1.000000"
+
+    sampler "diffuse" 0 "textures/template.png" {
+        filter      linear
+        wrap        repeat
+    }
+}

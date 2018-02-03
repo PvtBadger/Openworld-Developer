@@ -1,0 +1,55 @@
+material postTop {
+    shader "progs/world"
+    sort default
+    cull back
+    depthtest
+    color_diffuse "1.000000 1.000000 1.000000 1.000000"
+
+    sampler "diffuse" 0 "textures/TurokPlusTerminalTop.png" {
+        filter      linear
+        wrap        repeat
+    }
+}
+
+material postTopLight {
+    shader "progs/world"
+    fullbright
+    sort default
+    cull back
+    depthtest
+    color_diffuse "1.000000 1.000000 1.000000 1.000000"
+
+    sampler "diffuse" 0 "textures/TurokPlusTerminalTop.png" {
+        filter      linear
+        wrap        repeat
+    }
+}
+
+material frame {
+    shader "progs/worldSphereMap"
+    sort default
+    cull back
+    depthtest
+    color_diffuse "1.000000 1.000000 1.000000 1.000000"
+
+    sampler "diffuse" 0 "textures/tex1035_00.png" {
+        filter      linear
+        wrap        repeat
+    }
+}
+
+// copy of mat_detail_tech_monitor02, but with other screen texture
+material screen {
+    shader "progs/world"
+    fullbright
+    blend
+    sort transclucent
+    cull back
+    depthtest
+    color_diffuse "1.000000 1.000000 1.000000 0.625000"
+
+    sampler "diffuse" 0 "textures/tex0600_00.png" {
+        filter      linear
+        wrap        repeat
+    }
+}

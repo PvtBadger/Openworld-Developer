@@ -1,0 +1,14 @@
+// model 0000, node 00, variant 00, section 00
+material surf_00_0000A {
+    shader "progs/world"
+    sort default
+    cull back
+    depthtest
+    color_diffuse "1.000000 1.000000 1.000000 1.000000"
+
+    sampler "diffuse" 0 "textures/texMovieClouds1_00.png" {
+        filter      linear
+        wrap        repeat
+    }
+}
+

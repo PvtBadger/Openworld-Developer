@@ -1,0 +1,39 @@
+material material_1
+{    	shader "progs/world"
+	sort default
+	cull back
+	depthtest
+	color_diffuse "1.000000 1.000000 1.000000 1.000000"
+	sampler "diffuse" 0 "textures/293a6121.png" {	filter      linear   	wrap        repeat  	}}
+
+material material_10
+{    	shader "progs/world"
+	sort default
+	cull back
+	depthtest
+	color_diffuse "1.000000 1.000000 1.000000 1.000000"
+	sampler "diffuse" 0 "textures/75273cdd.png" {	filter      linear   	wrap        repeat  	}}
+
+material material_16
+{    	shader "progs/world"
+	sort default
+	cull back
+	depthtest
+	color_diffuse "1.000000 1.000000 1.000000 1.000000"
+	sampler "diffuse" 0 "textures/e13af193.png" {	filter      linear   	wrap        repeat  	}}
+
+material material_17
+{    	shader "progs/world"
+	sort default
+	cull back
+	depthtest
+	color_diffuse "1.000000 1.000000 1.000000 1.000000"
+	sampler "diffuse" 0 "textures/662db3e5.png" {	filter      linear   	wrap        repeat  	}}
+
+material material_19
+{    	shader "progs/world"
+	sort default
+	cull back
+	depthtest
+	color_diffuse "1.000000 1.000000 1.000000 1.000000"
+	sampler "diffuse" 0 "textures/df6d421c.png" {	filter      linear   	wrap        repeat  	}}

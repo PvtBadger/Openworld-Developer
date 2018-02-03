@@ -1,0 +1,35 @@
+sounds[1] =
+{
+    {
+        wavefile = "sounds/waves/quadcity1.wav"
+        bOneInstancePerSource = 1
+        bLoop = 0
+        bEnableVolumeEnvelope = 0
+        bEnablePitchEnvelope = 0
+        bFadeIfObstructed = 1
+        bUpdateNoEnvelope = 1
+        bLinkToEnvelope = 0
+        bFullVolume = 0
+        delay = 0
+        priority = 142
+        random = 1.000000
+        radioVolume = 2
+        volume_envelope =
+        {
+            max = 1.000000
+            start = 1.000000
+            end = 1.000000
+            duration = 60
+            envStartTime = 0
+        }
+
+        pitch_envelope =
+        {
+            max = 1.000000
+            start = 4.000000
+            end = 4.000000
+            duration = 60
+            envStartTime = 0
+        }
+    }
+}

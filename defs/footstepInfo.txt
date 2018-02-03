@@ -1,0 +1,56 @@
+FootStep_Common
+{
+    // default
+    surface_0       "sounds/shaders/light_jungle_footfall.ksnd"
+    
+    // water
+    surface_1       "sounds/shaders/water_footfall.ksnd"
+    
+    // metal
+    surface_2       "sounds/shaders/metal_footfall.ksnd"
+    
+    // stone
+    surface_3       "sounds/shaders/stone_footfall.ksnd"
+}
+
+FootStep_Raptor
+{
+    // default
+    surface_0       "sounds/shaders/raptor_footfall.ksnd"
+}
+
+FootStep_Dimetrodon
+{
+    // default
+    surface_0       "sounds/shaders/dimetrodon_footfall.ksnd"
+}
+
+FootStep_Purlin
+{
+    // default
+    surface_0       "sounds/shaders/hulk_footfall.ksnd"
+}
+
+FootStep_Rider
+{
+    // default
+    surface_0       "sounds/shaders/triceratops_footfall.ksnd"
+}
+
+FootStep_TRex
+{
+    // default
+    surface_0       "sounds/shaders/trex_footfall.ksnd"
+}
+
+FootStep_Robot
+{
+    // default
+    surface_0       "sounds/shaders/robot_footfall.ksnd"
+}
+
+FootStep_TerrorRaptor
+{
+    // default
+    surface_0       "sounds/shaders/raptor_terrorfootfall.ksnd"
+}

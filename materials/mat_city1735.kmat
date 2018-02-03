@@ -1,0 +1,28 @@
+// model 1735, section 00
+material surf_1735_00_00 {
+    shader "progs/world"
+    sort default
+    cull back
+    depthtest
+    color_diffuse "1.000000 1.000000 1.000000 1.000000"
+
+    sampler "diffuse" 0 "textures/marbletr.png" {
+        filter      linear
+        wrap        repeat
+    }
+}
+
+// model 1735, section 01
+material surf_1735_00_01 {
+    shader "progs/world"
+    sort default
+    cull back
+    depthtest
+    color_diffuse "1.000000 1.000000 1.000000 1.000000"
+
+    sampler "diffuse" 0 "textures/tern-g02.png" {
+        filter      linear
+        wrap        repeat
+    }
+}
+
