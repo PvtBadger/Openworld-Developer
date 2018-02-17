@@ -263,7 +263,7 @@ Map_Gallery    12
 
 Map_Overworld_zero_zero    13
 {
-    title           "openworld 044 00"
+    title           "openworld 045 00"
     maxDistance_1   1500
     map_1           "levels/openworld.map"
     mapid_1         101
@@ -271,7 +271,7 @@ Map_Overworld_zero_zero    13
 
 Map_Overworld_zero_minus_one    14
 {
-    title           "openworld 044 0-1"
+    title           "openworld 045 0-1"
     maxDistance_1   1500
     map_1           "levels/zerominus1.map"
     mapid_1         102
@@ -279,24 +279,32 @@ Map_Overworld_zero_minus_one    14
 
 Map_Mission_goldenrod_desert    15
 {
-    title           "openworld 044 goldenrod desert"
+    title           "openworld 045 goldenrod desert"
     maxDistance_1   1500
     map_1           "levels/goldenroddesert.map"
     mapid_1         103
 }
 
-Map_Overworld_plisskenbarxmas    16
+Map_Overworld_plisskenbar    16
 {
-    title           "openworld 044 plisskenbarxmas"
+    title           "openworld 045 plisskenbar"
     maxDistance_1   1500
-    map_1           "levels/plisskenbarxmas.map"
+    map_1           "levels/plisskenbar.map"
     mapid_1         104
 }
 
 Map_Xmas_Valley    17
 {
-    title           "openworld 044 xmasvalley"
+    title           "openworld 045 xmasvalley"
     maxDistance_1   1500
     map_1           "levels/xmascave.map"
     mapid_1         105
+}
+
+Map_Whiskey_Everglades    18
+{
+    title           "openworld 045 whiskeyeverglades"
+    maxDistance_1   1500
+    map_1           "levels/whiskeyeverglades.map"
+    mapid_1         106
 }
